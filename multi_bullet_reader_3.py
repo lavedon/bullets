@@ -25,6 +25,8 @@ import csv
 
 #Use _ORIGINAL for the all, unrated
 
+#TODO Make these classes instead of global variables
+
 BOB_BLY_FILENAME = ""
 BOB_BLY_BULLETS = []
 BOB_BLY_SORTED_BULLETS = []
@@ -40,6 +42,11 @@ JOHN_CARLTON_FILENAME = ""
 JOHN_CARTLON_BULLETS = []
 JOHN_CARLTON_SORTED_BULLETS = []
 JOHN_CARLTON_KEY = ""
+
+MAKEPEACE_FIILENAME = ""
+MAKEPEACE_BULLETS = []
+MAKEPEACE_SORTED_BULLETS = []
+MAKEPEACE_KEY = ""
 
 ZERGNET_FILENAME = ""
 ZERGNET_BULLETS = []
@@ -81,17 +88,19 @@ def load_filenames():
     '''
     This function reads each line of the main 5 text files and returns lists
     '''
+    #TODO integrate with tKinter - so user can select the path
     #get the filenames
     #os.chdir('E:\\Writing\\Copywork\\Bullet Swipe File\\')
     #print("Changed the working directory to:")
     #print(os.getcwd());
-    return ("E:\Writing\Copywork\Bullet Swipe File\\bob_bly.txt",
-            "E:\Writing\Copywork\Bullet Swipe File\gary_bencievenga.txt",
-            "E:\Writing\Copywork\Bullet Swipe File\john_carlton.txt",
-            "E:\Writing\Copywork\Bullet Swipe File\zergnet_bullets.txt",
-            "E:\Writing\Copywork\Bullet Swipe File\halbert_bullets.txt",
-            "E:\Writing\Copywork\Bullet Swipe File\settle_bullets.txt",
-            "E:\Writing\Agency\Dan Ray\\final_rated_bombs.csv")
+    return ("F:\Writing\Copywork\Bullet Swipe File\\bob_bly.txt",
+            "F:\Writing\Copywork\Bullet Swipe File\gary_bencievenga.txt",
+            "F:\Writing\Copywork\Bullet Swipe File\john_carlton.txt",
+            "F:\Writing\Copywork\Bullet Swipe File\makepeace_bullets.txt",
+            "F:\Writing\Copywork\Bullet Swipe File\zergnet_bullets.txt",
+            "F:\Writing\Copywork\Bullet Swipe File\halbert_bullets.txt",
+            "F:\Writing\Copywork\Bullet Swipe File\settle_bullets.txt",
+            "F:\Writing\Agency\Dan Ray\\final_rated_bombs.csv")
     print("Bly is " + BOB_BLY)
 
 def csv_to_lists(filename):
@@ -150,6 +159,7 @@ def read_input(user_input):
         print('Bob Bly Bullets: ' + BOB_BLY_KEY)
         print('Gary Bencievenga: ' + GARY_B_KEY)
         print('John Carlton Bullets: ' + JOHN_CARLTON_KEY)
+        print('Clayton Makepeace Bullets: ' + MAKEPEACE_KEY)
         print('Gary Halbert Bullets: ' + HALBERT_KEY)
         print('Ben Settle Bullets: ' + SETTLE_KEY)
         print('ZergNet Headlines: ' + ZERGNET_KEY)
@@ -187,6 +197,9 @@ def read_input(user_input):
             elif which_author.lower() == JOHN_CARLTON_KEY:
                 global JOHN_CARLTON_SORTED_BULLETS
                 JOHN_CARLTON_SORTED_BULLETS = return_bullets_by_rating(JOHN_CARLTON_BULLETS, rating)
+            elif which_author.lower() == MAKEPEACE_KEY:
+                global MAKEPEACE_SORTED_BULLETS
+                MAKEPEACE_SORTED_BULLETS = return_bullets_by_rating(MAKEPEACE_BULLETS, rating)
             elif which_author.lower() == HALBERT_KEY:
                 global HALBERT_SORTED_BULLETS
                 HALBERT_SORTED_BULLETS = return_bullets_by_rating(HALBERT_BULLETS, rating)
@@ -218,6 +231,11 @@ def read_input(user_input):
             process_bullet(JOHN_CARLTON_BULLETS)
         elif SORT_BY_RATING == True:
             process_bullet(JOHN_CARLTON_SORTED_BULLETS)
+    elif user_input.lower() == MAKEPEACE_KEY:
+        if SORT_BY_RATING == False:
+            process_bullet(MAKEPEACE_BULLETS)
+        elif SORT_BY_RATING == True:
+            process_bullet(MAKEPEACE_SORTED_BULLETS)
     elif user_input.lower() == HALBERT_KEY:
         if SORT_BY_RATING == False:
             process_bullet(HALBERT_BULLETS)
@@ -340,13 +358,15 @@ def return_bullets_by_rating(bullets, rating):
 ##
 
 print("Calling load_filenames()")
-BOB_BLY_FILENAME, GARY_B_FILENAME, JOHN_CARLTON_FILENAME, ZERGNET_FILENAME, HALBERT_FILENAME, SETTLE_FILENAME, CURRENT_CAMPAIGN_FILENAME = load_filenames()
+BOB_BLY_FILENAME, GARY_B_FILENAME, JOHN_CARLTON_FILENAME, MAKEPEACE_FIILENAME, ZERGNET_FILENAME, HALBERT_FILENAME, SETTLE_FILENAME, CURRENT_CAMPAIGN_FILENAME = load_filenames()
 print("Fetching Bly bullets")
 BOB_BLY_BULLETS = file_to_lists(BOB_BLY_FILENAME)
 print("Fetching Gary B bullets")
 GARY_B_BULLETS = file_to_lists(GARY_B_FILENAME)
 print("Fetching John Carlton bullets")
 JOHN_CARLTON_BULLETS = file_to_lists(JOHN_CARLTON_FILENAME)
+print("Fetching Clayton Makepeace bullets")
+MAKEPEACE_BULLETS = file_to_lists(MAKEPEACE_FIILENAME)
 print("Fetching Zergnet bullets")
 ZERGNET_BULLETS = file_to_lists(ZERGNET_FILENAME)
 print("Fetching Halbert bullets")
@@ -360,6 +380,7 @@ CURRENT_CAMPAIGN_BOMBS = csv_to_lists(CURRENT_CAMPAIGN_FILENAME)
 BOB_BLY_KEY = 'b'
 GARY_B_KEY = 'g'
 JOHN_CARLTON_KEY = 'j'
+MAKEPEACE_KEY = 'm'
 ZERGNET_KEY = 'z'
 HALBERT_KEY = 'h'
 SETTLE_KEY = 's'
