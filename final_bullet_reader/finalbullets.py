@@ -28,15 +28,17 @@ class Author():
         self.sorted_bullets = []
         self.keybinding = keybinding
         self.fileName = fileName
+        self.rating_cutoff = 0
         Author._bulletCount += 1
+
     def __str__(self):
         """Display important object attributes."""
 
         display = "Author {0} #{1}.  Keybinding: {2}.  File Name {3}".format(
-                                                        self.name,
-                                                        self.my_number,
-                                                        self.keybinding,
-                                                        self.fileName)
+            self.name,
+            self.my_number,
+            self.keybinding,
+            self.fileName)
         return display
 
 
@@ -58,9 +60,9 @@ def save_configuration():
     Also save all_authors[].
     """
     print("Saving...")
-    pickle.dump( all_authors, open( configFileName, "wb"))
+    pickle.dump(all_authors, open(configFileName, "wb"))
     logging.info("Saved pickle file to '{}'".format(configFileName))
-    
+
 
 def load_configuration():
     """
@@ -70,11 +72,11 @@ def load_configuration():
     Automatically loads that into memory.
     """
     #  @TODO use os.path to see if the file is in the directory
+    global all_authors
     print("Loading config file....")
-    all_authors = pickle.load( open( configFileName, "rb"))
-        
+    all_authors = pickle.load(open(configFileName, "rb"))
     logging.info("Opened pickle config file from '{}'".format(configFileName))
-    logging.info("all_author now equals: {}".format(all_authors))
+    logging.info("all_authors now equals: {}".format(str(all_authors)))
 
 
 def load_author():
@@ -91,8 +93,8 @@ def load_author():
         newAuthor = Author(authorName, fileName, keyBinding)
         logging.info("Created an author object named {0}, from file: {1}, \
                         with keybinding{2}  ".format(newAuthor.name,
-                                            newAuthor.fileName,
-                                            newAuthor.keybinding))
+                                                     newAuthor.fileName,
+                                                     newAuthor.keybinding))
 
         all_authors.append(newAuthor)
         logging.info("These many authors now exist: {} ".format(len(all_authors)))
@@ -105,12 +107,13 @@ def load_author():
         newAuthor.temp_bullets = newAuthor.all_bullets
         logging.info("Author {} has {} \
             .all_bullets and [] .temp_bullets".format(newAuthor.name,
-                                                newAuthor.fileName,
-                                                newAuthor.keybinding))
+                                                      newAuthor.fileName,
+                                                      newAuthor.keybinding))
         # @TODO update author object with lists
     except Exception as e:
         print("Error assigning bullets to author object")
         print(e)
+
 
 def file_to_lists(fileName):
     """
@@ -121,7 +124,7 @@ def file_to_lists(fileName):
     try:
         logging.info("Called file_to_lists()")
         bulletList = []
-        #Open the file. Strip out new line character.
+        # Open the file. Strip out new line character.
         with open(fileName) as f:
             bullets = f.readlines()
             bullets = [x.strip() for x in bullets]
@@ -133,7 +136,6 @@ def file_to_lists(fileName):
     except Exception as e:
         print("Error loading bullets")
         print(e)
-
 
 
 def menu_help():
@@ -167,7 +169,7 @@ def read_input(user_input):
         save_configuration()
     elif user_input.lower() == 'lc':
         load_configuration()
- #  else:
+    # else:
         #   Iterate through all authors see if a key was pressed
 
 
