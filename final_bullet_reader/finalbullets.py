@@ -219,6 +219,8 @@ def process_bullet(author):
     #  Check if rating mode is activated if so pass the bullet
     #  along to rate_me()
     if RATING_MODE_TOGGLE == True:
+        import pdb
+        pdb.set_trace()
         print(bullet)
         # set the bullet rating in the 2D array - to returned value from rate_me()
         which_bullets[bullet_num][1] = rate_me(bullet, bullet_num)
