@@ -3,8 +3,11 @@ from tkinter import filedialog
 import logging
 import pickle
 import os
+import random
 
+#  @TODO add globals to a user profile object.
 all_authors = []
+RATING_MODE_TOGGLE = False
 configFileName = "config.p"
 logging.basicConfig(filename='bullet_reader.log', level=logging.INFO,
                     format='%(levelname)s:%(message)s:%(asctime)s')
@@ -24,7 +27,7 @@ class Author():
         self.my_number = Author._bulletCount
         self.name = name
         self.all_bullets = []  # loads all bullets for this author
-        self.temp_bullets = []  # will remove bullets we have seen
+        self.temp_bullets = []  # will remove bullets we have seen.  Copies over from all_bullets when this mode is activated.
         self.sorted_bullets = []
         self.keybinding = keybinding
         self.fileName = fileName
@@ -71,7 +74,7 @@ def load_configuration():
     If a JSON file exists with configuration
     Automatically loads that into memory.
     """
-    #  @TODO use os.path to see if the file is in the directory
+    #  @TODO pickle the author # and make it work.
     global all_authors
     print("Loading config file....")
     all_authors = pickle.load(open(configFileName, "rb"))
@@ -156,6 +159,11 @@ def menu_help():
 
 def read_input(user_input):
     """Read the users input then call the appropriate function."""
+    for author in all_authors:
+        if author.keybinding == user_input.lower():
+            logging.info("User selected {0} by pressing {1}".format(author, user_input))
+            process_bullet(author)
+
     if user_input.lower() == 'l':
         print("Loading author")
         load_author()
@@ -169,8 +177,58 @@ def read_input(user_input):
         save_configuration()
     elif user_input.lower() == 'lc':
         load_configuration()
-    # else:
-        #   Iterate through all authors see if a key was pressed
+    elif user_input.lower() == 'r':
+        RATING_MODE_TOGGLE = True
+        print("Rating mode on")
+        logging.info("RATING_MODE_TOGGLE now set to: ".format(RATING_MODE_TOGGLE))
+    else:
+        return
+
+
+def rate_me(bullet, bullet_num):
+    """  Adds a rating to the selected bullet. """
+
+    logging.info("Rate me called.")
+    print("Current rating is: " + str(bullet[1]))
+    user_input = input("enter a rating between 1 - 5: ")
+
+    try:
+        if 1 <= int(user_input) <= 5:
+            logging.info("user_input is a rating of:" + str(user_input))
+            rating = int(user_input)
+        else:
+            print("Not a valid rating (Not a integer)")
+        return rating
+    except NameError:
+        logging.info("rate_me() threw NameError")
+        print("Input was not a digit - please try again.")
+    except ValueError:
+        logging.info("rate_me() threw ValueError")
+        print("Not a valid rating")
+
+
+def process_bullet(author):
+    """ pass in whichever author the user chose
+
+    First evaluates if rating mode is activated.  If so
+    then calls the rate_me function with the correct bullet list
+    """
+    bullet_num = int(random.randrange(len(author.all_bullets)))
+    bullet = author.all_bullets[int(bullet_num)]
+
+    #  Check if rating mode is activated if so pass the bullet
+    #  along to rate_me()
+    if RATING_MODE_TOGGLE == True:
+        print(bullet)
+        # set the bullet rating in the 2D array - to returned value from rate_me()
+        which_bullets[bullet_num][1] = rate_me(bullet, bullet_num)
+        print("You rated: \n" + str(which_bullets[bullet_num][0]) + "\n" + str(which_bullets[bullet_num][1]))
+    else:
+        print(bullet)
+
+
+def return_bullets_by_rating(bullets, rating):
+    pass
 
 
 if __name__ == "__main__":
@@ -183,3 +241,6 @@ if __name__ == "__main__":
         except ValueError as e:
             print(e)
             read_input(input("Enter selection: "))
+
+
+# @TODO way to delete author
