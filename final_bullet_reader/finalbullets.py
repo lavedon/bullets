@@ -128,14 +128,18 @@ def file_to_lists(fileName):
         logging.info("Called file_to_lists()")
         bulletList = []
         # Open the file. Strip out new line character.
+        # @TODO make bullets a 2d array not just a list of strings
         with open(fileName) as f:
             bullets = f.readlines()
-            bullets = [x.strip() for x in bullets]
-
-        for i in bullets:
-            bulletList.append(i)
-        logging.info("Added {} bullets to bulletlist".format(len(bulletList)))
-        return bulletList
+            bullets = [bullet.strip() for bullet in bullets]
+            #  Makes bullets a 2d array, string of bullet and
+            for i in bullets:
+                new_bullets = []
+                new_bullets.append(i)
+                new_bullets.append(0)
+                bulletList.append(new_bullets)
+                logging.info("Added {} bullets to bulletlist".format(len(bulletList)))
+            return bulletList
     except Exception as e:
         print("Error loading bullets")
         print(e)
@@ -159,6 +163,8 @@ def menu_help():
 
 def read_input(user_input):
     """Read the users input then call the appropriate function."""
+    global RATING_MODE_TOGGLE
+
     for author in all_authors:
         if author.keybinding == user_input.lower():
             logging.info("User selected {0} by pressing {1}".format(author, user_input))
@@ -181,15 +187,25 @@ def read_input(user_input):
         RATING_MODE_TOGGLE = True
         print("Rating mode on")
         logging.info("RATING_MODE_TOGGLE now set to: ".format(RATING_MODE_TOGGLE))
+    elif user_input.lower() == 'del':
+        delete_author()
     else:
         return
+
+
+def delete_author():
+    global all_authors
+    user_input = input("Enter key for author you would like to delete:")
+    for author in all_authors:
+        if author.keybinding == user_input.lower():
+            all_authors.remove(author)
 
 
 def rate_me(bullet, bullet_num):
     """  Adds a rating to the selected bullet. """
 
     logging.info("Rate me called.")
-    print("Current rating is: " + str(bullet[1]))
+    print("Current rating is: " + str(bullet[1]))  # @TODO Change this to all.authors with bullet_num
     user_input = input("enter a rating between 1 - 5: ")
 
     try:
@@ -213,20 +229,25 @@ def process_bullet(author):
     First evaluates if rating mode is activated.  If so
     then calls the rate_me function with the correct bullet list
     """
+
+    #  @TODO change author.all_bullets to a temporary variabe.
+    #  Check which mode is turned on.  If temp_bullets i.e.
+    #  Delete your bullet after rating.  Make variabe =
+    #  author.temp_bullets NOT author.all_bullets
     bullet_num = int(random.randrange(len(author.all_bullets)))
     bullet = author.all_bullets[int(bullet_num)]
-
     #  Check if rating mode is activated if so pass the bullet
     #  along to rate_me()
     if RATING_MODE_TOGGLE == True:
-        import pdb
-        pdb.set_trace()
-        print(bullet)
+
+        print(bullet[0])
         # set the bullet rating in the 2D array - to returned value from rate_me()
-        which_bullets[bullet_num][1] = rate_me(bullet, bullet_num)
-        print("You rated: \n" + str(which_bullets[bullet_num][0]) + "\n" + str(which_bullets[bullet_num][1]))
+        author.all_bullets[bullet_num][1] = rate_me(bullet, bullet_num)
+        #  are we not going to need to pass author also?
+        print("You rated: \n" + str(author.all_bullets[bullet_num][0]) + "\n" + str(author.all_bullets[bullet_num][1]))
+
     else:
-        print(bullet)
+        print(bullet[0])
 
 
 def return_bullets_by_rating(bullets, rating):
@@ -245,4 +266,4 @@ if __name__ == "__main__":
             read_input(input("Enter selection: "))
 
 
-# @TODO way to delete author
+# @TODO turn on temp mode
