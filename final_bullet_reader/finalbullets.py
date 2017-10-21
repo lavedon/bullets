@@ -277,6 +277,21 @@ def sort_bullets():
     Asks the user what author he wants to sort and by what rating he would like to sort.  Passes author and rating selection to return_bullets_by_rating.  Updates the author object with the sorted bullets.  author.sorted_bullets = return_bullets_by_rating(author, rating)
     """
 
+    logging.info("Called sort_bullets")
+    author_selection=input("Which author would you like to sort?")
+    rating=input("Display bullets only rated WHAT and above.")
+    print("sorting...")
+    logging.info("User chose {0} author and to sort by rating {1}".format(author_selection.lower(), str(rating)))
+    for author in all_authors:
+        if author_selection.lower() == author:
+            author.sorted_bullets=return_bullets_by_rating(author.all_bullets, rating)
+
+
+#  @TODO function to apply either sorted_bullets or all_bullets
+#  to temp.
+
+
+
 
 if __name__ == "__main__":
     main()
