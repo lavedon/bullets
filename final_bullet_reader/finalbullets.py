@@ -8,6 +8,7 @@ import random
 #  @TODO add globals to a user profile object.
 all_authors = []
 RATING_MODE_TOGGLE = False
+SORT_BY_RATING_TOGGLE = True
 configFileName = "config.p"
 logging.basicConfig(filename='bullet_reader.log', level=logging.INFO,
                     format='%(levelname)s:%(message)s:%(asctime)s')
@@ -188,11 +189,11 @@ def read_input(user_input):
         RATING_MODE_TOGGLE = True
         print("Rating mode on")
         logging.info("RATING_MODE_TOGGLE now set to: ".format(RATING_MODE_TOGGLE))
-    elif user_input.lower() == 'sort'
+    elif user_input.lower() == 'sort':
         print("Sort by rating toggle now on")
         SORT_BY_RATING_TOGGLE = True
         logging.info("Sort bullets by rating now on.")
-        logging.info("Now call return_bullets_by_rating bullets by rating()".format()
+        logging.info("Now call return_bullets_by_rating bullets by rating()".format())
     elif user_input.lower() == 'del':
         delete_author()
     else:
@@ -201,7 +202,7 @@ def read_input(user_input):
 
 def delete_author():
     global all_authors
-    user_input=input("Enter key for author you would like to delete:")
+    user_input = input("Enter key for author you would like to delete:")
     for author in all_authors:
         if author.keybinding == user_input.lower():
             all_authors.remove(author)
@@ -212,12 +213,12 @@ def rate_me(bullet, bullet_num):
 
     logging.info("Rate me called.")
     print("Current rating is: " + str(bullet[1]))  # @TODO Change this to all.authors with bullet_num
-    user_input=input("enter a rating between 1 - 5: ")
+    user_input = input("enter a rating between 1 - 5: ")
 
     try:
         if 1 <= int(user_input) <= 5:
             logging.info("user_input is a rating of:" + str(user_input))
-            rating=int(user_input)
+            rating = int(user_input)
         else:
             print("Not a valid rating (Not a integer)")
         return rating
@@ -241,16 +242,21 @@ def process_bullet(author):
     #  Delete your bullet after rating.  Make variabe =
     #  author.temp_bullets NOT author.all_bullets
 
-    bullet_num=int(random.randrange(len(author.all_bullets)))
-    bullet=author.all_bullets[int(bullet_num)]
+    if SORT_BY_RATING_TOGGLE:
+        bullet_num = int(random.randrange(len(author.sorted_bullets)))
+        bullet = author.sorted_bullets[int(bullet_num)]
+    else:
+        bullet_num = int(random.randrange(len(author.all_bullets)))
+        bullet = author.all_bullets[int(bullet_num)]
     #  Check if rating mode is activated if so pass the bullet
     #  along to rate_me()
 
-    if RATING_MODE_TOGGLE == True:
+# SHOULD THESE BE TWO FUNCTIONS?
+    if RATING_MODE_TOGGLE:
 
         print(bullet[0])
         # set the bullet rating in the 2D array - to returned value from rate_me()
-        author.all_bullets[bullet_num][1]=rate_me(bullet, bullet_num)
+        author.all_bullets[bullet_num][1] = rate_me(bullet, bullet_num)
         #  are we not going to need to pass author also?
         print("You rated: \n" + str(author.all_bullets[bullet_num][0]) + "\n" + str(author.all_bullets[bullet_num][1]))
 
@@ -265,7 +271,7 @@ def return_bullets_by_rating(bullets, rating):
     and returns only those equal to and above a
     certain rating.
     """
-    rated_bullets=[bullet for bullet in bullets if int(bullet[1]) >= int(rating)]
+    rated_bullets = [bullet for bullet in bullets if int(bullet[1]) >= int(rating)]
     return rated_bullets
 
 
@@ -278,23 +284,18 @@ def sort_bullets():
     """
 
     logging.info("Called sort_bullets")
-    author_selection=input("Which author would you like to sort?")
-    rating=input("Display bullets only rated WHAT and above.")
+    author_selection = input("Which author would you like to sort?")
+    rating = input("Display bullets only rated WHAT and above.")
     print("sorting...")
     logging.info("User chose {0} author and to sort by rating {1}".format(author_selection.lower(), str(rating)))
     for author in all_authors:
         if author_selection.lower() == author:
-            author.sorted_bullets=return_bullets_by_rating(author.all_bullets, rating)
+            author.sorted_bullets = return_bullets_by_rating(author.all_bullets, rating)
+            logging.info("Returned sorted bullets for {}".format(author))
 
 
 #  @TODO function to apply either sorted_bullets or all_bullets
-#  to temp.
-
-
-
-
-if __name__ == "__main__":
-    main()
+#  to temp.  MAY JUST BE ABLE TO USE WITH REPLACEMENT ON #  RANDOM.CHOICE
 
 
 def main():
@@ -310,3 +311,6 @@ def main():
 
 
 # @TODO turn on temp mode
+
+if __name__ == "__main__":
+    main()
