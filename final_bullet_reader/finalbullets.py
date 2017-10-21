@@ -242,12 +242,9 @@ def process_bullet(author):
     #  Delete your bullet after rating.  Make variabe =
     #  author.temp_bullets NOT author.all_bullets
 
-    if SORT_BY_RATING_TOGGLE:
-        bullet_num = int(random.randrange(len(author.sorted_bullets)))
-        bullet = author.sorted_bullets[int(bullet_num)]
-    else:
-        bullet_num = int(random.randrange(len(author.all_bullets)))
-        bullet = author.all_bullets[int(bullet_num)]
+    #  @TODO MAKE THIS SHIT WORK
+    bullet_num = int(random.randrange(len(author.all_bullets)))
+    bullet = author.all_bullets[int(bullet_num)]
     #  Check if rating mode is activated if so pass the bullet
     #  along to rate_me()
 
