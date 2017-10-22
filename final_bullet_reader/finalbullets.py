@@ -33,6 +33,10 @@ class Author():
         self.keybinding = keybinding
         self.fileName = fileName
         self.rating_cutoff = 0
+        #  When SORT_BY_RATING_TOGGLE = True
+        #  self.rating_cutoff = # to not return
+        #  bullets below
+
         Author._bulletCount += 1
 
     def __str__(self):
@@ -129,7 +133,7 @@ def file_to_lists(fileName):
         logging.info("Called file_to_lists()")
         bulletList = []
         # Open the file. Strip out new line character.
-        # @TODO make bullets a 2d array not just a list of strings
+
         with open(fileName) as f:
             bullets = f.readlines()
             bullets = [bullet.strip() for bullet in bullets]
@@ -149,8 +153,11 @@ def file_to_lists(fileName):
 def menu_help():
     """Display list of all commands."""
     print("Help:")
-    print("Press L to load an author.")
-    print("Press Q to quit.")
+    print("L to load an author.")
+    print("Q to quit.")
+    print("'sort' to sort by rating.")
+    print("R to turn on rating mode.")
+    print("'lc' to load a pickle file")
     try:
         if all_authors:
             #  If this list is not empty. If there is at least 1 author object
@@ -182,14 +189,18 @@ def read_input(user_input):
     elif user_input.lower() == 'h':
         menu_help()
     elif user_input.lower() == 's':
+        # Pickle all author objects
         save_configuration()
     elif user_input.lower() == 'lc':
         load_configuration()
     elif user_input.lower() == 'r':
+        #  Turn on rating mode
         RATING_MODE_TOGGLE = True
+
         print("Rating mode on")
         logging.info("RATING_MODE_TOGGLE now set to: ".format(RATING_MODE_TOGGLE))
     elif user_input.lower() == 'sort':
+        #  Turn on sort by rating
         print("Sort by rating toggle now on")
         SORT_BY_RATING_TOGGLE = True
         logging.info("Sort bullets by rating now on.")
@@ -243,12 +254,20 @@ def process_bullet(author):
     #  author.temp_bullets NOT author.all_bullets
 
     #  @TODO MAKE THIS SHIT WORK
-    bullet_num = int(random.randrange(len(author.all_bullets)))
-    bullet = author.all_bullets[int(bullet_num)]
+    if SORT_BY_RATING_TOGGLE:
+        bullet_num = int(random.randrange(len(author.all_bullets)))
+        #  if author.all_bullets < ####RATING VARIABLE
+
+        bullet = author.all_bullets[int(bullet_num)]
+        bullet = author.return_bullets_by_rating
+    # else:
+      #  process_bullet(author)
+    else:
+        bullet_num = int(random.randrange(len(author.all_bullets)))
+        bullet = author.all_bullets[int(bullet_num)]
     #  Check if rating mode is activated if so pass the bullet
     #  along to rate_me()
 
-# SHOULD THESE BE TWO FUNCTIONS?
     if RATING_MODE_TOGGLE:
 
         print(bullet[0])
@@ -272,10 +291,10 @@ def return_bullets_by_rating(bullets, rating):
     return rated_bullets
 
 
-def sort_bullets():
+def sort_bullets(author):
     """
     Call this function once the user decides to turn on sort by
-    rating mode.  A sub-routine not a function.
+    rating mode.  Pass in the author to sort.
 
     Asks the user what author he wants to sort and by what rating he would like to sort.  Passes author and rating selection to return_bullets_by_rating.  Updates the author object with the sorted bullets.  author.sorted_bullets = return_bullets_by_rating(author, rating)
     """

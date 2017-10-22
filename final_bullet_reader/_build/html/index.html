@@ -1,0 +1,200 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Welcome to Copywriting Bullets’s documentation! &#8212; Copywriting Bullets 0.4.0 documentation</title>
+    <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.4.0',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true,
+        SOURCELINK_SUFFIX: '.txt'
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+   
+  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head>
+  <body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="welcome-to-copywriting-bullets-s-documentation">
+<h1>Welcome to Copywriting Bullets’s documentation!<a class="headerlink" href="#welcome-to-copywriting-bullets-s-documentation" title="Permalink to this headline">¶</a></h1>
+<p>This is my introduction to this project.</p>
+<p>Requirements:</p>
+<p>My project depends on xyz package</p>
+<div class="toctree-wrapper compound">
+</div>
+<span class="target" id="module-finalbullets"></span><dl class="class">
+<dt id="finalbullets.Author">
+<em class="property">class </em><code class="descclassname">finalbullets.</code><code class="descname">Author</code><span class="sig-paren">(</span><em>name</em>, <em>fileName</em>, <em>keybinding</em><span class="sig-paren">)</span><a class="reference internal" href="_modules/finalbullets.html#Author"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#finalbullets.Author" title="Permalink to this definition">¶</a></dt>
+<dd><p>Author class contains all the loaded bullets.</p>
+<p>This class also contains a temporary list temp_bullets[].
+Bullets are removed from temp_bullets[] after they are displayed.
+Turning on rating mode resets this list.</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="finalbullets.file_to_lists">
+<code class="descclassname">finalbullets.</code><code class="descname">file_to_lists</code><span class="sig-paren">(</span><em>fileName</em><span class="sig-paren">)</span><a class="reference internal" href="_modules/finalbullets.html#file_to_lists"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#finalbullets.file_to_lists" title="Permalink to this definition">¶</a></dt>
+<dd><p>Loads all bullets and returns a list.</p>
+<p>Accepts a string as filename.</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="finalbullets.get_filename">
+<code class="descclassname">finalbullets.</code><code class="descname">get_filename</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="reference internal" href="_modules/finalbullets.html#get_filename"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#finalbullets.get_filename" title="Permalink to this definition">¶</a></dt>
+<dd><p>Open a tkinter window and return a file name.</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="finalbullets.load_author">
+<code class="descclassname">finalbullets.</code><code class="descname">load_author</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="reference internal" href="_modules/finalbullets.html#load_author"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#finalbullets.load_author" title="Permalink to this definition">¶</a></dt>
+<dd><p>Create a new author object from Author class.</p>
+<p>Append this new author object to all_authors = [].</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="finalbullets.load_configuration">
+<code class="descclassname">finalbullets.</code><code class="descname">load_configuration</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="reference internal" href="_modules/finalbullets.html#load_configuration"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#finalbullets.load_configuration" title="Permalink to this definition">¶</a></dt>
+<dd><p>Load saved user configuration.</p>
+<p>If a JSON file exists with configuration
+Automatically loads that into memory.</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="finalbullets.menu_help">
+<code class="descclassname">finalbullets.</code><code class="descname">menu_help</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="reference internal" href="_modules/finalbullets.html#menu_help"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#finalbullets.menu_help" title="Permalink to this definition">¶</a></dt>
+<dd><p>Display list of all commands.</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="finalbullets.process_bullet">
+<code class="descclassname">finalbullets.</code><code class="descname">process_bullet</code><span class="sig-paren">(</span><em>author</em><span class="sig-paren">)</span><a class="reference internal" href="_modules/finalbullets.html#process_bullet"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#finalbullets.process_bullet" title="Permalink to this definition">¶</a></dt>
+<dd><p>pass in whichever author the user chose</p>
+<p>First evaluates if rating mode is activated.  If so
+then calls the rate_me function with the correct bullet list</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="finalbullets.rate_me">
+<code class="descclassname">finalbullets.</code><code class="descname">rate_me</code><span class="sig-paren">(</span><em>bullet</em>, <em>bullet_num</em><span class="sig-paren">)</span><a class="reference internal" href="_modules/finalbullets.html#rate_me"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#finalbullets.rate_me" title="Permalink to this definition">¶</a></dt>
+<dd><p>Adds a rating to the selected bullet.</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="finalbullets.read_input">
+<code class="descclassname">finalbullets.</code><code class="descname">read_input</code><span class="sig-paren">(</span><em>user_input</em><span class="sig-paren">)</span><a class="reference internal" href="_modules/finalbullets.html#read_input"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#finalbullets.read_input" title="Permalink to this definition">¶</a></dt>
+<dd><p>Read the users input then call the appropriate function.</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="finalbullets.return_bullets_by_rating">
+<code class="descclassname">finalbullets.</code><code class="descname">return_bullets_by_rating</code><span class="sig-paren">(</span><em>bullets</em>, <em>rating</em><span class="sig-paren">)</span><a class="reference internal" href="_modules/finalbullets.html#return_bullets_by_rating"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#finalbullets.return_bullets_by_rating" title="Permalink to this definition">¶</a></dt>
+<dd><p>Takes the authors bullets and rating integer
+the user requests.  Iterates through all bullets
+and returns only those equal to and above a
+certain rating.</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="finalbullets.save_configuration">
+<code class="descclassname">finalbullets.</code><code class="descname">save_configuration</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="reference internal" href="_modules/finalbullets.html#save_configuration"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#finalbullets.save_configuration" title="Permalink to this definition">¶</a></dt>
+<dd><p>Save the user configuration for the next session use.</p>
+<p>For examples saves what authors have been loaded into memory.
+Also save all_authors[].</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="finalbullets.sort_bullets">
+<code class="descclassname">finalbullets.</code><code class="descname">sort_bullets</code><span class="sig-paren">(</span><em>author</em><span class="sig-paren">)</span><a class="reference internal" href="_modules/finalbullets.html#sort_bullets"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#finalbullets.sort_bullets" title="Permalink to this definition">¶</a></dt>
+<dd><p>Call this function once the user decides to turn on sort by
+rating mode.  Pass in the author to sort.</p>
+<p>Asks the user what author he wants to sort and by what rating he would like to sort.  Passes author and rating selection to return_bullets_by_rating.  Updates the author object with the sorted bullets.  author.sorted_bullets = return_bullets_by_rating(author, rating)</p>
+</dd></dl>
+
+</div>
+<div class="section" id="indices-and-tables">
+<h1>Indices and tables<a class="headerlink" href="#indices-and-tables" title="Permalink to this headline">¶</a></h1>
+<ul class="simple">
+<li><a class="reference internal" href="genindex.html"><span class="std std-ref">Index</span></a></li>
+<li><a class="reference internal" href="py-modindex.html"><span class="std std-ref">Module Index</span></a></li>
+<li><a class="reference internal" href="search.html"><span class="std std-ref">Search Page</span></a></li>
+</ul>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="#">Copywriting Bullets</a></h1>
+
+
+
+
+
+
+
+
+<h3>Navigation</h3>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="#">Documentation overview</a><ul>
+  </ul></li>
+</ul>
+</div>
+<div id="searchbox" style="display: none" role="search">
+  <h3>Quick search</h3>
+    <form class="search" action="search.html" method="get">
+      <div><input type="text" name="q" /></div>
+      <div><input type="submit" value="Go" /></div>
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2017, Luke Avedon.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 1.6.4</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.10</a>
+      
+      |
+      <a href="_sources/index.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>
