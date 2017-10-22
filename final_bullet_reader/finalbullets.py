@@ -157,6 +157,7 @@ def menu_help():
     print("Q to quit.")
     print("'sort' to sort by rating.")
     print("R to turn on rating mode.")
+    print("S to save")
     print("'lc' to load a pickle file")
     try:
         if all_authors:
@@ -201,10 +202,10 @@ def read_input(user_input):
         logging.info("RATING_MODE_TOGGLE now set to: ".format(RATING_MODE_TOGGLE))
     elif user_input.lower() == 'sort':
         #  Turn on sort by rating
-        print("Sort by rating toggle now on")
+        print("Sort bullets by rating")
         SORT_BY_RATING_TOGGLE = True
         logging.info("Sort bullets by rating now on.")
-        logging.info("Now call return_bullets_by_rating bullets by rating()".format())
+
     elif user_input.lower() == 'del':
         delete_author()
     else:
@@ -254,31 +255,31 @@ def process_bullet(author):
     #  author.temp_bullets NOT author.all_bullets
 
     #  @TODO MAKE THIS SHIT WORK
+
+    #  Use temp bullets if rating mode off.
+    #  Clean up this code!
+
+
     if SORT_BY_RATING_TOGGLE:
-        bullet_num = int(random.randrange(len(author.all_bullets)))
-        #  if author.all_bullets < ####RATING VARIABLE
-
-        bullet = author.all_bullets[int(bullet_num)]
-        bullet = author.return_bullets_by_rating
-    # else:
-      #  process_bullet(author)
-    else:
-        bullet_num = int(random.randrange(len(author.all_bullets)))
-        bullet = author.all_bullets[int(bullet_num)]
-    #  Check if rating mode is activated if so pass the bullet
-    #  along to rate_me()
-
-    if RATING_MODE_TOGGLE:
-
+        bullets = author.sorted_bullets
+        bullet_num = int(random.randrange(len(bullets)))
+        bullet = bullets[int(bullet_num)]
+        print(bullet[0])
+        #  Check if rating mode is activated if so pass the bullet
+        #  along to rate_me()
+    elif SORT_BY_RATING_TOGGLE == False and RATING_MODE_TOGGLE == False:
+        bullets = author.all_bullets
+        bullet_num = int(random.randrange(len(bullets)))
+        bullet = bullets[int(bullet_num)]
+        print(bullet[0])
+    elif RATING_MODE_TOGGLE:
+        bullet_num = int(random.randrange(len(bullets)))
+        bullet = bullets[int(bullet_num)]
         print(bullet[0])
         # set the bullet rating in the 2D array - to returned value from rate_me()
         author.all_bullets[bullet_num][1] = rate_me(bullet, bullet_num)
         #  are we not going to need to pass author also?
         print("You rated: \n" + str(author.all_bullets[bullet_num][0]) + "\n" + str(author.all_bullets[bullet_num][1]))
-
-    else:
-        print(bullet[0])
-
 
 def return_bullets_by_rating(bullets, rating):
     """
@@ -291,7 +292,7 @@ def return_bullets_by_rating(bullets, rating):
     return rated_bullets
 
 
-def sort_bullets(author):
+def sort_bullets():
     """
     Call this function once the user decides to turn on sort by
     rating mode.  Pass in the author to sort.
@@ -301,11 +302,14 @@ def sort_bullets(author):
 
     logging.info("Called sort_bullets")
     author_selection = input("Which author would you like to sort?")
+
     rating = input("Display bullets only rated WHAT and above.")
-    print("sorting...")
+    print("sorting...{0}.  Removing bullets only rated {1} and below.".format(author_selection, rating))
+    # now change return bullets by rating to only
     logging.info("User chose {0} author and to sort by rating {1}".format(author_selection.lower(), str(rating)))
     for author in all_authors:
         if author_selection.lower() == author:
+            #  Should this be return_bullets_by_rating?
             author.sorted_bullets = return_bullets_by_rating(author.all_bullets, rating)
             logging.info("Returned sorted bullets for {}".format(author))
 
