@@ -37,7 +37,9 @@ class Author():
         #  When SORT_BY_RATING_TOGGLE = True
         #  self.rating_cutoff = # to not return
         #  bullets below
-
+        self.temp_rating_mode = False
+        #  turn on temp_rating_mode when you want
+        #  author to delete bullets after displaying them.
         Author._bulletCount += 1
 
     def __str__(self):
