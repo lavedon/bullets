@@ -116,7 +116,7 @@ def load_author():
         newAuthor.temp_bullets = newAuthor.all_bullets
         logging.info("Author {} has {} \
             .all_bullets and [] .temp_bullets".format(newAuthor.name,
-                                                      newAuthor.fileName,
+                                                    newAuthor.fileName,
                                                       newAuthor.keybinding))
         # @TODO update author object with lists
     except Exception as e:
@@ -197,16 +197,25 @@ def read_input(user_input):
         load_configuration()
     elif user_input.lower() == 'r':
         #  Turn on rating mode
-        RATING_MODE_TOGGLE = True
-
-        print("Rating mode on")
+        if RATING_MODE_TOGGLE:
+            RATING_MODE_TOGGLE = False
+            print("Rating mode off")
+        else:
+            RATING_MODE_TOGGLE = True
+            print("Rating mode on")
         logging.info("RATING_MODE_TOGGLE now set to: ".format(RATING_MODE_TOGGLE))
     elif user_input.lower() == 'sort':
         #  Turn on sort by rating
         print("Sort bullets by rating")
-        SORT_BY_RATING_TOGGLE = True
-        logging.info("Sort bullets by rating now on.")
-        sort_bullets()
+        if SORT_BY_RATING_TOGGLE:
+            SORT_BY_RATING_TOGGLE = False
+            print("Turning off sorted bullets")
+        else:
+            SORT_BY_RATING_TOGGLE = True
+            print("Now displaying sorted bullets")
+            sort_bullets()
+        logging.info("Sort bullets by rating togge is {}".format(SORT_BY_RATING_TOGGLE))
+
     elif user_input.lower() == 'del':
         delete_author()
     else:
@@ -259,8 +268,7 @@ def process_bullet(author):
 
     #  Use temp bullets if rating mode off.
     #  Clean up this code!
-
-    if SORT_BY_RATING_TOGGLE:
+    if SORT_BY_RATING_TOGGLE and author.sorted_bullets:
         bullets = author.sorted_bullets
     else:
         bullets = author.all_bullets
@@ -276,6 +284,8 @@ def process_bullet(author):
         bullets[bullet_num][1] = rate_me(bullet, bullet_num)
         #  are we not going to need to pass author also?
         print("You rated: \n" + str(bullets[bullet_num][0]) + "\n" + str(bullets[bullet_num][1]))
+    else:
+        print(bullet[0])
 
 
 def return_bullets_by_rating(bullets, rating):
@@ -310,7 +320,7 @@ def sort_bullets():
             author.sorted_bullets = return_bullets_by_rating(author.all_bullets, rating)
             aithor.sorted_temp_bulles = return_bullets_by_rating(author.temp_bullets, rating)
             logging.info("Returned sorted bullets for {}".format(author))
-            logging.info("Sorted {0}'s {1} bullets.".format(author.name, len(author.sorted_bullets))
+            logging.info("Sorted {0}'s {1} bullets.".format(author.name, len(author.sorted_bullets)))
 
 
 #  @TODO function to apply either sorted_bullets or all_bullets
@@ -327,8 +337,6 @@ def main():
         except ValueError as e:
             print(e)
             read_input(input("Enter selection: "))
-
-
 # @TODO turn on temp mode
 
 if __name__ == "__main__":
