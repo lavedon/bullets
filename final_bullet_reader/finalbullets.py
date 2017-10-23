@@ -8,7 +8,7 @@ import random
 #  @TODO add globals to a user profile object.
 all_authors = []
 RATING_MODE_TOGGLE = False
-SORT_BY_RATING_TOGGLE = True
+SORT_BY_RATING_TOGGLE = False
 configFileName = "config.p"
 logging.basicConfig(filename='bullet_reader.log', level=logging.INFO,
                     format='%(levelname)s:%(message)s:%(asctime)s')
@@ -116,7 +116,7 @@ def load_author():
         newAuthor.temp_bullets = newAuthor.all_bullets
         logging.info("Author {} has {} \
             .all_bullets and [] .temp_bullets".format(newAuthor.name,
-                                                    newAuthor.fileName,
+                                                      newAuthor.fileName,
                                                       newAuthor.keybinding))
         # @TODO update author object with lists
     except Exception as e:
@@ -295,8 +295,15 @@ def return_bullets_by_rating(bullets, rating):
     and returns only those equal to and above a
     certain rating.
     """
-    rated_bullets = [bullet for bullet in bullets if int(bullet[1]) >= int(rating)]
-    return rated_bullets
+    #  Clean out Nones, make them equal to 0
+    for i in range(len(bullets)):
+        if bullets[i][1] == None:
+            bullets[i][1] = 0
+    try:
+        rated_bullets = [bullet for bullet in bullets if int(bullet[1]) >= int(rating)]
+        return rated_bullets
+    except TypeError as e:
+        logging.info("Type error when returning bullets by rating")
 
 
 def sort_bullets():
@@ -314,11 +321,13 @@ def sort_bullets():
     print("sorting...{0}.  Removing bullets only rated {1} and below.".format(author_selection, rating))
     # now change return bullets by rating to only
     logging.info("User chose {0} author and to sort by rating {1}".format(author_selection.lower(), str(rating)))
+
     for author in all_authors:
-        if author_selection.lower() == author:
+        if author_selection.lower() == author.keybinding:
             #  Should this be return_bullets_by_rating?
             author.sorted_bullets = return_bullets_by_rating(author.all_bullets, rating)
-            aithor.sorted_temp_bulles = return_bullets_by_rating(author.temp_bullets, rating)
+            author.sorted_temp_bulles = return_bullets_by_rating(author.temp_bullets, rating)
+            print("Sorted {}'s bullets.".format(author.name))
             logging.info("Returned sorted bullets for {}".format(author))
             logging.info("Sorted {0}'s {1} bullets.".format(author.name, len(author.sorted_bullets)))
 
@@ -338,6 +347,7 @@ def main():
             print(e)
             read_input(input("Enter selection: "))
 # @TODO turn on temp mode
+
 
 if __name__ == "__main__":
     main()
