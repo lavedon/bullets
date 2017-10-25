@@ -38,6 +38,7 @@ class Author():
         #  self.rating_cutoff = # to not return
         #  bullets below
         self.temp_rating_mode = False
+        self.bullets_returned_so_far = []
         #  turn on temp_rating_mode when you want
         #  author to delete bullets after displaying them.
         Author._bulletCount += 1
@@ -278,6 +279,8 @@ def process_bullet(author):
     #  Now process bullets
 
     bullet_num = int(random.randrange(len(bullets)))
+    author.bullets_returned_so_far.append(bullet_num)
+    logging.info("bullet number{} has been shown.".format(bullet_num))
     bullet = bullets[int(bullet_num)]
 
     if RATING_MODE_TOGGLE:
