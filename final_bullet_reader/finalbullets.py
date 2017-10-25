@@ -9,6 +9,7 @@ import random
 all_authors = []
 RATING_MODE_TOGGLE = False
 SORT_BY_RATING_TOGGLE = False
+ONLY_SHOW_ONCE_TOGGLE = False
 configFileName = "config.p"
 logging.basicConfig(filename='bullet_reader.log', level=logging.INFO,
                     format='%(levelname)s:%(message)s:%(asctime)s')
@@ -28,16 +29,17 @@ class Author():
         self.my_number = Author._bulletCount
         self.name = name
         self.all_bullets = []  # loads all bullets for this author
-        self.temp_bullets = []  # will remove bullets we have seen.  Copies over from all_bullets when this mode is activated.
+        #  self.temp_bullets = []  # will remove bullets we have seen.  Copies over from all_bullets when this mode is activated.
         self.sorted_bullets = []
-        self.sorted_temp_bullets = []
+        # self.sorted_temp_bullets = []
         self.keybinding = keybinding
         self.fileName = fileName
         self.rating_cutoff = 0
         #  When SORT_BY_RATING_TOGGLE = True
         #  self.rating_cutoff = # to not return
         #  bullets below
-        self.temp_rating_mode = False
+        #  self.temp_rating_mode = False
+        #  @TODO Add self.temp to save unique bullets with an #  author object rating on and off.
         self.bullets_returned_so_far = []
         #  turn on temp_rating_mode when you want
         #  author to delete bullets after displaying them.
@@ -116,12 +118,7 @@ def load_author():
     #  Read the file and put bullets into a list
     try:
         newAuthor.all_bullets = file_to_lists(fileName)
-        newAuthor.temp_bullets = newAuthor.all_bullets
-        logging.info("Author {} has {} \
-            .all_bullets and [] .temp_bullets".format(newAuthor.name,
-                                                      newAuthor.fileName,
-                                                      newAuthor.keybinding))
-        # @TODO update author object with lists
+        #  newAuthor.temp_bullets = newAuthor.all_bullets
     except Exception as e:
         print("Error assigning bullets to author object")
         print(e)
@@ -162,6 +159,7 @@ def menu_help():
     print("'sort' to sort by rating.")
     print("R to turn on rating mode.")
     print("S to save")
+    print("'Only' Only show bullets once mode.")
     print("'lc' to load a pickle file")
     try:
         if all_authors:
@@ -178,6 +176,7 @@ def read_input(user_input):
     """Read the users input then call the appropriate function."""
     global RATING_MODE_TOGGLE
     global SORT_BY_RATING_TOGGLE
+    global ONLY_SHOW_ONCE_TOGGLE
 
     for author in all_authors:
         if author.keybinding == user_input.lower():
@@ -221,6 +220,11 @@ def read_input(user_input):
 
     elif user_input.lower() == 'del':
         delete_author()
+
+    elif user_input.lower() == 'only':
+        ONLY_SHOW_ONCE_TOGGLE = True
+        logging.info("ONLY_SHOW_ONCE_TOGGLE now = {}".format(ONLY_SHOW_ONCE_TOGGLE))
+        print("Will now only show new, unique bullets.")
     else:
         return
 
@@ -255,6 +259,23 @@ def rate_me(bullet, bullet_num):
         print("Not a valid rating")
 
 
+def get_bullets(author):
+    """Returns correct bullets to use"""
+    if SORT_BY_RATING_TOGGLE and author.sorted_bullets:
+        bullets = author.sorted_bullets
+    else:
+        bullets = author.all_bullets
+
+    return bullets
+
+
+def get_bullet_num(author):
+    """ Takes an author and returns a bullet number"""
+    bullets = get_bullets(author)
+    bullet_num = bullet_num = int(random.randrange(len(bullets)))
+    return bullet_num
+
+
 def process_bullet(author):
     """ pass in whichever author the user chose
 
@@ -262,25 +283,18 @@ def process_bullet(author):
     then calls the rate_me function with the correct bullet list
     """
 
-    #  @TODO change author.all_bullets to a temporary variabe.
-    #  Check which mode is turned on.  If temp_bullets i.e.
-    #  Delete your bullet after rating.  Make variabe =
-    #  author.temp_bullets NOT author.all_bullets
-
-    #  @TODO MAKE THIS SHIT WORK
-
-    #  Use temp bullets if rating mode off.
     #  Clean up this code!
-    if SORT_BY_RATING_TOGGLE and author.sorted_bullets:
-        bullets = author.sorted_bullets
-    else:
-        bullets = author.all_bullets
 
     #  Now process bullets
+    bullet_num = get_bullet_num(author)
+    if ONLY_SHOW_ONCE_TOGGLE:
+        while bullet_num in author.bullets_returned_so_far:
+            bullet_num = get_bullet_num(author)
 
-    bullet_num = int(random.randrange(len(bullets)))
     author.bullets_returned_so_far.append(bullet_num)
+
     logging.info("bullet number{} has been shown.".format(bullet_num))
+    bullets = get_bullets(author)
     bullet = bullets[int(bullet_num)]
 
     if RATING_MODE_TOGGLE:
@@ -331,7 +345,7 @@ def sort_bullets():
         if author_selection.lower() == author.keybinding:
             #  Should this be return_bullets_by_rating?
             author.sorted_bullets = return_bullets_by_rating(author.all_bullets, rating)
-            author.sorted_temp_bulles = return_bullets_by_rating(author.temp_bullets, rating)
+            #  author.sorted_temp_bulles = return_bullets_by_rating(author.temp_bullets, rating)
             print("Sorted {}'s bullets.".format(author.name))
             logging.info("Returned sorted bullets for {}".format(author))
             logging.info("Sorted {0}'s {1} bullets.".format(author.name, len(author.sorted_bullets)))
