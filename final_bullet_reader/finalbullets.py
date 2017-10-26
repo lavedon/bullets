@@ -227,7 +227,7 @@ def read_input(user_input):
         ONLY_SHOW_ONCE_TOGGLE = True
         logging.info("ONLY_SHOW_ONCE_TOGGLE now = {}".format(ONLY_SHOW_ONCE_TOGGLE))
         print("Will now only show new, unique bullets.")
-    
+
     elif user_input.lower() == 'export':
         print("Exporting a CSV file")
         save_file()
@@ -361,25 +361,26 @@ def save_file():
     """
     Take the 2D list of bullets, and save it as a CSV file
     """
-    selection = input("Which author would you like export as CSV? (by Key)")
-    for author in all_authors:
-        if selection == author.keybinding:
-            author_to_save = author
+    # iterate through bullets save to SV
 
-    root = Tk()
-    csvName = filedialog.asksaveasfilename(filetypes=(("CSV files", "*.csv"),))
-    csvFile = open('csvName', 'w')
-    
+    bullets = []
+    select_key = input("Select author to export")
+    for author in all_authors:
+        if select_key.lower() == author.keybinding:
+            bullets.extend(author.all_bullets)
+    csvFile = open('saved_bullets.csv', 'w')
     try:
         writer = csv.writer(csvFile, dialect='excel')
         writer.writerow(('Bullet', 'Rating'))
-        for bullet in author.all_bullets:
+        for bullet in bullets:
             writer.writerow(bullet)
+
     finally:
+        print("saving your file")
         csvFile.close()
-        root.destroy()
-        
-	
+    #  @TODO allow user to choose export filename
+
+
 #  @TODO function to apply either sorted_bullets or all_bullets
 #  to temp.  MAY JUST BE ABLE TO USE WITH REPLACEMENT ON #  RANDOM.CHOICE
 
