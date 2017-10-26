@@ -4,6 +4,7 @@ import logging
 import pickle
 import os
 import random
+import csv
 
 #  @TODO add globals to a user profile object.
 all_authors = []
@@ -161,6 +162,7 @@ def menu_help():
     print("S to save")
     print("'Only' Only show bullets once mode.")
     print("'lc' to load a pickle file")
+    print("'export' to export a CSV file")
     try:
         if all_authors:
             #  If this list is not empty. If there is at least 1 author object
@@ -225,6 +227,10 @@ def read_input(user_input):
         ONLY_SHOW_ONCE_TOGGLE = True
         logging.info("ONLY_SHOW_ONCE_TOGGLE now = {}".format(ONLY_SHOW_ONCE_TOGGLE))
         print("Will now only show new, unique bullets.")
+    
+    elif user_input.lower() == 'export':
+        print("Exporting a CSV file")
+        save_file()
     else:
         return
 
@@ -351,6 +357,29 @@ def sort_bullets():
             logging.info("Sorted {0}'s {1} bullets.".format(author.name, len(author.sorted_bullets)))
 
 
+def save_file():
+    """
+    Take the 2D list of bullets, and save it as a CSV file
+    """
+    selection = input("Which author would you like export as CSV? (by Key)")
+    for author in all_authors:
+        if selection == author.keybinding:
+            author_to_save = author
+
+    root = Tk()
+    csvName = filedialog.asksaveasfilename(filetypes=(("CSV files", "*.csv"),))
+    csvFile = open('csvName', 'w')
+    
+    try:
+        writer = csv.writer(csvFile, dialect='excel')
+        writer.writerow(('Bullet', 'Rating'))
+        for bullet in author.all_bullets:
+            writer.writerow(bullet)
+    finally:
+        csvFile.close()
+        root.destroy()
+        
+	
 #  @TODO function to apply either sorted_bullets or all_bullets
 #  to temp.  MAY JUST BE ABLE TO USE WITH REPLACEMENT ON #  RANDOM.CHOICE
 
