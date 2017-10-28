@@ -224,9 +224,13 @@ def read_input(user_input):
         delete_author()
 
     elif user_input.lower() == 'only':
-        ONLY_SHOW_ONCE_TOGGLE = True
-        logging.info("ONLY_SHOW_ONCE_TOGGLE now = {}".format(ONLY_SHOW_ONCE_TOGGLE))
-        print("Will now only show new, unique bullets.")
+        if ONLY_SHOW_ONCE_TOGGLE:
+            print("Will show  bullets multiple times")
+            ONLY_SHOW_ONCE_TOGGLE = False
+        else:
+            ONLY_SHOW_ONCE_TOGGLE = True
+            logging.info("ONLY_SHOW_ONCE_TOGGLE now = {}".format(ONLY_SHOW_ONCE_TOGGLE))
+            print("Will now only show new, unique bullets.")
 
     elif user_input.lower() == 'export':
         print("Exporting a CSV file")
@@ -267,7 +271,7 @@ def rate_me(bullet, bullet_num):
 
 def get_bullets(author):
     """Returns correct bullets to use"""
-    if SORT_BY_RATING_TOGGLE and author.sorted_bullets:
+    if SORT_BY_RATING_TOGGLE and author
         bullets = author.sorted_bullets
     else:
         bullets = author.all_bullets

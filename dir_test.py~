@@ -1,0 +1,8 @@
+class Foo:
+    def __init__(self):
+        self.name = "Penis"
+        self.langues = ["Python", "French", "English"]
+        self.height = 10
+
+
+
