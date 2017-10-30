@@ -2091,3 +2091,2289 @@ INFO:Rate me called.:2017-10-30 16:27:26,119
 INFO:user_input is a rating of:1:2017-10-30 16:27:29,726
 INFO:Saved pickle file to 'config.p':2017-10-30 16:27:40,230
 INFO:Saved pickle file to 'config.p':2017-10-30 16:27:41,036
+INFO:Opened pickle config file from 'config.p':2017-10-30 16:33:30,674
+INFO:all_authors now equals: [<__main__.Author object at 0x032A27B0>, <__main__.Author object at 0x032A2290>, <__main__.Author object at 0x032A2810>, <__main__.Author object at 0x032A2830>, <__main__.Author object at 0x032A2850>, <__main__.Author object at 0x032A2890>, <__main__.Author object at 0x032A28B0>, <__main__.Author object at 0x032A2930>, <__main__.Author object at 0x032A2970>, <__main__.Author object at 0x032A2990>]:2017-10-30 16:33:30,679
+INFO:RATING_MODE_TOGGLE now set to: :2017-10-30 16:33:33,805
+INFO:ONLY_SHOW_ONCE_TOGGLE now = True:2017-10-30 16:33:34,748
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:33:35,516
+INFO:bullet number336 has been shown.:2017-10-30 16:34:37,589
+INFO:Rate me called.:2017-10-30 16:34:37,589
+INFO:user_input is a rating of:1:2017-10-30 16:34:42,508
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:34:42,748
+INFO:bullet number105 has been shown.:2017-10-30 16:34:42,748
+INFO:Rate me called.:2017-10-30 16:34:42,748
+INFO:user_input is a rating of:1:2017-10-30 16:34:45,388
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:34:45,571
+INFO:bullet number422 has been shown.:2017-10-30 16:34:45,571
+INFO:Rate me called.:2017-10-30 16:34:45,572
+INFO:user_input is a rating of:1:2017-10-30 16:34:47,507
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:34:47,707
+INFO:bullet number490 has been shown.:2017-10-30 16:34:47,707
+INFO:Rate me called.:2017-10-30 16:34:47,708
+INFO:user_input is a rating of:1:2017-10-30 16:34:49,939
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:34:50,259
+INFO:bullet number365 has been shown.:2017-10-30 16:34:50,260
+INFO:Rate me called.:2017-10-30 16:34:50,260
+INFO:user_input is a rating of:1:2017-10-30 16:34:53,067
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:34:53,331
+INFO:bullet number73 has been shown.:2017-10-30 16:34:53,331
+INFO:Rate me called.:2017-10-30 16:34:53,332
+INFO:user_input is a rating of:1:2017-10-30 16:34:55,083
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:34:55,355
+INFO:bullet number66 has been shown.:2017-10-30 16:34:55,355
+INFO:Rate me called.:2017-10-30 16:34:55,356
+INFO:user_input is a rating of:1:2017-10-30 16:34:58,707
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:34:58,980
+INFO:bullet number248 has been shown.:2017-10-30 16:34:58,980
+INFO:Rate me called.:2017-10-30 16:34:58,981
+INFO:user_input is a rating of:1:2017-10-30 16:35:01,355
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:35:01,627
+INFO:bullet number226 has been shown.:2017-10-30 16:35:01,627
+INFO:Rate me called.:2017-10-30 16:35:01,627
+INFO:user_input is a rating of:3:2017-10-30 16:35:06,242
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:35:06,483
+INFO:bullet number492 has been shown.:2017-10-30 16:35:06,483
+INFO:Rate me called.:2017-10-30 16:35:06,483
+INFO:user_input is a rating of:1:2017-10-30 16:35:11,771
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:35:12,363
+INFO:bullet number133 has been shown.:2017-10-30 16:35:12,363
+INFO:Rate me called.:2017-10-30 16:35:12,364
+INFO:user_input is a rating of:1:2017-10-30 16:35:15,571
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:35:15,779
+INFO:bullet number11 has been shown.:2017-10-30 16:35:15,779
+INFO:Rate me called.:2017-10-30 16:35:15,780
+INFO:user_input is a rating of:1:2017-10-30 16:35:22,299
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:35:22,571
+INFO:bullet number472 has been shown.:2017-10-30 16:35:22,571
+INFO:Rate me called.:2017-10-30 16:35:22,572
+INFO:user_input is a rating of:1:2017-10-30 16:35:25,603
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:35:25,907
+INFO:bullet number17 has been shown.:2017-10-30 16:35:25,907
+INFO:Rate me called.:2017-10-30 16:35:25,908
+INFO:user_input is a rating of:1:2017-10-30 16:35:29,211
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:35:29,483
+INFO:bullet number174 has been shown.:2017-10-30 16:35:29,483
+INFO:Rate me called.:2017-10-30 16:35:29,484
+INFO:user_input is a rating of:3:2017-10-30 16:35:32,331
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:35:32,547
+INFO:bullet number149 has been shown.:2017-10-30 16:35:32,547
+INFO:Rate me called.:2017-10-30 16:35:32,548
+INFO:user_input is a rating of:1:2017-10-30 16:35:34,348
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:35:34,603
+INFO:bullet number268 has been shown.:2017-10-30 16:35:34,603
+INFO:Rate me called.:2017-10-30 16:35:34,604
+INFO:user_input is a rating of:1:2017-10-30 16:35:38,043
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:35:38,299
+INFO:bullet number124 has been shown.:2017-10-30 16:35:38,299
+INFO:Rate me called.:2017-10-30 16:35:38,300
+INFO:user_input is a rating of:3:2017-10-30 16:35:41,947
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:35:42,155
+INFO:bullet number320 has been shown.:2017-10-30 16:35:42,155
+INFO:Rate me called.:2017-10-30 16:35:42,156
+INFO:user_input is a rating of:1:2017-10-30 16:35:44,372
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:35:44,619
+INFO:bullet number252 has been shown.:2017-10-30 16:35:44,620
+INFO:Rate me called.:2017-10-30 16:35:44,620
+INFO:user_input is a rating of:1:2017-10-30 16:35:46,154
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:35:46,395
+INFO:bullet number417 has been shown.:2017-10-30 16:35:46,395
+INFO:Rate me called.:2017-10-30 16:35:46,396
+INFO:user_input is a rating of:1:2017-10-30 16:35:48,850
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:35:49,075
+INFO:bullet number178 has been shown.:2017-10-30 16:35:49,075
+INFO:Rate me called.:2017-10-30 16:35:49,076
+INFO:user_input is a rating of:1:2017-10-30 16:35:52,483
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:35:52,731
+INFO:bullet number392 has been shown.:2017-10-30 16:35:52,732
+INFO:Rate me called.:2017-10-30 16:35:52,732
+INFO:user_input is a rating of:1:2017-10-30 16:35:57,563
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:35:57,771
+INFO:bullet number48 has been shown.:2017-10-30 16:35:57,771
+INFO:Rate me called.:2017-10-30 16:35:57,772
+INFO:user_input is a rating of:1:2017-10-30 16:36:05,035
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:36:05,276
+INFO:bullet number487 has been shown.:2017-10-30 16:36:05,276
+INFO:Rate me called.:2017-10-30 16:36:05,276
+INFO:user_input is a rating of:2:2017-10-30 16:36:07,931
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:36:08,211
+INFO:bullet number118 has been shown.:2017-10-30 16:36:08,212
+INFO:Rate me called.:2017-10-30 16:36:08,212
+INFO:user_input is a rating of:3:2017-10-30 16:36:10,588
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:36:10,843
+INFO:bullet number46 has been shown.:2017-10-30 16:36:10,843
+INFO:Rate me called.:2017-10-30 16:36:10,844
+INFO:user_input is a rating of:1:2017-10-30 16:36:12,908
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:36:13,179
+INFO:bullet number430 has been shown.:2017-10-30 16:36:13,179
+INFO:Rate me called.:2017-10-30 16:36:13,180
+INFO:user_input is a rating of:1:2017-10-30 16:36:15,979
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:36:16,210
+INFO:bullet number340 has been shown.:2017-10-30 16:36:16,210
+INFO:Rate me called.:2017-10-30 16:36:16,211
+INFO:user_input is a rating of:1:2017-10-30 16:36:18,595
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:36:18,852
+INFO:bullet number151 has been shown.:2017-10-30 16:36:18,852
+INFO:Rate me called.:2017-10-30 16:36:18,853
+INFO:user_input is a rating of:1:2017-10-30 16:36:21,635
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:36:21,899
+INFO:bullet number323 has been shown.:2017-10-30 16:36:21,900
+INFO:Rate me called.:2017-10-30 16:36:21,900
+INFO:user_input is a rating of:4:2017-10-30 16:36:24,108
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:36:24,387
+INFO:bullet number86 has been shown.:2017-10-30 16:36:24,387
+INFO:Rate me called.:2017-10-30 16:36:24,388
+INFO:user_input is a rating of:1:2017-10-30 16:36:27,395
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:36:27,627
+INFO:bullet number241 has been shown.:2017-10-30 16:36:27,627
+INFO:Rate me called.:2017-10-30 16:36:27,628
+INFO:user_input is a rating of:1:2017-10-30 16:36:30,539
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:36:30,859
+INFO:bullet number247 has been shown.:2017-10-30 16:36:30,860
+INFO:Rate me called.:2017-10-30 16:36:30,860
+INFO:user_input is a rating of:4:2017-10-30 16:36:40,075
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:36:40,322
+INFO:bullet number269 has been shown.:2017-10-30 16:36:40,322
+INFO:Rate me called.:2017-10-30 16:36:40,323
+INFO:user_input is a rating of:2:2017-10-30 16:36:43,802
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:36:44,059
+INFO:bullet number19 has been shown.:2017-10-30 16:36:44,059
+INFO:Rate me called.:2017-10-30 16:36:44,059
+INFO:user_input is a rating of:4:2017-10-30 16:36:46,683
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:36:47,252
+INFO:bullet number32 has been shown.:2017-10-30 16:36:47,252
+INFO:Rate me called.:2017-10-30 16:36:47,252
+INFO:user_input is a rating of:2:2017-10-30 16:36:51,907
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:36:52,147
+INFO:bullet number284 has been shown.:2017-10-30 16:36:52,147
+INFO:Rate me called.:2017-10-30 16:36:52,148
+INFO:user_input is a rating of:1:2017-10-30 16:36:57,227
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:36:57,515
+INFO:bullet number419 has been shown.:2017-10-30 16:36:57,515
+INFO:Rate me called.:2017-10-30 16:36:57,515
+INFO:user_input is a rating of:1:2017-10-30 16:37:06,315
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:37:06,834
+INFO:bullet number145 has been shown.:2017-10-30 16:37:06,834
+INFO:Rate me called.:2017-10-30 16:37:06,835
+INFO:user_input is a rating of:1:2017-10-30 16:37:16,570
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:37:17,474
+INFO:bullet number263 has been shown.:2017-10-30 16:37:17,474
+INFO:Rate me called.:2017-10-30 16:37:17,475
+INFO:user_input is a rating of:1:2017-10-30 16:37:26,706
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:37:27,523
+INFO:bullet number266 has been shown.:2017-10-30 16:37:27,523
+INFO:Rate me called.:2017-10-30 16:37:27,524
+INFO:user_input is a rating of:1:2017-10-30 16:37:29,818
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:37:30,130
+INFO:bullet number190 has been shown.:2017-10-30 16:37:30,131
+INFO:Rate me called.:2017-10-30 16:37:30,131
+INFO:user_input is a rating of:2:2017-10-30 16:37:32,890
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:37:33,418
+INFO:bullet number288 has been shown.:2017-10-30 16:37:33,418
+INFO:Rate me called.:2017-10-30 16:37:33,419
+INFO:user_input is a rating of:2:2017-10-30 16:37:39,890
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:37:40,202
+INFO:bullet number274 has been shown.:2017-10-30 16:37:40,202
+INFO:Rate me called.:2017-10-30 16:37:40,203
+INFO:user_input is a rating of:1:2017-10-30 16:37:42,402
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:37:42,674
+INFO:bullet number395 has been shown.:2017-10-30 16:37:42,675
+INFO:Rate me called.:2017-10-30 16:37:42,675
+INFO:user_input is a rating of:4:2017-10-30 16:37:45,202
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:37:45,498
+INFO:bullet number315 has been shown.:2017-10-30 16:37:45,498
+INFO:Rate me called.:2017-10-30 16:37:45,499
+INFO:user_input is a rating of:4:2017-10-30 16:37:50,779
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:37:51,082
+INFO:bullet number40 has been shown.:2017-10-30 16:37:51,082
+INFO:Rate me called.:2017-10-30 16:37:51,083
+INFO:user_input is a rating of:1:2017-10-30 16:37:55,067
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:37:55,315
+INFO:bullet number426 has been shown.:2017-10-30 16:37:55,315
+INFO:Rate me called.:2017-10-30 16:37:55,315
+INFO:user_input is a rating of:1:2017-10-30 16:37:57,755
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:37:58,018
+INFO:bullet number486 has been shown.:2017-10-30 16:37:58,018
+INFO:Rate me called.:2017-10-30 16:37:58,019
+INFO:user_input is a rating of:1:2017-10-30 16:38:00,538
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:38:00,834
+INFO:bullet number475 has been shown.:2017-10-30 16:38:00,834
+INFO:Rate me called.:2017-10-30 16:38:00,835
+INFO:user_input is a rating of:1:2017-10-30 16:38:03,539
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:38:03,963
+INFO:bullet number172 has been shown.:2017-10-30 16:38:03,963
+INFO:Rate me called.:2017-10-30 16:38:03,964
+INFO:user_input is a rating of:1:2017-10-30 16:38:06,210
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:38:06,490
+INFO:bullet number74 has been shown.:2017-10-30 16:38:06,490
+INFO:Rate me called.:2017-10-30 16:38:06,491
+INFO:user_input is a rating of:1:2017-10-30 16:38:11,122
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:38:11,386
+INFO:bullet number244 has been shown.:2017-10-30 16:38:11,387
+INFO:Rate me called.:2017-10-30 16:38:11,387
+INFO:user_input is a rating of:1:2017-10-30 16:38:13,898
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:38:14,171
+INFO:bullet number328 has been shown.:2017-10-30 16:38:14,171
+INFO:Rate me called.:2017-10-30 16:38:14,171
+INFO:user_input is a rating of:5:2017-10-30 16:38:44,850
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:38:47,642
+INFO:bullet number64 has been shown.:2017-10-30 16:38:47,642
+INFO:Rate me called.:2017-10-30 16:38:47,643
+INFO:user_input is a rating of:1:2017-10-30 16:38:54,898
+INFO:Saved pickle file to 'config.p':2017-10-30 16:38:55,667
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:38:57,402
+INFO:bullet number87 has been shown.:2017-10-30 16:38:57,402
+INFO:Rate me called.:2017-10-30 16:38:57,403
+INFO:user_input is a rating of:1:2017-10-30 16:39:01,074
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:39:01,338
+INFO:bullet number304 has been shown.:2017-10-30 16:39:01,338
+INFO:Rate me called.:2017-10-30 16:39:01,339
+INFO:user_input is a rating of:1:2017-10-30 16:39:05,026
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:39:05,266
+INFO:bullet number24 has been shown.:2017-10-30 16:39:05,266
+INFO:Rate me called.:2017-10-30 16:39:05,267
+INFO:user_input is a rating of:1:2017-10-30 16:39:07,314
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:39:07,611
+INFO:bullet number484 has been shown.:2017-10-30 16:39:07,611
+INFO:Rate me called.:2017-10-30 16:39:07,612
+INFO:user_input is a rating of:1:2017-10-30 16:39:09,818
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:39:10,106
+INFO:bullet number281 has been shown.:2017-10-30 16:39:10,106
+INFO:Rate me called.:2017-10-30 16:39:10,107
+INFO:user_input is a rating of:1:2017-10-30 16:39:14,323
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:39:14,601
+INFO:bullet number373 has been shown.:2017-10-30 16:39:14,601
+INFO:Rate me called.:2017-10-30 16:39:14,602
+INFO:user_input is a rating of:1:2017-10-30 16:39:17,642
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:39:17,882
+INFO:bullet number332 has been shown.:2017-10-30 16:39:17,882
+INFO:Rate me called.:2017-10-30 16:39:17,883
+INFO:user_input is a rating of:1:2017-10-30 16:39:21,978
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:39:22,250
+INFO:bullet number318 has been shown.:2017-10-30 16:39:22,251
+INFO:Rate me called.:2017-10-30 16:39:22,251
+INFO:user_input is a rating of:1:2017-10-30 16:39:25,234
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:39:25,482
+INFO:bullet number53 has been shown.:2017-10-30 16:39:25,483
+INFO:Rate me called.:2017-10-30 16:39:25,483
+INFO:user_input is a rating of:1:2017-10-30 16:39:29,338
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:39:29,690
+INFO:bullet number352 has been shown.:2017-10-30 16:39:29,691
+INFO:Rate me called.:2017-10-30 16:39:29,691
+INFO:user_input is a rating of:1:2017-10-30 16:39:31,515
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:39:31,763
+INFO:bullet number441 has been shown.:2017-10-30 16:39:31,763
+INFO:Rate me called.:2017-10-30 16:39:31,763
+INFO:user_input is a rating of:1:2017-10-30 16:39:34,425
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:39:34,739
+INFO:bullet number499 has been shown.:2017-10-30 16:39:34,739
+INFO:Rate me called.:2017-10-30 16:39:34,740
+INFO:user_input is a rating of:1:2017-10-30 16:39:37,450
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:39:37,874
+INFO:bullet number438 has been shown.:2017-10-30 16:39:37,875
+INFO:Rate me called.:2017-10-30 16:39:37,875
+INFO:user_input is a rating of:1:2017-10-30 16:39:41,626
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:39:41,898
+INFO:bullet number91 has been shown.:2017-10-30 16:39:41,898
+INFO:Rate me called.:2017-10-30 16:39:41,898
+INFO:user_input is a rating of:4:2017-10-30 16:39:46,122
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:39:46,450
+INFO:bullet number75 has been shown.:2017-10-30 16:39:46,450
+INFO:Rate me called.:2017-10-30 16:39:46,450
+INFO:user_input is a rating of:4:2017-10-30 16:39:50,697
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:39:51,041
+INFO:bullet number165 has been shown.:2017-10-30 16:39:51,042
+INFO:Rate me called.:2017-10-30 16:39:51,042
+INFO:user_input is a rating of:1:2017-10-30 16:39:53,307
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:39:53,562
+INFO:bullet number184 has been shown.:2017-10-30 16:39:53,562
+INFO:Rate me called.:2017-10-30 16:39:53,562
+INFO:user_input is a rating of:1:2017-10-30 16:40:02,058
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:40:02,386
+INFO:bullet number382 has been shown.:2017-10-30 16:40:02,386
+INFO:Rate me called.:2017-10-30 16:40:02,387
+INFO:user_input is a rating of:1:2017-10-30 16:40:04,418
+INFO:Saved pickle file to 'config.p':2017-10-30 16:40:05,149
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:40:06,010
+INFO:bullet number69 has been shown.:2017-10-30 16:40:06,010
+INFO:Rate me called.:2017-10-30 16:40:06,011
+INFO:user_input is a rating of:1:2017-10-30 16:40:08,530
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:40:08,778
+INFO:bullet number432 has been shown.:2017-10-30 16:40:08,779
+INFO:Rate me called.:2017-10-30 16:40:08,779
+INFO:user_input is a rating of:1:2017-10-30 16:40:10,857
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:40:11,099
+INFO:bullet number231 has been shown.:2017-10-30 16:40:11,099
+INFO:Rate me called.:2017-10-30 16:40:11,099
+INFO:user_input is a rating of:3:2017-10-30 16:40:14,802
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:40:15,050
+INFO:bullet number362 has been shown.:2017-10-30 16:40:15,051
+INFO:Rate me called.:2017-10-30 16:40:15,051
+INFO:user_input is a rating of:5:2017-10-30 16:40:19,289
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:40:19,554
+INFO:bullet number58 has been shown.:2017-10-30 16:40:19,554
+INFO:Rate me called.:2017-10-30 16:40:19,555
+INFO:user_input is a rating of:1:2017-10-30 16:40:21,841
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:40:22,089
+INFO:bullet number470 has been shown.:2017-10-30 16:40:22,089
+INFO:Rate me called.:2017-10-30 16:40:22,090
+INFO:user_input is a rating of:1:2017-10-30 16:40:25,738
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:40:25,987
+INFO:bullet number30 has been shown.:2017-10-30 16:40:25,987
+INFO:Rate me called.:2017-10-30 16:40:25,987
+INFO:user_input is a rating of:1:2017-10-30 16:40:28,498
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:40:28,754
+INFO:bullet number220 has been shown.:2017-10-30 16:40:28,754
+INFO:Rate me called.:2017-10-30 16:40:28,755
+INFO:user_input is a rating of:1:2017-10-30 16:40:32,098
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:40:32,346
+INFO:bullet number130 has been shown.:2017-10-30 16:40:32,346
+INFO:Rate me called.:2017-10-30 16:40:32,346
+INFO:user_input is a rating of:1:2017-10-30 16:40:34,529
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:40:34,801
+INFO:bullet number437 has been shown.:2017-10-30 16:40:34,801
+INFO:Rate me called.:2017-10-30 16:40:34,802
+INFO:user_input is a rating of:1:2017-10-30 16:40:39,170
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:40:39,426
+INFO:bullet number139 has been shown.:2017-10-30 16:40:39,426
+INFO:Rate me called.:2017-10-30 16:40:39,426
+INFO:user_input is a rating of:1:2017-10-30 16:40:42,377
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:40:42,644
+INFO:bullet number175 has been shown.:2017-10-30 16:40:42,644
+INFO:Rate me called.:2017-10-30 16:40:42,644
+INFO:user_input is a rating of:1:2017-10-30 16:40:44,793
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:40:45,050
+INFO:bullet number37 has been shown.:2017-10-30 16:40:45,050
+INFO:Rate me called.:2017-10-30 16:40:45,051
+INFO:user_input is a rating of:1:2017-10-30 16:40:46,986
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:40:47,225
+INFO:bullet number371 has been shown.:2017-10-30 16:40:47,226
+INFO:Rate me called.:2017-10-30 16:40:47,226
+INFO:user_input is a rating of:1:2017-10-30 16:40:49,625
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:40:49,889
+INFO:bullet number423 has been shown.:2017-10-30 16:40:49,890
+INFO:Rate me called.:2017-10-30 16:40:49,890
+INFO:user_input is a rating of:5:2017-10-30 16:40:51,754
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:40:51,986
+INFO:bullet number128 has been shown.:2017-10-30 16:40:51,986
+INFO:Rate me called.:2017-10-30 16:40:51,987
+INFO:user_input is a rating of:1:2017-10-30 16:40:55,114
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:40:55,386
+INFO:bullet number102 has been shown.:2017-10-30 16:40:55,386
+INFO:Rate me called.:2017-10-30 16:40:55,386
+INFO:user_input is a rating of:1:2017-10-30 16:40:57,666
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:40:57,938
+INFO:bullet number355 has been shown.:2017-10-30 16:40:57,938
+INFO:Rate me called.:2017-10-30 16:40:57,939
+INFO:user_input is a rating of:1:2017-10-30 16:40:59,674
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:40:59,913
+INFO:bullet number195 has been shown.:2017-10-30 16:40:59,914
+INFO:Rate me called.:2017-10-30 16:40:59,914
+INFO:user_input is a rating of:1:2017-10-30 16:41:02,490
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:41:02,769
+INFO:bullet number141 has been shown.:2017-10-30 16:41:02,770
+INFO:Rate me called.:2017-10-30 16:41:02,770
+INFO:user_input is a rating of:1:2017-10-30 16:41:05,474
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:41:05,713
+INFO:bullet number483 has been shown.:2017-10-30 16:41:05,713
+INFO:Rate me called.:2017-10-30 16:41:05,714
+INFO:user_input is a rating of:1:2017-10-30 16:41:08,370
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:41:08,593
+INFO:bullet number333 has been shown.:2017-10-30 16:41:08,594
+INFO:Rate me called.:2017-10-30 16:41:08,594
+INFO:user_input is a rating of:1:2017-10-30 16:41:10,498
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:41:10,730
+INFO:bullet number197 has been shown.:2017-10-30 16:41:10,730
+INFO:Rate me called.:2017-10-30 16:41:10,731
+INFO:user_input is a rating of:1:2017-10-30 16:41:14,545
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:41:14,786
+INFO:bullet number59 has been shown.:2017-10-30 16:41:14,786
+INFO:Rate me called.:2017-10-30 16:41:14,787
+INFO:user_input is a rating of:1:2017-10-30 16:41:17,345
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:41:17,602
+INFO:bullet number207 has been shown.:2017-10-30 16:41:17,602
+INFO:Rate me called.:2017-10-30 16:41:17,603
+INFO:user_input is a rating of:1:2017-10-30 16:41:19,809
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:41:20,105
+INFO:bullet number84 has been shown.:2017-10-30 16:41:20,106
+INFO:Rate me called.:2017-10-30 16:41:20,106
+INFO:user_input is a rating of:5:2017-10-30 16:41:22,921
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:41:23,193
+INFO:bullet number168 has been shown.:2017-10-30 16:41:23,193
+INFO:Rate me called.:2017-10-30 16:41:23,194
+INFO:user_input is a rating of:1:2017-10-30 16:41:25,138
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:41:25,393
+INFO:bullet number425 has been shown.:2017-10-30 16:41:25,394
+INFO:Rate me called.:2017-10-30 16:41:25,394
+INFO:user_input is a rating of:3:2017-10-30 16:41:28,345
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:41:28,561
+INFO:bullet number379 has been shown.:2017-10-30 16:41:28,562
+INFO:Rate me called.:2017-10-30 16:41:28,562
+INFO:user_input is a rating of:1:2017-10-30 16:41:31,041
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:41:31,266
+INFO:bullet number364 has been shown.:2017-10-30 16:41:31,266
+INFO:Rate me called.:2017-10-30 16:41:31,267
+INFO:user_input is a rating of:5:2017-10-30 16:41:33,634
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:41:33,857
+INFO:bullet number309 has been shown.:2017-10-30 16:41:33,859
+INFO:Rate me called.:2017-10-30 16:41:33,859
+INFO:user_input is a rating of:1:2017-10-30 16:41:36,345
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:41:36,545
+INFO:bullet number208 has been shown.:2017-10-30 16:41:36,547
+INFO:Rate me called.:2017-10-30 16:41:36,547
+INFO:user_input is a rating of:1:2017-10-30 16:41:39,113
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:41:39,321
+INFO:bullet number182 has been shown.:2017-10-30 16:41:39,321
+INFO:Rate me called.:2017-10-30 16:41:39,322
+INFO:user_input is a rating of:1:2017-10-30 16:41:42,041
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:41:42,281
+INFO:bullet number157 has been shown.:2017-10-30 16:41:42,282
+INFO:Rate me called.:2017-10-30 16:41:42,282
+INFO:user_input is a rating of:1:2017-10-30 16:41:45,649
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:41:45,906
+INFO:bullet number403 has been shown.:2017-10-30 16:41:45,907
+INFO:Rate me called.:2017-10-30 16:41:45,907
+INFO:user_input is a rating of:1:2017-10-30 16:41:48,161
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:41:48,409
+INFO:bullet number199 has been shown.:2017-10-30 16:41:48,410
+INFO:Rate me called.:2017-10-30 16:41:48,411
+INFO:user_input is a rating of:1:2017-10-30 16:41:51,138
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:41:51,377
+INFO:bullet number295 has been shown.:2017-10-30 16:41:51,378
+INFO:Rate me called.:2017-10-30 16:41:51,378
+INFO:user_input is a rating of:1:2017-10-30 16:41:53,026
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:41:53,290
+INFO:bullet number161 has been shown.:2017-10-30 16:41:53,291
+INFO:Rate me called.:2017-10-30 16:41:53,291
+INFO:user_input is a rating of:1:2017-10-30 16:41:56,834
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 16:41:57,145
+INFO:bullet number204 has been shown.:2017-10-30 16:41:57,146
+INFO:Rate me called.:2017-10-30 16:41:57,146
+INFO:user_input is a rating of:1:2017-10-30 16:42:01,873
+INFO:Saved pickle file to 'config.p':2017-10-30 16:42:02,695
+INFO:Saved pickle file to 'config.p':2017-10-30 16:42:03,390
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:42:17,361
+INFO:bullet number22 has been shown.:2017-10-30 16:42:17,361
+INFO:Rate me called.:2017-10-30 16:42:17,362
+INFO:user_input is a rating of:4:2017-10-30 16:42:20,450
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:42:21,057
+INFO:bullet number31 has been shown.:2017-10-30 16:42:21,058
+INFO:Rate me called.:2017-10-30 16:42:21,058
+INFO:user_input is a rating of:2:2017-10-30 16:42:24,961
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:42:25,417
+INFO:bullet number28 has been shown.:2017-10-30 16:42:25,417
+INFO:Rate me called.:2017-10-30 16:42:25,418
+INFO:user_input is a rating of:3:2017-10-30 16:42:28,186
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:42:28,529
+INFO:bullet number8 has been shown.:2017-10-30 16:42:28,529
+INFO:Rate me called.:2017-10-30 16:42:28,530
+INFO:user_input is a rating of:3:2017-10-30 16:42:31,737
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:42:31,993
+INFO:bullet number33 has been shown.:2017-10-30 16:42:31,993
+INFO:Rate me called.:2017-10-30 16:42:31,994
+INFO:user_input is a rating of:1:2017-10-30 16:42:33,777
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:42:34,042
+INFO:bullet number15 has been shown.:2017-10-30 16:42:34,042
+INFO:Rate me called.:2017-10-30 16:42:34,042
+INFO:user_input is a rating of:1:2017-10-30 16:42:37,289
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:42:37,553
+INFO:bullet number50 has been shown.:2017-10-30 16:42:37,553
+INFO:Rate me called.:2017-10-30 16:42:37,554
+INFO:user_input is a rating of:1:2017-10-30 16:42:48,409
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:42:48,778
+INFO:bullet number2 has been shown.:2017-10-30 16:42:48,778
+INFO:Rate me called.:2017-10-30 16:42:48,778
+INFO:user_input is a rating of:1:2017-10-30 16:42:51,834
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:42:52,250
+INFO:bullet number47 has been shown.:2017-10-30 16:42:52,250
+INFO:Rate me called.:2017-10-30 16:42:52,250
+INFO:user_input is a rating of:4:2017-10-30 16:42:56,881
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:42:57,289
+INFO:bullet number38 has been shown.:2017-10-30 16:42:57,289
+INFO:Rate me called.:2017-10-30 16:42:57,290
+INFO:user_input is a rating of:3:2017-10-30 16:43:00,649
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:43:00,921
+INFO:bullet number19 has been shown.:2017-10-30 16:43:00,922
+INFO:Rate me called.:2017-10-30 16:43:00,922
+INFO:user_input is a rating of:3:2017-10-30 16:43:07,858
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:43:08,097
+INFO:bullet number36 has been shown.:2017-10-30 16:43:08,097
+INFO:Rate me called.:2017-10-30 16:43:08,097
+INFO:user_input is a rating of:1:2017-10-30 16:43:10,801
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:43:11,017
+INFO:bullet number20 has been shown.:2017-10-30 16:43:11,018
+INFO:Rate me called.:2017-10-30 16:43:11,018
+INFO:user_input is a rating of:1:2017-10-30 16:43:17,953
+INFO:Saved pickle file to 'config.p':2017-10-30 16:43:18,318
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:43:19,729
+INFO:bullet number25 has been shown.:2017-10-30 16:43:19,729
+INFO:Rate me called.:2017-10-30 16:43:19,730
+INFO:user_input is a rating of:1:2017-10-30 16:43:33,218
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:43:33,553
+INFO:bullet number41 has been shown.:2017-10-30 16:43:33,553
+INFO:Rate me called.:2017-10-30 16:43:33,554
+INFO:user_input is a rating of:5:2017-10-30 16:43:40,889
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:43:41,504
+INFO:bullet number0 has been shown.:2017-10-30 16:43:41,505
+INFO:Rate me called.:2017-10-30 16:43:41,505
+INFO:user_input is a rating of:1:2017-10-30 16:43:45,361
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:43:45,634
+INFO:bullet number10 has been shown.:2017-10-30 16:43:45,634
+INFO:Rate me called.:2017-10-30 16:43:45,635
+INFO:user_input is a rating of:1:2017-10-30 16:43:48,473
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:43:48,753
+INFO:bullet number49 has been shown.:2017-10-30 16:43:48,753
+INFO:Rate me called.:2017-10-30 16:43:48,754
+INFO:user_input is a rating of:5:2017-10-30 16:43:52,113
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:43:53,497
+INFO:bullet number34 has been shown.:2017-10-30 16:43:53,497
+INFO:Rate me called.:2017-10-30 16:43:53,498
+INFO:user_input is a rating of:1:2017-10-30 16:43:55,993
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:43:56,297
+INFO:bullet number35 has been shown.:2017-10-30 16:43:56,297
+INFO:Rate me called.:2017-10-30 16:43:56,298
+INFO:user_input is a rating of:1:2017-10-30 16:43:58,530
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:43:59,889
+INFO:bullet number40 has been shown.:2017-10-30 16:43:59,889
+INFO:Rate me called.:2017-10-30 16:43:59,890
+INFO:user_input is a rating of:1:2017-10-30 16:44:07,200
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:44:07,472
+INFO:bullet number42 has been shown.:2017-10-30 16:44:07,473
+INFO:Rate me called.:2017-10-30 16:44:07,473
+INFO:user_input is a rating of:1:2017-10-30 16:44:13,288
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:44:14,793
+INFO:bullet number43 has been shown.:2017-10-30 16:44:14,793
+INFO:Rate me called.:2017-10-30 16:44:14,794
+INFO:user_input is a rating of:5:2017-10-30 16:44:18,737
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:44:19,169
+INFO:bullet number21 has been shown.:2017-10-30 16:44:19,169
+INFO:Rate me called.:2017-10-30 16:44:19,170
+INFO:user_input is a rating of:1:2017-10-30 16:44:22,865
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:44:23,241
+INFO:bullet number32 has been shown.:2017-10-30 16:44:23,241
+INFO:Rate me called.:2017-10-30 16:44:23,242
+INFO:user_input is a rating of:1:2017-10-30 16:44:25,993
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:44:26,256
+INFO:bullet number44 has been shown.:2017-10-30 16:44:26,257
+INFO:Rate me called.:2017-10-30 16:44:26,257
+INFO:user_input is a rating of:1:2017-10-30 16:44:29,009
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:44:29,297
+INFO:bullet number45 has been shown.:2017-10-30 16:44:29,297
+INFO:Rate me called.:2017-10-30 16:44:29,298
+INFO:user_input is a rating of:1:2017-10-30 16:44:32,201
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:44:32,425
+INFO:bullet number23 has been shown.:2017-10-30 16:44:32,425
+INFO:Rate me called.:2017-10-30 16:44:32,426
+INFO:user_input is a rating of:1:2017-10-30 16:44:35,641
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:44:35,905
+INFO:bullet number37 has been shown.:2017-10-30 16:44:35,905
+INFO:Rate me called.:2017-10-30 16:44:35,905
+INFO:user_input is a rating of:1:2017-10-30 16:44:38,209
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:44:38,480
+INFO:bullet number14 has been shown.:2017-10-30 16:44:38,481
+INFO:Rate me called.:2017-10-30 16:44:38,481
+INFO:user_input is a rating of:1:2017-10-30 16:44:41,609
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:44:41,873
+INFO:bullet number30 has been shown.:2017-10-30 16:44:41,873
+INFO:Rate me called.:2017-10-30 16:44:41,873
+INFO:user_input is a rating of:4:2017-10-30 16:44:45,528
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:44:45,793
+INFO:bullet number11 has been shown.:2017-10-30 16:44:45,793
+INFO:Rate me called.:2017-10-30 16:44:45,794
+INFO:user_input is a rating of:4:2017-10-30 16:44:50,385
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:44:50,665
+INFO:bullet number12 has been shown.:2017-10-30 16:44:50,665
+INFO:Rate me called.:2017-10-30 16:44:50,666
+INFO:user_input is a rating of:5:2017-10-30 16:44:53,729
+INFO:Saved pickle file to 'config.p':2017-10-30 16:44:55,686
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:44:56,001
+INFO:bullet number1 has been shown.:2017-10-30 16:44:56,002
+INFO:Rate me called.:2017-10-30 16:44:56,002
+INFO:user_input is a rating of:1:2017-10-30 16:45:02,393
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:45:04,097
+INFO:bullet number26 has been shown.:2017-10-30 16:45:04,097
+INFO:Rate me called.:2017-10-30 16:45:04,098
+INFO:user_input is a rating of:1:2017-10-30 16:45:06,969
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:45:07,273
+INFO:bullet number29 has been shown.:2017-10-30 16:45:07,273
+INFO:Rate me called.:2017-10-30 16:45:07,274
+INFO:user_input is a rating of:1:2017-10-30 16:45:08,825
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:45:09,209
+INFO:bullet number39 has been shown.:2017-10-30 16:45:09,209
+INFO:Rate me called.:2017-10-30 16:45:09,210
+INFO:user_input is a rating of:1:2017-10-30 16:45:12,393
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:45:12,729
+INFO:bullet number24 has been shown.:2017-10-30 16:45:12,729
+INFO:Rate me called.:2017-10-30 16:45:12,729
+INFO:user_input is a rating of:1:2017-10-30 16:45:15,377
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 16:45:15,689
+INFO:bullet number8 has been shown.:2017-10-30 16:45:15,689
+INFO:Rate me called.:2017-10-30 16:45:15,690
+INFO:user_input is a rating of:3:2017-10-30 16:45:20,936
+INFO:Saved pickle file to 'config.p':2017-10-30 16:45:21,574
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:45:32,425
+INFO:bullet number73 has been shown.:2017-10-30 16:45:32,425
+INFO:Rate me called.:2017-10-30 16:45:32,426
+INFO:user_input is a rating of:1:2017-10-30 16:45:51,688
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:45:53,913
+INFO:bullet number22 has been shown.:2017-10-30 16:45:53,913
+INFO:Rate me called.:2017-10-30 16:45:53,914
+INFO:user_input is a rating of:1:2017-10-30 16:45:56,648
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:45:57,033
+INFO:bullet number41 has been shown.:2017-10-30 16:45:57,033
+INFO:Rate me called.:2017-10-30 16:45:57,034
+INFO:user_input is a rating of:5:2017-10-30 16:45:59,769
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:46:00,040
+INFO:bullet number9 has been shown.:2017-10-30 16:46:00,040
+INFO:Rate me called.:2017-10-30 16:46:00,041
+INFO:user_input is a rating of:3:2017-10-30 16:46:07,328
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:46:07,865
+INFO:bullet number15 has been shown.:2017-10-30 16:46:07,865
+INFO:Rate me called.:2017-10-30 16:46:07,866
+INFO:user_input is a rating of:4:2017-10-30 16:46:12,760
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:46:13,088
+INFO:bullet number0 has been shown.:2017-10-30 16:46:13,088
+INFO:Rate me called.:2017-10-30 16:46:13,089
+INFO:user_input is a rating of:1:2017-10-30 16:46:15,633
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:46:16,064
+INFO:bullet number87 has been shown.:2017-10-30 16:46:16,064
+INFO:Rate me called.:2017-10-30 16:46:16,065
+INFO:user_input is a rating of:5:2017-10-30 16:46:18,761
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:46:19,113
+INFO:bullet number2 has been shown.:2017-10-30 16:46:19,113
+INFO:Rate me called.:2017-10-30 16:46:19,114
+INFO:user_input is a rating of:2:2017-10-30 16:46:28,617
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:46:29,072
+INFO:bullet number30 has been shown.:2017-10-30 16:46:29,072
+INFO:Rate me called.:2017-10-30 16:46:29,073
+INFO:user_input is a rating of:3:2017-10-30 16:46:32,185
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:46:32,425
+INFO:bullet number60 has been shown.:2017-10-30 16:46:32,425
+INFO:Rate me called.:2017-10-30 16:46:32,426
+INFO:user_input is a rating of:2:2017-10-30 16:46:39,967
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:46:40,176
+INFO:bullet number57 has been shown.:2017-10-30 16:46:40,176
+INFO:Rate me called.:2017-10-30 16:46:40,177
+INFO:user_input is a rating of:2:2017-10-30 16:46:43,592
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:46:43,777
+INFO:bullet number89 has been shown.:2017-10-30 16:46:43,777
+INFO:Rate me called.:2017-10-30 16:46:43,778
+INFO:user_input is a rating of:2:2017-10-30 16:46:53,032
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:46:53,288
+INFO:bullet number78 has been shown.:2017-10-30 16:46:53,289
+INFO:Rate me called.:2017-10-30 16:46:53,290
+INFO:user_input is a rating of:2:2017-10-30 16:46:55,328
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:46:55,568
+INFO:bullet number12 has been shown.:2017-10-30 16:46:55,569
+INFO:Rate me called.:2017-10-30 16:46:55,570
+INFO:user_input is a rating of:2:2017-10-30 16:46:58,240
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:46:58,464
+INFO:bullet number79 has been shown.:2017-10-30 16:46:58,464
+INFO:Rate me called.:2017-10-30 16:46:58,465
+INFO:user_input is a rating of:2:2017-10-30 16:47:02,856
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:47:03,089
+INFO:bullet number32 has been shown.:2017-10-30 16:47:03,089
+INFO:Rate me called.:2017-10-30 16:47:03,090
+INFO:user_input is a rating of:2:2017-10-30 16:47:04,961
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:47:05,184
+INFO:bullet number6 has been shown.:2017-10-30 16:47:05,184
+INFO:Rate me called.:2017-10-30 16:47:05,185
+INFO:user_input is a rating of:4:2017-10-30 16:47:07,544
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:47:07,753
+INFO:bullet number40 has been shown.:2017-10-30 16:47:07,753
+INFO:Rate me called.:2017-10-30 16:47:07,753
+INFO:user_input is a rating of:2:2017-10-30 16:47:10,128
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:47:10,344
+INFO:bullet number90 has been shown.:2017-10-30 16:47:10,345
+INFO:Rate me called.:2017-10-30 16:47:10,346
+INFO:user_input is a rating of:2:2017-10-30 16:47:12,352
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:47:12,584
+INFO:bullet number7 has been shown.:2017-10-30 16:47:12,584
+INFO:Rate me called.:2017-10-30 16:47:12,585
+INFO:user_input is a rating of:4:2017-10-30 16:47:14,432
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:47:14,640
+INFO:bullet number66 has been shown.:2017-10-30 16:47:14,640
+INFO:Rate me called.:2017-10-30 16:47:14,641
+INFO:user_input is a rating of:2:2017-10-30 16:47:17,448
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:47:17,679
+INFO:bullet number23 has been shown.:2017-10-30 16:47:17,679
+INFO:Rate me called.:2017-10-30 16:47:17,681
+INFO:user_input is a rating of:2:2017-10-30 16:47:23,896
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:47:24,095
+INFO:bullet number3 has been shown.:2017-10-30 16:47:24,096
+INFO:Rate me called.:2017-10-30 16:47:24,097
+INFO:user_input is a rating of:3:2017-10-30 16:47:29,769
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:47:30,001
+INFO:bullet number55 has been shown.:2017-10-30 16:47:30,001
+INFO:Rate me called.:2017-10-30 16:47:30,002
+INFO:user_input is a rating of:5:2017-10-30 16:47:33,744
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:47:34,072
+INFO:bullet number86 has been shown.:2017-10-30 16:47:34,072
+INFO:Rate me called.:2017-10-30 16:47:34,073
+INFO:user_input is a rating of:3:2017-10-30 16:47:38,327
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:47:38,584
+INFO:bullet number64 has been shown.:2017-10-30 16:47:38,585
+INFO:Rate me called.:2017-10-30 16:47:38,586
+INFO:user_input is a rating of:3:2017-10-30 16:47:43,688
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:47:43,992
+INFO:bullet number8 has been shown.:2017-10-30 16:47:43,992
+INFO:Rate me called.:2017-10-30 16:47:43,993
+INFO:user_input is a rating of:1:2017-10-30 16:48:30,401
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:48:31,520
+INFO:bullet number59 has been shown.:2017-10-30 16:48:31,520
+INFO:Rate me called.:2017-10-30 16:48:31,521
+INFO:user_input is a rating of:4:2017-10-30 16:48:35,128
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:48:35,479
+INFO:bullet number20 has been shown.:2017-10-30 16:48:35,480
+INFO:Rate me called.:2017-10-30 16:48:35,481
+INFO:user_input is a rating of:1:2017-10-30 16:48:48,632
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:48:50,024
+INFO:bullet number81 has been shown.:2017-10-30 16:48:50,024
+INFO:Rate me called.:2017-10-30 16:48:50,025
+INFO:user_input is a rating of:5:2017-10-30 16:48:54,632
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:48:55,632
+INFO:bullet number11 has been shown.:2017-10-30 16:48:55,632
+INFO:Rate me called.:2017-10-30 16:48:55,634
+INFO:user_input is a rating of:1:2017-10-30 16:49:03,088
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:49:03,311
+INFO:bullet number65 has been shown.:2017-10-30 16:49:03,311
+INFO:Rate me called.:2017-10-30 16:49:03,312
+INFO:user_input is a rating of:4:2017-10-30 16:49:08,671
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:49:09,167
+INFO:bullet number45 has been shown.:2017-10-30 16:49:09,167
+INFO:Rate me called.:2017-10-30 16:49:09,168
+INFO:user_input is a rating of:1:2017-10-30 16:49:14,784
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:49:15,079
+INFO:bullet number83 has been shown.:2017-10-30 16:49:15,079
+INFO:Rate me called.:2017-10-30 16:49:15,080
+INFO:user_input is a rating of:1:2017-10-30 16:49:17,800
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:49:18,080
+INFO:bullet number54 has been shown.:2017-10-30 16:49:18,080
+INFO:Rate me called.:2017-10-30 16:49:18,081
+INFO:user_input is a rating of:1:2017-10-30 16:49:20,823
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:49:21,089
+INFO:bullet number74 has been shown.:2017-10-30 16:49:21,089
+INFO:Rate me called.:2017-10-30 16:49:21,090
+INFO:user_input is a rating of:1:2017-10-30 16:49:23,327
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:49:23,583
+INFO:bullet number33 has been shown.:2017-10-30 16:49:23,583
+INFO:Rate me called.:2017-10-30 16:49:23,584
+INFO:user_input is a rating of:1:2017-10-30 16:49:26,535
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:49:26,960
+INFO:bullet number53 has been shown.:2017-10-30 16:49:26,960
+INFO:Rate me called.:2017-10-30 16:49:26,961
+INFO:user_input is a rating of:1:2017-10-30 16:49:29,951
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:49:30,223
+INFO:bullet number17 has been shown.:2017-10-30 16:49:30,224
+INFO:Rate me called.:2017-10-30 16:49:30,224
+INFO:user_input is a rating of:1:2017-10-30 16:49:35,647
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:49:36,919
+INFO:bullet number38 has been shown.:2017-10-30 16:49:36,919
+INFO:Rate me called.:2017-10-30 16:49:36,919
+INFO:user_input is a rating of:1:2017-10-30 16:49:41,703
+INFO:Saved pickle file to 'config.p':2017-10-30 16:50:02,794
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:50:05,151
+INFO:bullet number31 has been shown.:2017-10-30 16:50:05,151
+INFO:Rate me called.:2017-10-30 16:50:05,152
+INFO:user_input is a rating of:1:2017-10-30 16:50:09,695
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:50:12,223
+INFO:bullet number21 has been shown.:2017-10-30 16:50:12,223
+INFO:Rate me called.:2017-10-30 16:50:12,225
+INFO:user_input is a rating of:1:2017-10-30 16:50:17,095
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:50:17,671
+INFO:bullet number62 has been shown.:2017-10-30 16:50:17,671
+INFO:Rate me called.:2017-10-30 16:50:17,672
+INFO:user_input is a rating of:1:2017-10-30 16:50:27,103
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:50:27,327
+INFO:bullet number29 has been shown.:2017-10-30 16:50:27,327
+INFO:Rate me called.:2017-10-30 16:50:27,328
+INFO:user_input is a rating of:5:2017-10-30 16:50:47,991
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:50:49,344
+INFO:bullet number52 has been shown.:2017-10-30 16:50:49,344
+INFO:Rate me called.:2017-10-30 16:50:49,345
+INFO:user_input is a rating of:1:2017-10-30 16:50:52,407
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:50:52,807
+INFO:bullet number27 has been shown.:2017-10-30 16:50:52,807
+INFO:Rate me called.:2017-10-30 16:50:52,808
+INFO:user_input is a rating of:1:2017-10-30 16:50:57,279
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:50:57,591
+INFO:bullet number39 has been shown.:2017-10-30 16:50:57,591
+INFO:Rate me called.:2017-10-30 16:50:57,592
+INFO:user_input is a rating of:1:2017-10-30 16:51:00,775
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:51:01,023
+INFO:bullet number72 has been shown.:2017-10-30 16:51:01,023
+INFO:Rate me called.:2017-10-30 16:51:01,024
+INFO:user_input is a rating of:1:2017-10-30 16:51:03,358
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:51:03,608
+INFO:bullet number24 has been shown.:2017-10-30 16:51:03,608
+INFO:Rate me called.:2017-10-30 16:51:03,609
+INFO:user_input is a rating of:1:2017-10-30 16:51:06,503
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:51:06,760
+INFO:bullet number58 has been shown.:2017-10-30 16:51:06,760
+INFO:Rate me called.:2017-10-30 16:51:06,761
+INFO:user_input is a rating of:4:2017-10-30 16:51:12,023
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:51:12,279
+INFO:bullet number49 has been shown.:2017-10-30 16:51:12,279
+INFO:Rate me called.:2017-10-30 16:51:12,280
+INFO:user_input is a rating of:1:2017-10-30 16:51:15,334
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:51:15,599
+INFO:bullet number25 has been shown.:2017-10-30 16:51:15,599
+INFO:Rate me called.:2017-10-30 16:51:15,600
+INFO:user_input is a rating of:2:2017-10-30 16:51:18,406
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:51:18,743
+INFO:bullet number85 has been shown.:2017-10-30 16:51:18,744
+INFO:Rate me called.:2017-10-30 16:51:18,745
+INFO:user_input is a rating of:3:2017-10-30 16:51:21,006
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:51:21,207
+INFO:bullet number10 has been shown.:2017-10-30 16:51:21,207
+INFO:Rate me called.:2017-10-30 16:51:21,208
+INFO:user_input is a rating of:4:2017-10-30 16:51:24,895
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:51:25,159
+INFO:bullet number84 has been shown.:2017-10-30 16:51:25,159
+INFO:Rate me called.:2017-10-30 16:51:25,160
+INFO:user_input is a rating of:5:2017-10-30 16:51:28,599
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:51:28,935
+INFO:bullet number47 has been shown.:2017-10-30 16:51:28,935
+INFO:Rate me called.:2017-10-30 16:51:28,936
+INFO:user_input is a rating of:1:2017-10-30 16:51:31,695
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:51:31,959
+INFO:bullet number28 has been shown.:2017-10-30 16:51:31,959
+INFO:Rate me called.:2017-10-30 16:51:31,960
+INFO:user_input is a rating of:1:2017-10-30 16:51:37,439
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:51:38,190
+INFO:bullet number46 has been shown.:2017-10-30 16:51:38,191
+INFO:Rate me called.:2017-10-30 16:51:38,192
+INFO:user_input is a rating of:1:2017-10-30 16:51:41,815
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:51:42,063
+INFO:bullet number63 has been shown.:2017-10-30 16:51:42,064
+INFO:Rate me called.:2017-10-30 16:51:42,065
+INFO:user_input is a rating of:3:2017-10-30 16:52:21,423
+INFO:Saved pickle file to 'config.p':2017-10-30 16:52:21,882
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:53:45,775
+INFO:bullet number19 has been shown.:2017-10-30 16:53:45,775
+INFO:Rate me called.:2017-10-30 16:53:45,778
+INFO:user_input is a rating of:1:2017-10-30 16:53:48,582
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 16:53:48,870
+INFO:bullet number18 has been shown.:2017-10-30 16:53:48,870
+INFO:Rate me called.:2017-10-30 16:53:48,871
+INFO:user_input is a rating of:4:2017-10-30 16:53:53,014
+INFO:Saved pickle file to 'config.p':2017-10-30 16:55:47,941
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 17:38:58,784
+INFO:bullet number61 has been shown.:2017-10-30 17:38:58,797
+INFO:Rate me called.:2017-10-30 17:38:58,797
+INFO:user_input is a rating of:5:2017-10-30 17:39:08,530
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 17:39:08,914
+INFO:bullet number82 has been shown.:2017-10-30 17:39:08,914
+INFO:Rate me called.:2017-10-30 17:39:08,915
+INFO:user_input is a rating of:3:2017-10-30 17:39:17,874
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 17:39:18,594
+INFO:bullet number50 has been shown.:2017-10-30 17:39:18,594
+INFO:Rate me called.:2017-10-30 17:39:18,595
+INFO:user_input is a rating of:1:2017-10-30 17:39:26,506
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 17:39:26,796
+INFO:bullet number428 has been shown.:2017-10-30 17:39:26,796
+INFO:Rate me called.:2017-10-30 17:39:26,797
+INFO:user_input is a rating of:1:2017-10-30 17:39:31,074
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 17:39:31,586
+INFO:bullet number67 has been shown.:2017-10-30 17:39:31,586
+INFO:Rate me called.:2017-10-30 17:39:31,587
+INFO:user_input is a rating of:5:2017-10-30 17:39:33,482
+INFO:Saved pickle file to 'config.p':2017-10-30 17:39:34,181
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 17:39:34,746
+INFO:bullet number34 has been shown.:2017-10-30 17:39:34,746
+INFO:Rate me called.:2017-10-30 17:39:34,747
+INFO:user_input is a rating of:2:2017-10-30 17:39:39,866
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 17:39:40,210
+INFO:bullet number42 has been shown.:2017-10-30 17:39:40,210
+INFO:Rate me called.:2017-10-30 17:39:40,211
+INFO:user_input is a rating of:2:2017-10-30 17:39:59,833
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 17:40:00,314
+INFO:bullet number48 has been shown.:2017-10-30 17:40:00,314
+INFO:Rate me called.:2017-10-30 17:40:00,314
+INFO:user_input is a rating of:1:2017-10-30 17:40:06,658
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 17:40:07,257
+INFO:bullet number26 has been shown.:2017-10-30 17:40:07,257
+INFO:Rate me called.:2017-10-30 17:40:07,258
+INFO:user_input is a rating of:4:2017-10-30 17:40:10,850
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 17:40:11,066
+INFO:bullet number4 has been shown.:2017-10-30 17:40:11,066
+INFO:Rate me called.:2017-10-30 17:40:11,067
+INFO:user_input is a rating of:1:2017-10-30 17:40:13,234
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 17:40:13,434
+INFO:bullet number13 has been shown.:2017-10-30 17:40:13,435
+INFO:Rate me called.:2017-10-30 17:40:13,435
+INFO:user_input is a rating of:3:2017-10-30 17:40:17,473
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 17:40:17,690
+INFO:bullet number14 has been shown.:2017-10-30 17:40:17,690
+INFO:Rate me called.:2017-10-30 17:40:17,691
+INFO:user_input is a rating of:3:2017-10-30 17:40:21,009
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 17:40:21,242
+INFO:bullet number37 has been shown.:2017-10-30 17:40:21,242
+INFO:Rate me called.:2017-10-30 17:40:21,243
+INFO:user_input is a rating of:1:2017-10-30 17:40:24,594
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 17:40:24,978
+INFO:bullet number1 has been shown.:2017-10-30 17:40:24,978
+INFO:Rate me called.:2017-10-30 17:40:24,979
+INFO:user_input is a rating of:1:2017-10-30 17:40:28,713
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 17:40:28,986
+INFO:bullet number43 has been shown.:2017-10-30 17:40:28,986
+INFO:Rate me called.:2017-10-30 17:40:28,987
+INFO:user_input is a rating of:1:2017-10-30 17:40:32,705
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 17:40:32,937
+INFO:bullet number76 has been shown.:2017-10-30 17:40:32,937
+INFO:Rate me called.:2017-10-30 17:40:32,938
+INFO:user_input is a rating of:2:2017-10-30 17:41:40,890
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 17:41:42,233
+INFO:bullet number40 has been shown.:2017-10-30 17:41:42,235
+INFO:Rate me called.:2017-10-30 17:41:42,235
+INFO:user_input is a rating of:1:2017-10-30 17:41:46,402
+INFO:Saved pickle file to 'config.p':2017-10-30 17:41:46,883
+INFO:Saved pickle file to 'config.p':2017-10-30 17:41:48,509
+INFO:Opened pickle config file from 'config.p':2017-10-30 17:42:03,503
+INFO:all_authors now equals: [<__main__.Author object at 0x03A32770>, <__main__.Author object at 0x03A32250>, <__main__.Author object at 0x03A327D0>, <__main__.Author object at 0x03A327F0>, <__main__.Author object at 0x03A32810>, <__main__.Author object at 0x03A32850>, <__main__.Author object at 0x03A32870>, <__main__.Author object at 0x03A328F0>, <__main__.Author object at 0x03A32930>, <__main__.Author object at 0x03A32950>]:2017-10-30 17:42:03,505
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 17:42:12,034
+INFO:Opened pickle config file from 'config.p':2017-10-30 17:43:31,446
+INFO:all_authors now equals: [<__main__.Author object at 0x0303D770>, <__main__.Author object at 0x0303D250>, <__main__.Author object at 0x0303D7F0>, <__main__.Author object at 0x0303D810>, <__main__.Author object at 0x0303D830>, <__main__.Author object at 0x0303D870>, <__main__.Author object at 0x0303D890>, <__main__.Author object at 0x0303D910>, <__main__.Author object at 0x0303D950>, <__main__.Author object at 0x0303D970>]:2017-10-30 17:43:31,449
+INFO:Saved pickle file to 'config.p':2017-10-30 17:43:39,271
+INFO:Opened pickle config file from 'config.p':2017-10-30 17:44:13,512
+INFO:all_authors now equals: [<__main__.Author object at 0x0392C7B0>, <__main__.Author object at 0x0392C290>, <__main__.Author object at 0x0392C830>, <__main__.Author object at 0x0392C850>, <__main__.Author object at 0x0392C870>, <__main__.Author object at 0x0392C8B0>, <__main__.Author object at 0x0392C8D0>, <__main__.Author object at 0x0392C950>, <__main__.Author object at 0x0392C990>, <__main__.Author object at 0x0392C9B0>]:2017-10-30 17:44:13,514
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 17:44:31,889
+INFO:bullet number64 has been shown.:2017-10-30 17:44:31,889
+INFO:RATING_MODE_TOGGLE now set to: :2017-10-30 17:44:36,474
+INFO:User selected Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt by pressing a:2017-10-30 17:44:37,353
+INFO:bullet number28 has been shown.:2017-10-30 17:44:37,353
+INFO:Rate me called.:2017-10-30 17:44:37,354
+INFO:user_input is a rating of:1:2017-10-30 17:44:39,760
+INFO:ONLY_SHOW_ONCE_TOGGLE now = True:2017-10-30 17:44:41,832
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:44:45,328
+INFO:bullet number49 has been shown.:2017-10-30 17:44:45,329
+INFO:Rate me called.:2017-10-30 17:44:45,330
+INFO:user_input is a rating of:1:2017-10-30 17:44:53,176
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:44:55,672
+INFO:bullet number53 has been shown.:2017-10-30 17:44:55,672
+INFO:Rate me called.:2017-10-30 17:44:55,674
+INFO:user_input is a rating of:1:2017-10-30 17:45:01,201
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:45:03,385
+INFO:bullet number20 has been shown.:2017-10-30 17:45:03,385
+INFO:Rate me called.:2017-10-30 17:45:03,386
+INFO:user_input is a rating of:5:2017-10-30 17:45:08,480
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:45:09,041
+INFO:bullet number38 has been shown.:2017-10-30 17:45:09,041
+INFO:Rate me called.:2017-10-30 17:45:09,042
+INFO:user_input is a rating of:1:2017-10-30 17:45:17,145
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:45:17,873
+INFO:bullet number33 has been shown.:2017-10-30 17:45:17,873
+INFO:Rate me called.:2017-10-30 17:45:17,874
+INFO:user_input is a rating of:2:2017-10-30 17:45:21,616
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:45:30,216
+INFO:bullet number58 has been shown.:2017-10-30 17:45:30,217
+INFO:Rate me called.:2017-10-30 17:45:30,218
+INFO:user_input is a rating of:1:2017-10-30 17:45:34,224
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:45:35,760
+INFO:bullet number2 has been shown.:2017-10-30 17:45:35,760
+INFO:Rate me called.:2017-10-30 17:45:35,761
+INFO:user_input is a rating of:1:2017-10-30 17:45:44,048
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:45:44,832
+INFO:bullet number29 has been shown.:2017-10-30 17:45:44,832
+INFO:Rate me called.:2017-10-30 17:45:44,833
+INFO:user_input is a rating of:1:2017-10-30 17:45:54,977
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:45:55,320
+INFO:bullet number42 has been shown.:2017-10-30 17:45:55,320
+INFO:Rate me called.:2017-10-30 17:45:55,321
+INFO:user_input is a rating of:1:2017-10-30 17:46:28,560
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:46:29,040
+INFO:bullet number10 has been shown.:2017-10-30 17:46:29,040
+INFO:Rate me called.:2017-10-30 17:46:29,041
+INFO:user_input is a rating of:1:2017-10-30 17:46:33,960
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:46:34,256
+INFO:bullet number18 has been shown.:2017-10-30 17:46:34,256
+INFO:Rate me called.:2017-10-30 17:46:34,257
+INFO:user_input is a rating of:1:2017-10-30 17:46:39,921
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:46:40,296
+INFO:bullet number45 has been shown.:2017-10-30 17:46:40,296
+INFO:Rate me called.:2017-10-30 17:46:40,297
+INFO:rate_me() threw ValueError:2017-10-30 17:46:51,464
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:46:54,064
+INFO:bullet number35 has been shown.:2017-10-30 17:46:54,064
+INFO:Rate me called.:2017-10-30 17:46:54,065
+INFO:user_input is a rating of:1:2017-10-30 17:46:59,175
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:47:00,008
+INFO:bullet number14 has been shown.:2017-10-30 17:47:00,008
+INFO:Rate me called.:2017-10-30 17:47:00,009
+INFO:user_input is a rating of:1:2017-10-30 17:47:05,736
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:47:06,631
+INFO:bullet number21 has been shown.:2017-10-30 17:47:06,631
+INFO:Rate me called.:2017-10-30 17:47:06,632
+INFO:user_input is a rating of:2:2017-10-30 17:47:13,265
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:47:13,816
+INFO:bullet number36 has been shown.:2017-10-30 17:47:13,816
+INFO:Rate me called.:2017-10-30 17:47:13,817
+INFO:user_input is a rating of:2:2017-10-30 17:47:23,408
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:47:23,928
+INFO:bullet number6 has been shown.:2017-10-30 17:47:23,928
+INFO:Rate me called.:2017-10-30 17:47:23,929
+INFO:user_input is a rating of:3:2017-10-30 17:47:28,656
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:47:29,024
+INFO:bullet number12 has been shown.:2017-10-30 17:47:29,024
+INFO:Rate me called.:2017-10-30 17:47:29,025
+INFO:user_input is a rating of:1:2017-10-30 17:47:35,336
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:47:35,576
+INFO:bullet number40 has been shown.:2017-10-30 17:47:35,576
+INFO:Rate me called.:2017-10-30 17:47:35,577
+INFO:user_input is a rating of:1:2017-10-30 17:47:40,384
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:47:40,640
+INFO:bullet number30 has been shown.:2017-10-30 17:47:40,640
+INFO:Rate me called.:2017-10-30 17:47:40,641
+INFO:user_input is a rating of:1:2017-10-30 17:47:45,128
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:47:45,376
+INFO:bullet number55 has been shown.:2017-10-30 17:47:45,376
+INFO:Rate me called.:2017-10-30 17:47:45,377
+INFO:user_input is a rating of:1:2017-10-30 17:47:51,224
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:47:51,575
+INFO:bullet number19 has been shown.:2017-10-30 17:47:51,576
+INFO:Rate me called.:2017-10-30 17:47:51,577
+INFO:user_input is a rating of:4:2017-10-30 17:47:59,159
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:47:59,672
+INFO:bullet number51 has been shown.:2017-10-30 17:47:59,672
+INFO:Rate me called.:2017-10-30 17:47:59,673
+INFO:user_input is a rating of:2:2017-10-30 17:48:06,040
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:48:06,704
+INFO:bullet number23 has been shown.:2017-10-30 17:48:06,704
+INFO:Rate me called.:2017-10-30 17:48:06,705
+INFO:user_input is a rating of:2:2017-10-30 17:48:44,136
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:48:44,408
+INFO:bullet number57 has been shown.:2017-10-30 17:48:44,408
+INFO:Rate me called.:2017-10-30 17:48:44,409
+INFO:user_input is a rating of:1:2017-10-30 17:48:54,943
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:48:55,623
+INFO:bullet number4 has been shown.:2017-10-30 17:48:55,623
+INFO:Rate me called.:2017-10-30 17:48:55,624
+INFO:user_input is a rating of:3:2017-10-30 17:48:59,712
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:49:00,119
+INFO:bullet number11 has been shown.:2017-10-30 17:49:00,119
+INFO:Rate me called.:2017-10-30 17:49:00,120
+INFO:user_input is a rating of:1:2017-10-30 17:49:03,079
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:49:03,407
+INFO:bullet number34 has been shown.:2017-10-30 17:49:03,407
+INFO:Rate me called.:2017-10-30 17:49:03,408
+INFO:user_input is a rating of:3:2017-10-30 17:49:07,936
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:49:08,223
+INFO:bullet number39 has been shown.:2017-10-30 17:49:08,225
+INFO:Rate me called.:2017-10-30 17:49:08,225
+INFO:user_input is a rating of:1:2017-10-30 17:49:13,799
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:49:14,056
+INFO:bullet number31 has been shown.:2017-10-30 17:49:14,056
+INFO:Rate me called.:2017-10-30 17:49:14,057
+INFO:user_input is a rating of:1:2017-10-30 17:49:19,230
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:49:19,519
+INFO:bullet number41 has been shown.:2017-10-30 17:49:19,519
+INFO:Rate me called.:2017-10-30 17:49:19,520
+INFO:user_input is a rating of:1:2017-10-30 17:49:23,718
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:49:23,968
+INFO:bullet number7 has been shown.:2017-10-30 17:49:23,968
+INFO:Rate me called.:2017-10-30 17:49:23,969
+INFO:user_input is a rating of:2:2017-10-30 17:49:33,528
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:49:33,888
+INFO:bullet number5 has been shown.:2017-10-30 17:49:33,888
+INFO:Rate me called.:2017-10-30 17:49:33,889
+INFO:user_input is a rating of:1:2017-10-30 17:49:36,928
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:49:37,312
+INFO:bullet number25 has been shown.:2017-10-30 17:49:37,312
+INFO:Rate me called.:2017-10-30 17:49:37,313
+INFO:user_input is a rating of:1:2017-10-30 17:49:50,672
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:49:59,030
+INFO:bullet number44 has been shown.:2017-10-30 17:49:59,030
+INFO:Rate me called.:2017-10-30 17:49:59,032
+INFO:user_input is a rating of:1:2017-10-30 17:50:08,703
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:50:10,175
+INFO:bullet number9 has been shown.:2017-10-30 17:50:10,175
+INFO:Rate me called.:2017-10-30 17:50:10,177
+INFO:user_input is a rating of:4:2017-10-30 17:50:15,559
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:50:16,230
+INFO:bullet number54 has been shown.:2017-10-30 17:50:16,231
+INFO:Rate me called.:2017-10-30 17:50:16,232
+INFO:user_input is a rating of:1:2017-10-30 17:50:24,071
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:50:25,622
+INFO:bullet number28 has been shown.:2017-10-30 17:50:25,623
+INFO:Rate me called.:2017-10-30 17:50:25,623
+INFO:user_input is a rating of:2:2017-10-30 17:50:29,319
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:50:29,774
+INFO:bullet number8 has been shown.:2017-10-30 17:50:29,775
+INFO:Rate me called.:2017-10-30 17:50:29,776
+INFO:user_input is a rating of:5:2017-10-30 17:50:32,695
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:50:33,015
+INFO:bullet number16 has been shown.:2017-10-30 17:50:33,016
+INFO:Rate me called.:2017-10-30 17:50:33,017
+INFO:user_input is a rating of:4:2017-10-30 17:50:35,919
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:50:36,215
+INFO:bullet number56 has been shown.:2017-10-30 17:50:36,215
+INFO:Rate me called.:2017-10-30 17:50:36,216
+INFO:user_input is a rating of:1:2017-10-30 17:50:45,422
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:50:45,718
+INFO:bullet number22 has been shown.:2017-10-30 17:50:45,718
+INFO:Rate me called.:2017-10-30 17:50:45,719
+INFO:user_input is a rating of:1:2017-10-30 17:50:51,887
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:50:52,175
+INFO:bullet number3 has been shown.:2017-10-30 17:50:52,175
+INFO:Rate me called.:2017-10-30 17:50:52,176
+INFO:user_input is a rating of:4:2017-10-30 17:50:56,791
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:50:57,127
+INFO:bullet number48 has been shown.:2017-10-30 17:50:57,128
+INFO:Rate me called.:2017-10-30 17:50:57,129
+INFO:user_input is a rating of:4:2017-10-30 17:51:03,455
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:51:04,919
+INFO:bullet number46 has been shown.:2017-10-30 17:51:04,919
+INFO:Rate me called.:2017-10-30 17:51:04,920
+INFO:user_input is a rating of:4:2017-10-30 17:52:09,774
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:52:10,031
+INFO:bullet number0 has been shown.:2017-10-30 17:52:10,031
+INFO:Rate me called.:2017-10-30 17:52:10,032
+INFO:user_input is a rating of:3:2017-10-30 17:52:16,023
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:52:16,247
+INFO:bullet number1 has been shown.:2017-10-30 17:52:16,247
+INFO:Rate me called.:2017-10-30 17:52:16,248
+INFO:user_input is a rating of:3:2017-10-30 17:52:20,279
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:52:20,503
+INFO:bullet number24 has been shown.:2017-10-30 17:52:20,503
+INFO:Rate me called.:2017-10-30 17:52:20,504
+INFO:user_input is a rating of:2:2017-10-30 17:52:27,159
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:52:27,375
+INFO:bullet number17 has been shown.:2017-10-30 17:52:27,375
+INFO:Rate me called.:2017-10-30 17:52:27,375
+INFO:user_input is a rating of:5:2017-10-30 17:52:32,726
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:52:34,382
+INFO:bullet number27 has been shown.:2017-10-30 17:52:34,382
+INFO:Rate me called.:2017-10-30 17:52:34,384
+INFO:user_input is a rating of:1:2017-10-30 17:52:41,862
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:52:42,134
+INFO:bullet number43 has been shown.:2017-10-30 17:52:42,135
+INFO:Rate me called.:2017-10-30 17:52:42,136
+INFO:user_input is a rating of:2:2017-10-30 17:52:44,254
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:52:44,519
+INFO:bullet number37 has been shown.:2017-10-30 17:52:44,519
+INFO:Rate me called.:2017-10-30 17:52:44,520
+INFO:user_input is a rating of:3:2017-10-30 17:52:47,846
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:54:02,701
+INFO:bullet number15 has been shown.:2017-10-30 17:54:02,701
+INFO:Rate me called.:2017-10-30 17:54:02,703
+INFO:user_input is a rating of:4:2017-10-30 17:54:08,382
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:54:08,918
+INFO:bullet number32 has been shown.:2017-10-30 17:54:08,918
+INFO:Rate me called.:2017-10-30 17:54:08,919
+INFO:user_input is a rating of:2:2017-10-30 17:54:12,990
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:54:13,301
+INFO:bullet number47 has been shown.:2017-10-30 17:54:13,301
+INFO:Rate me called.:2017-10-30 17:54:13,302
+INFO:user_input is a rating of:2:2017-10-30 17:54:15,807
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:54:16,063
+INFO:bullet number46 has been shown.:2017-10-30 17:54:16,064
+INFO:Rate me called.:2017-10-30 17:54:16,064
+INFO:user_input is a rating of:4:2017-10-30 17:54:24,317
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 17:54:24,718
+INFO:bullet number17 has been shown.:2017-10-30 17:54:24,718
+INFO:Rate me called.:2017-10-30 17:54:24,718
+INFO:user_input is a rating of:5:2017-10-30 17:54:31,543
+INFO:Saved pickle file to 'config.p':2017-10-30 17:55:01,687
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 17:55:08,582
+INFO:bullet number91 has been shown.:2017-10-30 17:55:08,582
+INFO:Rate me called.:2017-10-30 17:55:08,582
+INFO:user_input is a rating of:3:2017-10-30 17:55:15,398
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 17:55:17,942
+INFO:bullet number48 has been shown.:2017-10-30 17:55:17,942
+INFO:Rate me called.:2017-10-30 17:55:17,942
+INFO:user_input is a rating of:2:2017-10-30 17:55:31,270
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 17:55:31,885
+INFO:bullet number67 has been shown.:2017-10-30 17:55:31,886
+INFO:Rate me called.:2017-10-30 17:55:31,886
+INFO:user_input is a rating of:1:2017-10-30 17:55:34,094
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 17:55:34,670
+INFO:bullet number56 has been shown.:2017-10-30 17:55:34,670
+INFO:Rate me called.:2017-10-30 17:55:34,671
+INFO:user_input is a rating of:1:2017-10-30 17:55:37,125
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 17:55:37,686
+INFO:bullet number52 has been shown.:2017-10-30 17:55:37,686
+INFO:Rate me called.:2017-10-30 17:55:37,687
+INFO:user_input is a rating of:3:2017-10-30 17:55:43,405
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 17:55:44,093
+INFO:bullet number13 has been shown.:2017-10-30 17:55:44,093
+INFO:Rate me called.:2017-10-30 17:55:44,095
+INFO:user_input is a rating of:1:2017-10-30 17:55:46,821
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 17:55:47,318
+INFO:bullet number60 has been shown.:2017-10-30 17:55:47,318
+INFO:Rate me called.:2017-10-30 17:55:47,319
+INFO:user_input is a rating of:2:2017-10-30 17:55:51,973
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 17:55:52,517
+INFO:bullet number98 has been shown.:2017-10-30 17:55:52,517
+INFO:Rate me called.:2017-10-30 17:55:52,518
+INFO:user_input is a rating of:1:2017-10-30 17:55:57,429
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 17:55:58,126
+INFO:bullet number55 has been shown.:2017-10-30 17:55:58,126
+INFO:Rate me called.:2017-10-30 17:55:58,127
+INFO:user_input is a rating of:4:2017-10-30 17:56:01,246
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 17:56:01,853
+INFO:bullet number16 has been shown.:2017-10-30 17:56:01,854
+INFO:Rate me called.:2017-10-30 17:56:01,855
+INFO:user_input is a rating of:2:2017-10-30 17:56:06,517
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 17:56:07,054
+INFO:bullet number95 has been shown.:2017-10-30 17:56:07,054
+INFO:Rate me called.:2017-10-30 17:56:07,055
+INFO:user_input is a rating of:4:2017-10-30 17:56:11,966
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 17:56:12,725
+INFO:bullet number47 has been shown.:2017-10-30 17:56:12,726
+INFO:Rate me called.:2017-10-30 17:56:12,727
+INFO:user_input is a rating of:5:2017-10-30 17:56:14,941
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 17:56:15,557
+INFO:bullet number81 has been shown.:2017-10-30 17:56:15,557
+INFO:Rate me called.:2017-10-30 17:56:15,558
+INFO:user_input is a rating of:4:2017-10-30 17:56:18,142
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 17:56:18,654
+INFO:bullet number96 has been shown.:2017-10-30 17:56:18,654
+INFO:Rate me called.:2017-10-30 17:56:18,655
+INFO:user_input is a rating of:1:2017-10-30 17:56:23,454
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 17:56:23,998
+INFO:bullet number12 has been shown.:2017-10-30 17:56:23,998
+INFO:Rate me called.:2017-10-30 17:56:23,999
+INFO:user_input is a rating of:1:2017-10-30 17:56:26,086
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 17:56:26,646
+INFO:bullet number99 has been shown.:2017-10-30 17:56:26,646
+INFO:Rate me called.:2017-10-30 17:56:26,647
+INFO:user_input is a rating of:1:2017-10-30 17:56:32,133
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 17:56:32,734
+INFO:bullet number90 has been shown.:2017-10-30 17:56:32,734
+INFO:Rate me called.:2017-10-30 17:56:32,735
+INFO:user_input is a rating of:4:2017-10-30 17:56:37,350
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 17:56:37,870
+INFO:bullet number0 has been shown.:2017-10-30 17:56:37,870
+INFO:Rate me called.:2017-10-30 17:56:37,871
+INFO:user_input is a rating of:1:2017-10-30 17:56:43,269
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 17:56:43,798
+INFO:bullet number44 has been shown.:2017-10-30 17:56:43,798
+INFO:Rate me called.:2017-10-30 17:56:43,799
+INFO:user_input is a rating of:4:2017-10-30 17:56:48,205
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 17:56:48,685
+INFO:bullet number37 has been shown.:2017-10-30 17:56:48,685
+INFO:Rate me called.:2017-10-30 17:56:48,686
+INFO:user_input is a rating of:4:2017-10-30 17:56:52,094
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 17:56:52,796
+INFO:bullet number25 has been shown.:2017-10-30 17:56:52,796
+INFO:Rate me called.:2017-10-30 17:56:52,798
+INFO:user_input is a rating of:1:2017-10-30 17:56:56,357
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 17:56:56,870
+INFO:bullet number57 has been shown.:2017-10-30 17:56:56,870
+INFO:Rate me called.:2017-10-30 17:56:56,871
+INFO:rate_me() threw ValueError:2017-10-30 17:57:09,556
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:01:02,700
+INFO:bullet number10 has been shown.:2017-10-30 18:01:02,700
+INFO:Rate me called.:2017-10-30 18:01:02,702
+INFO:user_input is a rating of:3:2017-10-30 18:01:09,980
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:01:12,308
+INFO:bullet number30 has been shown.:2017-10-30 18:01:12,308
+INFO:Rate me called.:2017-10-30 18:01:12,309
+INFO:user_input is a rating of:1:2017-10-30 18:01:23,852
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:01:25,619
+INFO:bullet number61 has been shown.:2017-10-30 18:01:25,619
+INFO:Rate me called.:2017-10-30 18:01:25,621
+INFO:user_input is a rating of:1:2017-10-30 18:01:35,724
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:01:37,484
+INFO:bullet number65 has been shown.:2017-10-30 18:01:37,484
+INFO:Rate me called.:2017-10-30 18:01:37,485
+INFO:user_input is a rating of:1:2017-10-30 18:01:43,788
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:01:44,772
+INFO:bullet number79 has been shown.:2017-10-30 18:01:44,772
+INFO:Rate me called.:2017-10-30 18:01:44,773
+INFO:user_input is a rating of:1:2017-10-30 18:01:48,069
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:01:48,613
+INFO:bullet number33 has been shown.:2017-10-30 18:01:48,613
+INFO:Rate me called.:2017-10-30 18:01:48,614
+INFO:user_input is a rating of:4:2017-10-30 18:01:51,996
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:01:52,596
+INFO:bullet number85 has been shown.:2017-10-30 18:01:52,597
+INFO:Rate me called.:2017-10-30 18:01:52,598
+INFO:user_input is a rating of:4:2017-10-30 18:01:55,532
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:01:56,085
+INFO:bullet number72 has been shown.:2017-10-30 18:01:56,085
+INFO:Rate me called.:2017-10-30 18:01:56,086
+INFO:user_input is a rating of:1:2017-10-30 18:01:59,060
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:01:59,563
+INFO:bullet number27 has been shown.:2017-10-30 18:01:59,564
+INFO:Rate me called.:2017-10-30 18:01:59,565
+INFO:user_input is a rating of:5:2017-10-30 18:02:02,452
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:02:02,996
+INFO:bullet number43 has been shown.:2017-10-30 18:02:02,996
+INFO:Rate me called.:2017-10-30 18:02:02,997
+INFO:user_input is a rating of:1:2017-10-30 18:02:19,460
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:02:20,060
+INFO:bullet number88 has been shown.:2017-10-30 18:02:20,060
+INFO:Rate me called.:2017-10-30 18:02:20,061
+INFO:user_input is a rating of:1:2017-10-30 18:02:29,084
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:02:29,740
+INFO:bullet number58 has been shown.:2017-10-30 18:02:29,740
+INFO:Rate me called.:2017-10-30 18:02:29,741
+INFO:user_input is a rating of:1:2017-10-30 18:02:38,676
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:02:39,291
+INFO:bullet number4 has been shown.:2017-10-30 18:02:39,291
+INFO:Rate me called.:2017-10-30 18:02:39,292
+INFO:user_input is a rating of:4:2017-10-30 18:02:45,980
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:02:46,724
+INFO:bullet number1 has been shown.:2017-10-30 18:02:46,724
+INFO:Rate me called.:2017-10-30 18:02:46,725
+INFO:user_input is a rating of:4:2017-10-30 18:02:49,828
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:02:50,372
+INFO:bullet number50 has been shown.:2017-10-30 18:02:50,372
+INFO:Rate me called.:2017-10-30 18:02:50,373
+INFO:user_input is a rating of:3:2017-10-30 18:03:00,011
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:03:00,579
+INFO:bullet number46 has been shown.:2017-10-30 18:03:00,579
+INFO:Rate me called.:2017-10-30 18:03:00,580
+INFO:user_input is a rating of:1:2017-10-30 18:03:08,267
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:03:09,427
+INFO:bullet number17 has been shown.:2017-10-30 18:03:09,427
+INFO:Rate me called.:2017-10-30 18:03:09,429
+INFO:user_input is a rating of:1:2017-10-30 18:03:14,284
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:03:14,907
+INFO:bullet number5 has been shown.:2017-10-30 18:03:14,907
+INFO:Rate me called.:2017-10-30 18:03:14,908
+INFO:user_input is a rating of:1:2017-10-30 18:03:18,372
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:03:18,924
+INFO:bullet number94 has been shown.:2017-10-30 18:03:18,924
+INFO:Rate me called.:2017-10-30 18:03:18,925
+INFO:user_input is a rating of:3:2017-10-30 18:03:38,227
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:03:38,811
+INFO:bullet number9 has been shown.:2017-10-30 18:03:38,811
+INFO:Rate me called.:2017-10-30 18:03:38,813
+INFO:user_input is a rating of:1:2017-10-30 18:03:47,059
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:03:47,612
+INFO:bullet number19 has been shown.:2017-10-30 18:03:47,612
+INFO:Rate me called.:2017-10-30 18:03:47,613
+INFO:user_input is a rating of:2:2017-10-30 18:03:52,555
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:03:53,100
+INFO:bullet number83 has been shown.:2017-10-30 18:03:53,100
+INFO:Rate me called.:2017-10-30 18:03:53,101
+INFO:user_input is a rating of:4:2017-10-30 18:03:58,219
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:03:58,811
+INFO:bullet number49 has been shown.:2017-10-30 18:03:58,811
+INFO:Rate me called.:2017-10-30 18:03:58,812
+INFO:user_input is a rating of:1:2017-10-30 18:04:02,539
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:04:03,123
+INFO:bullet number73 has been shown.:2017-10-30 18:04:03,123
+INFO:Rate me called.:2017-10-30 18:04:03,124
+INFO:user_input is a rating of:1:2017-10-30 18:04:08,499
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:04:09,035
+INFO:bullet number36 has been shown.:2017-10-30 18:04:09,035
+INFO:Rate me called.:2017-10-30 18:04:09,036
+INFO:user_input is a rating of:1:2017-10-30 18:04:14,243
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:04:14,803
+INFO:bullet number92 has been shown.:2017-10-30 18:04:14,803
+INFO:Rate me called.:2017-10-30 18:04:14,804
+INFO:user_input is a rating of:1:2017-10-30 18:04:17,019
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:04:17,563
+INFO:bullet number71 has been shown.:2017-10-30 18:04:17,563
+INFO:Rate me called.:2017-10-30 18:04:17,564
+INFO:user_input is a rating of:1:2017-10-30 18:04:20,707
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:04:21,243
+INFO:bullet number77 has been shown.:2017-10-30 18:04:21,243
+INFO:Rate me called.:2017-10-30 18:04:21,246
+INFO:user_input is a rating of:1:2017-10-30 18:04:28,643
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:04:29,251
+INFO:bullet number54 has been shown.:2017-10-30 18:04:29,251
+INFO:Rate me called.:2017-10-30 18:04:29,252
+INFO:user_input is a rating of:1:2017-10-30 18:04:32,963
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:04:33,554
+INFO:bullet number39 has been shown.:2017-10-30 18:04:33,555
+INFO:Rate me called.:2017-10-30 18:04:33,556
+INFO:user_input is a rating of:4:2017-10-30 18:04:36,443
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:04:37,035
+INFO:bullet number80 has been shown.:2017-10-30 18:04:37,035
+INFO:Rate me called.:2017-10-30 18:04:37,036
+INFO:user_input is a rating of:4:2017-10-30 18:04:39,460
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:04:39,987
+INFO:bullet number22 has been shown.:2017-10-30 18:04:39,987
+INFO:Rate me called.:2017-10-30 18:04:39,988
+INFO:user_input is a rating of:1:2017-10-30 18:04:48,458
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:04:51,323
+INFO:bullet number38 has been shown.:2017-10-30 18:04:51,323
+INFO:Rate me called.:2017-10-30 18:04:51,324
+INFO:user_input is a rating of:1:2017-10-30 18:04:59,530
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:05:00,139
+INFO:bullet number11 has been shown.:2017-10-30 18:05:00,139
+INFO:Rate me called.:2017-10-30 18:05:00,140
+INFO:user_input is a rating of:1:2017-10-30 18:05:08,251
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:05:08,843
+INFO:bullet number68 has been shown.:2017-10-30 18:05:08,843
+INFO:Rate me called.:2017-10-30 18:05:08,844
+INFO:user_input is a rating of:1:2017-10-30 18:05:12,579
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:05:13,187
+INFO:bullet number28 has been shown.:2017-10-30 18:05:13,187
+INFO:Rate me called.:2017-10-30 18:05:13,188
+INFO:user_input is a rating of:4:2017-10-30 18:05:21,955
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:05:22,539
+INFO:bullet number7 has been shown.:2017-10-30 18:05:22,539
+INFO:Rate me called.:2017-10-30 18:05:22,540
+INFO:user_input is a rating of:1:2017-10-30 18:05:28,467
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:05:29,346
+INFO:bullet number53 has been shown.:2017-10-30 18:05:29,347
+INFO:Rate me called.:2017-10-30 18:05:29,348
+INFO:user_input is a rating of:1:2017-10-30 18:05:33,115
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:05:33,667
+INFO:bullet number78 has been shown.:2017-10-30 18:05:33,667
+INFO:Rate me called.:2017-10-30 18:05:33,668
+INFO:user_input is a rating of:1:2017-10-30 18:05:36,626
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:05:37,227
+INFO:bullet number32 has been shown.:2017-10-30 18:05:37,227
+INFO:Rate me called.:2017-10-30 18:05:37,228
+INFO:user_input is a rating of:1:2017-10-30 18:05:43,339
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:05:43,883
+INFO:bullet number69 has been shown.:2017-10-30 18:05:43,883
+INFO:Rate me called.:2017-10-30 18:05:43,884
+INFO:user_input is a rating of:1:2017-10-30 18:05:47,531
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:05:48,067
+INFO:bullet number76 has been shown.:2017-10-30 18:05:48,067
+INFO:Rate me called.:2017-10-30 18:05:48,068
+INFO:user_input is a rating of:1:2017-10-30 18:05:51,340
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:05:51,818
+INFO:bullet number66 has been shown.:2017-10-30 18:05:51,818
+INFO:Rate me called.:2017-10-30 18:05:51,819
+INFO:user_input is a rating of:1:2017-10-30 18:05:56,218
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:05:56,722
+INFO:bullet number29 has been shown.:2017-10-30 18:05:56,722
+INFO:Rate me called.:2017-10-30 18:05:56,724
+INFO:user_input is a rating of:1:2017-10-30 18:06:03,522
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:06:04,043
+INFO:bullet number18 has been shown.:2017-10-30 18:06:04,043
+INFO:Rate me called.:2017-10-30 18:06:04,044
+INFO:user_input is a rating of:4:2017-10-30 18:06:09,042
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:06:09,522
+INFO:bullet number45 has been shown.:2017-10-30 18:06:09,522
+INFO:Rate me called.:2017-10-30 18:06:09,523
+INFO:user_input is a rating of:4:2017-10-30 18:06:15,738
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:06:16,610
+INFO:bullet number14 has been shown.:2017-10-30 18:06:16,610
+INFO:Rate me called.:2017-10-30 18:06:16,612
+INFO:user_input is a rating of:3:2017-10-30 18:06:28,858
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:06:29,386
+INFO:bullet number86 has been shown.:2017-10-30 18:06:29,386
+INFO:Rate me called.:2017-10-30 18:06:29,388
+INFO:user_input is a rating of:1:2017-10-30 18:06:31,682
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:06:32,115
+INFO:bullet number64 has been shown.:2017-10-30 18:06:32,115
+INFO:Rate me called.:2017-10-30 18:06:32,116
+INFO:user_input is a rating of:1:2017-10-30 18:06:38,019
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:06:38,506
+INFO:bullet number70 has been shown.:2017-10-30 18:06:38,506
+INFO:Rate me called.:2017-10-30 18:06:38,508
+INFO:user_input is a rating of:1:2017-10-30 18:06:41,570
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:06:42,026
+INFO:bullet number15 has been shown.:2017-10-30 18:06:42,026
+INFO:Rate me called.:2017-10-30 18:06:42,026
+INFO:user_input is a rating of:1:2017-10-30 18:06:46,185
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:06:46,618
+INFO:bullet number40 has been shown.:2017-10-30 18:06:46,618
+INFO:Rate me called.:2017-10-30 18:06:46,619
+INFO:user_input is a rating of:1:2017-10-30 18:06:52,426
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:06:52,898
+INFO:bullet number42 has been shown.:2017-10-30 18:06:52,898
+INFO:Rate me called.:2017-10-30 18:06:52,900
+INFO:user_input is a rating of:1:2017-10-30 18:06:55,546
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:06:55,986
+INFO:bullet number62 has been shown.:2017-10-30 18:06:55,986
+INFO:Rate me called.:2017-10-30 18:06:55,988
+INFO:user_input is a rating of:1:2017-10-30 18:07:03,258
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:07:03,763
+INFO:bullet number74 has been shown.:2017-10-30 18:07:03,763
+INFO:Rate me called.:2017-10-30 18:07:03,764
+INFO:user_input is a rating of:1:2017-10-30 18:07:07,179
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:07:07,586
+INFO:bullet number87 has been shown.:2017-10-30 18:07:07,586
+INFO:Rate me called.:2017-10-30 18:07:07,588
+INFO:user_input is a rating of:1:2017-10-30 18:07:11,146
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:07:11,578
+INFO:bullet number20 has been shown.:2017-10-30 18:07:11,579
+INFO:Rate me called.:2017-10-30 18:07:11,580
+INFO:user_input is a rating of:1:2017-10-30 18:07:21,706
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:07:22,195
+INFO:bullet number41 has been shown.:2017-10-30 18:07:22,195
+INFO:Rate me called.:2017-10-30 18:07:22,196
+INFO:user_input is a rating of:5:2017-10-30 18:07:31,474
+INFO:Saved pickle file to 'config.p':2017-10-30 18:07:32,508
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:07:33,954
+INFO:bullet number24 has been shown.:2017-10-30 18:07:33,954
+INFO:Rate me called.:2017-10-30 18:07:33,955
+INFO:user_input is a rating of:1:2017-10-30 18:08:27,882
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:08:28,458
+INFO:bullet number51 has been shown.:2017-10-30 18:08:28,458
+INFO:Rate me called.:2017-10-30 18:08:28,459
+INFO:user_input is a rating of:4:2017-10-30 18:08:36,810
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:08:37,242
+INFO:bullet number75 has been shown.:2017-10-30 18:08:37,242
+INFO:Rate me called.:2017-10-30 18:08:37,243
+INFO:user_input is a rating of:4:2017-10-30 18:08:40,883
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:08:41,346
+INFO:bullet number6 has been shown.:2017-10-30 18:08:41,346
+INFO:Rate me called.:2017-10-30 18:08:41,347
+INFO:user_input is a rating of:4:2017-10-30 18:08:45,594
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:08:46,050
+INFO:bullet number89 has been shown.:2017-10-30 18:08:46,050
+INFO:Rate me called.:2017-10-30 18:08:46,051
+INFO:user_input is a rating of:4:2017-10-30 18:08:48,754
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:08:49,187
+INFO:bullet number59 has been shown.:2017-10-30 18:08:49,187
+INFO:Rate me called.:2017-10-30 18:08:49,188
+INFO:user_input is a rating of:1:2017-10-30 18:08:52,298
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:08:52,777
+INFO:bullet number31 has been shown.:2017-10-30 18:08:52,777
+INFO:Rate me called.:2017-10-30 18:08:52,778
+INFO:user_input is a rating of:1:2017-10-30 18:09:06,410
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:09:08,146
+INFO:bullet number35 has been shown.:2017-10-30 18:09:08,146
+INFO:Rate me called.:2017-10-30 18:09:08,147
+INFO:user_input is a rating of:1:2017-10-30 18:09:12,506
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:09:12,954
+INFO:bullet number84 has been shown.:2017-10-30 18:09:12,954
+INFO:Rate me called.:2017-10-30 18:09:12,955
+INFO:user_input is a rating of:1:2017-10-30 18:09:14,738
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:09:15,193
+INFO:bullet number82 has been shown.:2017-10-30 18:09:15,194
+INFO:Rate me called.:2017-10-30 18:09:15,195
+INFO:user_input is a rating of:5:2017-10-30 18:09:20,354
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:09:20,826
+INFO:bullet number100 has been shown.:2017-10-30 18:09:20,826
+INFO:Rate me called.:2017-10-30 18:09:20,827
+INFO:user_input is a rating of:1:2017-10-30 18:09:23,186
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:09:23,634
+INFO:bullet number101 has been shown.:2017-10-30 18:09:23,634
+INFO:Rate me called.:2017-10-30 18:09:23,635
+INFO:user_input is a rating of:1:2017-10-30 18:09:27,226
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:09:27,713
+INFO:bullet number97 has been shown.:2017-10-30 18:09:27,713
+INFO:Rate me called.:2017-10-30 18:09:27,714
+INFO:user_input is a rating of:4:2017-10-30 18:09:31,466
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:09:31,914
+INFO:bullet number2 has been shown.:2017-10-30 18:09:31,914
+INFO:Rate me called.:2017-10-30 18:09:31,915
+INFO:user_input is a rating of:1:2017-10-30 18:09:38,954
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:15:10,840
+INFO:bullet number23 has been shown.:2017-10-30 18:15:10,840
+INFO:Rate me called.:2017-10-30 18:15:10,845
+INFO:user_input is a rating of:1:2017-10-30 18:15:13,072
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:15:13,600
+INFO:bullet number26 has been shown.:2017-10-30 18:15:13,600
+INFO:Rate me called.:2017-10-30 18:15:13,601
+INFO:user_input is a rating of:5:2017-10-30 18:15:15,896
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:15:16,392
+INFO:bullet number8 has been shown.:2017-10-30 18:15:16,392
+INFO:Rate me called.:2017-10-30 18:15:16,393
+INFO:user_input is a rating of:4:2017-10-30 18:15:19,856
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:15:20,344
+INFO:bullet number3 has been shown.:2017-10-30 18:15:20,344
+INFO:Rate me called.:2017-10-30 18:15:20,345
+INFO:user_input is a rating of:4:2017-10-30 18:15:23,120
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:15:23,544
+INFO:bullet number93 has been shown.:2017-10-30 18:15:23,544
+INFO:Rate me called.:2017-10-30 18:15:23,544
+INFO:user_input is a rating of:5:2017-10-30 18:15:26,151
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:15:26,672
+INFO:bullet number21 has been shown.:2017-10-30 18:15:26,672
+INFO:Rate me called.:2017-10-30 18:15:26,673
+INFO:user_input is a rating of:1:2017-10-30 18:15:29,792
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:15:30,233
+INFO:bullet number63 has been shown.:2017-10-30 18:15:30,233
+INFO:Rate me called.:2017-10-30 18:15:30,234
+INFO:user_input is a rating of:1:2017-10-30 18:15:32,352
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:15:32,792
+INFO:bullet number34 has been shown.:2017-10-30 18:15:32,792
+INFO:Rate me called.:2017-10-30 18:15:32,793
+INFO:user_input is a rating of:1:2017-10-30 18:15:37,001
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:15:37,480
+INFO:bullet number84 has been shown.:2017-10-30 18:15:37,487
+INFO:Rate me called.:2017-10-30 18:15:37,487
+INFO:user_input is a rating of:1:2017-10-30 18:15:39,608
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:15:40,072
+INFO:bullet number29 has been shown.:2017-10-30 18:15:40,072
+INFO:Rate me called.:2017-10-30 18:15:40,073
+INFO:user_input is a rating of:1:2017-10-30 18:15:50,512
+INFO:Saved pickle file to 'config.p':2017-10-30 18:15:52,307
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:17:03,175
+INFO:bullet number40 has been shown.:2017-10-30 18:17:03,176
+INFO:Rate me called.:2017-10-30 18:17:03,179
+INFO:user_input is a rating of:5:2017-10-30 18:17:07,359
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:17:07,759
+INFO:bullet number47 has been shown.:2017-10-30 18:17:07,759
+INFO:Rate me called.:2017-10-30 18:17:07,761
+INFO:user_input is a rating of:1:2017-10-30 18:17:18,616
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:17:19,032
+INFO:bullet number25 has been shown.:2017-10-30 18:17:19,032
+INFO:Rate me called.:2017-10-30 18:17:19,033
+INFO:user_input is a rating of:4:2017-10-30 18:17:27,584
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:17:27,960
+INFO:bullet number5 has been shown.:2017-10-30 18:17:27,960
+INFO:Rate me called.:2017-10-30 18:17:27,961
+INFO:user_input is a rating of:5:2017-10-30 18:17:32,855
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:17:33,160
+INFO:bullet number34 has been shown.:2017-10-30 18:17:33,160
+INFO:Rate me called.:2017-10-30 18:17:33,161
+INFO:user_input is a rating of:4:2017-10-30 18:17:37,447
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:17:37,768
+INFO:bullet number80 has been shown.:2017-10-30 18:17:37,768
+INFO:Rate me called.:2017-10-30 18:17:37,769
+INFO:user_input is a rating of:4:2017-10-30 18:17:43,016
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:17:43,335
+INFO:bullet number51 has been shown.:2017-10-30 18:17:43,335
+INFO:Rate me called.:2017-10-30 18:17:43,337
+INFO:user_input is a rating of:4:2017-10-30 18:17:48,720
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:17:49,024
+INFO:bullet number44 has been shown.:2017-10-30 18:17:49,024
+INFO:Rate me called.:2017-10-30 18:17:49,025
+INFO:user_input is a rating of:3:2017-10-30 18:17:53,768
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:17:54,152
+INFO:bullet number41 has been shown.:2017-10-30 18:17:54,152
+INFO:Rate me called.:2017-10-30 18:17:54,153
+INFO:user_input is a rating of:3:2017-10-30 18:18:02,208
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:18:02,568
+INFO:bullet number75 has been shown.:2017-10-30 18:18:02,568
+INFO:Rate me called.:2017-10-30 18:18:02,569
+INFO:user_input is a rating of:1:2017-10-30 18:18:10,848
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:18:11,183
+INFO:bullet number2 has been shown.:2017-10-30 18:18:11,184
+INFO:Rate me called.:2017-10-30 18:18:11,185
+INFO:user_input is a rating of:4:2017-10-30 18:18:13,712
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:18:13,991
+INFO:bullet number11 has been shown.:2017-10-30 18:18:13,991
+INFO:Rate me called.:2017-10-30 18:18:13,992
+INFO:user_input is a rating of:1:2017-10-30 18:18:20,351
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:18:20,720
+INFO:bullet number57 has been shown.:2017-10-30 18:18:20,720
+INFO:Rate me called.:2017-10-30 18:18:20,721
+INFO:user_input is a rating of:4:2017-10-30 18:18:25,407
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:18:25,751
+INFO:bullet number79 has been shown.:2017-10-30 18:18:25,751
+INFO:Rate me called.:2017-10-30 18:18:25,753
+INFO:user_input is a rating of:4:2017-10-30 18:18:28,232
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:18:28,575
+INFO:bullet number81 has been shown.:2017-10-30 18:18:28,575
+INFO:Rate me called.:2017-10-30 18:18:28,576
+INFO:user_input is a rating of:4:2017-10-30 18:18:34,583
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:18:34,903
+INFO:bullet number17 has been shown.:2017-10-30 18:18:34,903
+INFO:Rate me called.:2017-10-30 18:18:34,904
+INFO:user_input is a rating of:1:2017-10-30 18:18:47,352
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:18:48,414
+INFO:bullet number70 has been shown.:2017-10-30 18:18:48,415
+INFO:Rate me called.:2017-10-30 18:18:48,417
+INFO:user_input is a rating of:1:2017-10-30 18:18:54,591
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:18:54,928
+INFO:bullet number63 has been shown.:2017-10-30 18:18:54,928
+INFO:Rate me called.:2017-10-30 18:18:54,929
+INFO:user_input is a rating of:3:2017-10-30 18:19:01,095
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:19:01,423
+INFO:bullet number14 has been shown.:2017-10-30 18:19:01,423
+INFO:Rate me called.:2017-10-30 18:19:01,424
+INFO:user_input is a rating of:3:2017-10-30 18:19:04,079
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:19:04,367
+INFO:bullet number66 has been shown.:2017-10-30 18:19:04,368
+INFO:Rate me called.:2017-10-30 18:19:04,369
+INFO:user_input is a rating of:3:2017-10-30 18:19:07,336
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:19:07,631
+INFO:bullet number69 has been shown.:2017-10-30 18:19:07,631
+INFO:Rate me called.:2017-10-30 18:19:07,632
+INFO:user_input is a rating of:1:2017-10-30 18:19:11,535
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:19:11,831
+INFO:bullet number23 has been shown.:2017-10-30 18:19:11,831
+INFO:Rate me called.:2017-10-30 18:19:11,832
+INFO:user_input is a rating of:1:2017-10-30 18:19:16,623
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:19:16,896
+INFO:bullet number37 has been shown.:2017-10-30 18:19:16,896
+INFO:Rate me called.:2017-10-30 18:19:16,897
+INFO:user_input is a rating of:1:2017-10-30 18:19:23,879
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:19:24,159
+INFO:bullet number13 has been shown.:2017-10-30 18:19:24,159
+INFO:Rate me called.:2017-10-30 18:19:24,160
+INFO:user_input is a rating of:1:2017-10-30 18:19:44,023
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:19:44,616
+INFO:bullet number82 has been shown.:2017-10-30 18:19:44,616
+INFO:Rate me called.:2017-10-30 18:19:44,617
+INFO:user_input is a rating of:1:2017-10-30 18:19:49,703
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:19:50,031
+INFO:bullet number83 has been shown.:2017-10-30 18:19:50,032
+INFO:Rate me called.:2017-10-30 18:19:50,032
+INFO:user_input is a rating of:1:2017-10-30 18:19:52,168
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:19:52,416
+INFO:bullet number8 has been shown.:2017-10-30 18:19:52,416
+INFO:Rate me called.:2017-10-30 18:19:52,417
+INFO:user_input is a rating of:3:2017-10-30 18:19:55,576
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:19:55,815
+INFO:bullet number55 has been shown.:2017-10-30 18:19:55,815
+INFO:Rate me called.:2017-10-30 18:19:55,816
+INFO:user_input is a rating of:1:2017-10-30 18:19:59,039
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:19:59,287
+INFO:bullet number62 has been shown.:2017-10-30 18:19:59,288
+INFO:Rate me called.:2017-10-30 18:19:59,289
+INFO:user_input is a rating of:3:2017-10-30 18:20:01,551
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:20:01,824
+INFO:bullet number50 has been shown.:2017-10-30 18:20:01,824
+INFO:Rate me called.:2017-10-30 18:20:01,825
+INFO:user_input is a rating of:1:2017-10-30 18:20:05,487
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:20:05,831
+INFO:bullet number65 has been shown.:2017-10-30 18:20:05,831
+INFO:Rate me called.:2017-10-30 18:20:05,832
+INFO:user_input is a rating of:1:2017-10-30 18:20:09,503
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:20:09,775
+INFO:bullet number43 has been shown.:2017-10-30 18:20:09,775
+INFO:Rate me called.:2017-10-30 18:20:09,776
+INFO:user_input is a rating of:1:2017-10-30 18:20:14,246
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:20:14,495
+INFO:bullet number72 has been shown.:2017-10-30 18:20:14,495
+INFO:Rate me called.:2017-10-30 18:20:14,496
+INFO:user_input is a rating of:5:2017-10-30 18:20:18,358
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:20:18,687
+INFO:bullet number16 has been shown.:2017-10-30 18:20:18,687
+INFO:Rate me called.:2017-10-30 18:20:18,688
+INFO:user_input is a rating of:3:2017-10-30 18:20:23,190
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:20:23,422
+INFO:bullet number18 has been shown.:2017-10-30 18:20:23,422
+INFO:Rate me called.:2017-10-30 18:20:23,423
+INFO:user_input is a rating of:2:2017-10-30 18:20:26,999
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:20:27,262
+INFO:bullet number76 has been shown.:2017-10-30 18:20:27,262
+INFO:Rate me called.:2017-10-30 18:20:27,263
+INFO:user_input is a rating of:1:2017-10-30 18:20:32,647
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:20:32,959
+INFO:bullet number10 has been shown.:2017-10-30 18:20:32,959
+INFO:Rate me called.:2017-10-30 18:20:32,961
+INFO:user_input is a rating of:2:2017-10-30 18:20:37,863
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:20:38,174
+INFO:bullet number56 has been shown.:2017-10-30 18:20:38,175
+INFO:Rate me called.:2017-10-30 18:20:38,176
+INFO:user_input is a rating of:1:2017-10-30 18:20:41,302
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:20:41,559
+INFO:bullet number29 has been shown.:2017-10-30 18:20:41,559
+INFO:Rate me called.:2017-10-30 18:20:41,560
+INFO:user_input is a rating of:1:2017-10-30 18:20:45,263
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:20:45,511
+INFO:bullet number7 has been shown.:2017-10-30 18:20:45,511
+INFO:Rate me called.:2017-10-30 18:20:45,513
+INFO:user_input is a rating of:2:2017-10-30 18:20:48,551
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:20:48,823
+INFO:bullet number35 has been shown.:2017-10-30 18:20:48,823
+INFO:Rate me called.:2017-10-30 18:20:48,825
+INFO:user_input is a rating of:1:2017-10-30 18:20:52,711
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:20:53,110
+INFO:bullet number60 has been shown.:2017-10-30 18:20:53,110
+INFO:Rate me called.:2017-10-30 18:20:53,112
+INFO:user_input is a rating of:1:2017-10-30 18:20:58,871
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:20:59,198
+INFO:bullet number32 has been shown.:2017-10-30 18:20:59,198
+INFO:Rate me called.:2017-10-30 18:20:59,199
+INFO:user_input is a rating of:1:2017-10-30 18:21:06,007
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:21:06,375
+INFO:bullet number59 has been shown.:2017-10-30 18:21:06,375
+INFO:Rate me called.:2017-10-30 18:21:06,376
+INFO:user_input is a rating of:1:2017-10-30 18:21:16,879
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:21:19,582
+INFO:bullet number49 has been shown.:2017-10-30 18:21:19,582
+INFO:Rate me called.:2017-10-30 18:21:19,583
+INFO:user_input is a rating of:1:2017-10-30 18:21:33,510
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:21:33,846
+INFO:bullet number84 has been shown.:2017-10-30 18:21:33,847
+INFO:Rate me called.:2017-10-30 18:21:33,848
+INFO:user_input is a rating of:3:2017-10-30 18:22:00,790
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:22:03,990
+INFO:bullet number38 has been shown.:2017-10-30 18:22:03,990
+INFO:Rate me called.:2017-10-30 18:22:03,991
+INFO:user_input is a rating of:1:2017-10-30 18:22:09,901
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:22:10,214
+INFO:bullet number77 has been shown.:2017-10-30 18:22:10,214
+INFO:Rate me called.:2017-10-30 18:22:10,215
+INFO:user_input is a rating of:1:2017-10-30 18:22:13,247
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:22:13,518
+INFO:bullet number36 has been shown.:2017-10-30 18:22:13,518
+INFO:Rate me called.:2017-10-30 18:22:13,520
+INFO:user_input is a rating of:1:2017-10-30 18:22:18,103
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:22:18,478
+INFO:bullet number1 has been shown.:2017-10-30 18:22:18,478
+INFO:Rate me called.:2017-10-30 18:22:18,479
+INFO:user_input is a rating of:3:2017-10-30 18:22:21,774
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:22:22,063
+INFO:bullet number48 has been shown.:2017-10-30 18:22:22,063
+INFO:Rate me called.:2017-10-30 18:22:22,064
+INFO:user_input is a rating of:1:2017-10-30 18:22:27,502
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:22:27,871
+INFO:bullet number15 has been shown.:2017-10-30 18:22:27,871
+INFO:Rate me called.:2017-10-30 18:22:27,872
+INFO:user_input is a rating of:1:2017-10-30 18:22:31,415
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:22:31,694
+INFO:bullet number3 has been shown.:2017-10-30 18:22:31,695
+INFO:Rate me called.:2017-10-30 18:22:31,695
+INFO:user_input is a rating of:1:2017-10-30 18:22:37,198
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:22:37,454
+INFO:bullet number73 has been shown.:2017-10-30 18:22:37,454
+INFO:Rate me called.:2017-10-30 18:22:37,455
+INFO:user_input is a rating of:4:2017-10-30 18:22:40,790
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:22:41,031
+INFO:bullet number19 has been shown.:2017-10-30 18:22:41,031
+INFO:Rate me called.:2017-10-30 18:22:41,032
+INFO:user_input is a rating of:1:2017-10-30 18:22:45,118
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:22:45,415
+INFO:bullet number39 has been shown.:2017-10-30 18:22:45,415
+INFO:Rate me called.:2017-10-30 18:22:45,416
+INFO:user_input is a rating of:2:2017-10-30 18:22:49,422
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:22:49,711
+INFO:bullet number71 has been shown.:2017-10-30 18:22:49,711
+INFO:Rate me called.:2017-10-30 18:22:49,712
+INFO:user_input is a rating of:4:2017-10-30 18:22:54,214
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:22:54,422
+INFO:bullet number28 has been shown.:2017-10-30 18:22:54,422
+INFO:Rate me called.:2017-10-30 18:22:54,423
+INFO:user_input is a rating of:1:2017-10-30 18:22:58,726
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:22:59,006
+INFO:bullet number45 has been shown.:2017-10-30 18:22:59,006
+INFO:Rate me called.:2017-10-30 18:22:59,007
+INFO:user_input is a rating of:4:2017-10-30 18:23:01,950
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:23:02,158
+INFO:bullet number6 has been shown.:2017-10-30 18:23:02,158
+INFO:Rate me called.:2017-10-30 18:23:02,159
+INFO:user_input is a rating of:4:2017-10-30 18:23:05,502
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:23:05,774
+INFO:bullet number31 has been shown.:2017-10-30 18:23:05,775
+INFO:Rate me called.:2017-10-30 18:23:05,775
+INFO:user_input is a rating of:4:2017-10-30 18:23:09,446
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:23:09,710
+INFO:bullet number54 has been shown.:2017-10-30 18:23:09,710
+INFO:Rate me called.:2017-10-30 18:23:09,712
+INFO:user_input is a rating of:3:2017-10-30 18:23:12,927
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:23:13,206
+INFO:bullet number30 has been shown.:2017-10-30 18:23:13,206
+INFO:Rate me called.:2017-10-30 18:23:13,207
+INFO:user_input is a rating of:3:2017-10-30 18:23:16,374
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:23:16,606
+INFO:bullet number12 has been shown.:2017-10-30 18:23:16,606
+INFO:Rate me called.:2017-10-30 18:23:16,607
+INFO:user_input is a rating of:1:2017-10-30 18:23:19,390
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:23:19,678
+INFO:bullet number27 has been shown.:2017-10-30 18:23:19,678
+INFO:Rate me called.:2017-10-30 18:23:19,679
+INFO:user_input is a rating of:1:2017-10-30 18:23:22,446
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:23:22,669
+INFO:bullet number33 has been shown.:2017-10-30 18:23:22,670
+INFO:Rate me called.:2017-10-30 18:23:22,670
+INFO:user_input is a rating of:3:2017-10-30 18:23:27,454
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:23:27,862
+INFO:bullet number42 has been shown.:2017-10-30 18:23:27,862
+INFO:Rate me called.:2017-10-30 18:23:27,863
+INFO:user_input is a rating of:1:2017-10-30 18:23:32,254
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:23:32,535
+INFO:bullet number0 has been shown.:2017-10-30 18:23:32,535
+INFO:Rate me called.:2017-10-30 18:23:32,536
+INFO:user_input is a rating of:3:2017-10-30 18:23:35,414
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:23:35,686
+INFO:bullet number21 has been shown.:2017-10-30 18:23:35,686
+INFO:Rate me called.:2017-10-30 18:23:35,686
+INFO:user_input is a rating of:1:2017-10-30 18:23:39,087
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:23:39,335
+INFO:bullet number64 has been shown.:2017-10-30 18:23:39,335
+INFO:Rate me called.:2017-10-30 18:23:39,336
+INFO:user_input is a rating of:2:2017-10-30 18:23:43,350
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:23:43,574
+INFO:bullet number74 has been shown.:2017-10-30 18:23:43,574
+INFO:Rate me called.:2017-10-30 18:23:43,575
+INFO:user_input is a rating of:1:2017-10-30 18:23:47,142
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:23:47,350
+INFO:bullet number9 has been shown.:2017-10-30 18:23:47,350
+INFO:Rate me called.:2017-10-30 18:23:47,352
+INFO:user_input is a rating of:1:2017-10-30 18:23:51,054
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:23:51,270
+INFO:bullet number46 has been shown.:2017-10-30 18:23:51,270
+INFO:Rate me called.:2017-10-30 18:23:51,271
+INFO:user_input is a rating of:1:2017-10-30 18:23:54,486
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:23:54,742
+INFO:bullet number4 has been shown.:2017-10-30 18:23:54,742
+INFO:Rate me called.:2017-10-30 18:23:54,743
+INFO:user_input is a rating of:3:2017-10-30 18:23:57,230
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:23:57,494
+INFO:bullet number53 has been shown.:2017-10-30 18:23:57,494
+INFO:Rate me called.:2017-10-30 18:23:57,495
+INFO:user_input is a rating of:1:2017-10-30 18:24:03,461
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:24:03,718
+INFO:bullet number26 has been shown.:2017-10-30 18:24:03,719
+INFO:Rate me called.:2017-10-30 18:24:03,720
+INFO:user_input is a rating of:1:2017-10-30 18:24:07,518
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:24:07,766
+INFO:bullet number20 has been shown.:2017-10-30 18:24:07,766
+INFO:Rate me called.:2017-10-30 18:24:07,767
+INFO:user_input is a rating of:3:2017-10-30 18:24:16,901
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:24:17,166
+INFO:bullet number24 has been shown.:2017-10-30 18:24:17,166
+INFO:Rate me called.:2017-10-30 18:24:17,167
+INFO:user_input is a rating of:1:2017-10-30 18:24:20,758
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:24:20,990
+INFO:bullet number22 has been shown.:2017-10-30 18:24:20,991
+INFO:Rate me called.:2017-10-30 18:24:20,991
+INFO:user_input is a rating of:1:2017-10-30 18:24:24,158
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:24:24,422
+INFO:bullet number58 has been shown.:2017-10-30 18:24:24,422
+INFO:Rate me called.:2017-10-30 18:24:24,424
+INFO:user_input is a rating of:4:2017-10-30 18:24:27,870
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:24:28,085
+INFO:bullet number68 has been shown.:2017-10-30 18:24:28,086
+INFO:Rate me called.:2017-10-30 18:24:28,087
+INFO:user_input is a rating of:3:2017-10-30 18:24:32,854
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:24:33,109
+INFO:bullet number67 has been shown.:2017-10-30 18:24:33,109
+INFO:Rate me called.:2017-10-30 18:24:33,110
+INFO:user_input is a rating of:3:2017-10-30 18:24:35,317
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:24:35,606
+INFO:bullet number78 has been shown.:2017-10-30 18:24:35,606
+INFO:Rate me called.:2017-10-30 18:24:35,607
+INFO:user_input is a rating of:1:2017-10-30 18:24:46,566
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:24:46,846
+INFO:bullet number61 has been shown.:2017-10-30 18:24:46,846
+INFO:Rate me called.:2017-10-30 18:24:46,847
+INFO:user_input is a rating of:1:2017-10-30 18:24:54,158
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:24:54,494
+INFO:bullet number52 has been shown.:2017-10-30 18:24:54,494
+INFO:Rate me called.:2017-10-30 18:24:54,495
+INFO:user_input is a rating of:1:2017-10-30 18:25:07,485
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:25:07,726
+INFO:bullet number8 has been shown.:2017-10-30 18:25:07,727
+INFO:Rate me called.:2017-10-30 18:25:07,727
+INFO:user_input is a rating of:3:2017-10-30 18:25:15,614
+INFO:Saved pickle file to 'config.p':2017-10-30 18:25:16,258
+INFO:Saved pickle file to 'config.p':2017-10-30 18:25:16,875
+INFO:Called sort_bullets:2017-10-30 18:35:34,415
+INFO:User chose ac author and to sort by rating 4:2017-10-30 18:35:39,228
+INFO:Returned sorted bullets for Author Alex Carroll #3.  Keybinding: ac.  File Name F:/Writing/Copywork/Bullet Swipe File/alex_carroll_bullets.txt:2017-10-30 18:35:39,228
+INFO:Sorted Alex Carroll's 26 bullets.:2017-10-30 18:35:39,228
+INFO:Sort bullets by rating togge is True:2017-10-30 18:35:39,228
+INFO:Saved pickle file to 'config.p':2017-10-30 18:35:41,784
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:36:01,266
+INFO:bullet number38 has been shown.:2017-10-30 18:36:01,267
+INFO:Rate me called.:2017-10-30 18:36:01,268
+INFO:user_input is a rating of:1:2017-10-30 18:36:08,738
+INFO:Sort bullets by rating togge is False:2017-10-30 18:36:10,564
+INFO:Called sort_bullets:2017-10-30 18:36:12,956
+INFO:User chose m author and to sort by rating 4:2017-10-30 18:36:19,107
+INFO:Returned sorted bullets for Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt:2017-10-30 18:36:19,107
+INFO:Sorted Clayton Makepeace's 17 bullets.:2017-10-30 18:36:19,107
+INFO:Sort bullets by rating togge is True:2017-10-30 18:36:19,107
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:36:21,779
+INFO:bullet number14 has been shown.:2017-10-30 18:36:21,779
+INFO:Rate me called.:2017-10-30 18:36:21,780
+INFO:user_input is a rating of:4:2017-10-30 18:36:24,914
+INFO:Sort bullets by rating togge is False:2017-10-30 18:36:34,868
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:36:55,707
+INFO:bullet number64 has been shown.:2017-10-30 18:36:55,707
+INFO:Rate me called.:2017-10-30 18:36:55,707
+INFO:user_input is a rating of:1:2017-10-30 18:36:57,354
+INFO:Called sort_bullets:2017-10-30 18:36:58,547
+INFO:User chose ben author and to sort by rating 4:2017-10-30 18:37:03,116
+INFO:Returned sorted bullets for Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt:2017-10-30 18:37:03,116
+INFO:Sorted Ben Settle's 29 bullets.:2017-10-30 18:37:03,116
+INFO:Sort bullets by rating togge is True:2017-10-30 18:37:03,116
+INFO:User selected Author Ben Settle #1.  Keybinding: ben.  File Name F:/Writing/Copywork/Bullet Swipe File/settle_bullets.txt by pressing ben:2017-10-30 18:37:07,906
+INFO:bullet number27 has been shown.:2017-10-30 18:37:07,906
+INFO:Rate me called.:2017-10-30 18:37:07,907
+INFO:user_input is a rating of:4:2017-10-30 18:37:09,354
+INFO:Sort bullets by rating togge is False:2017-10-30 18:37:13,564
+INFO:Called sort_bullets:2017-10-30 18:37:14,155
+INFO:User chose a author and to sort by rating 4:2017-10-30 18:37:15,532
+INFO:Returned sorted bullets for Author Gary Halbert #4.  Keybinding: a.  File Name F:/Writing/Copywork/Bullet Swipe File/halbert_bullets.txt:2017-10-30 18:37:15,532
+INFO:Sorted Gary Halbert's 20 bullets.:2017-10-30 18:37:15,532
+INFO:Sort bullets by rating togge is True:2017-10-30 18:37:15,532
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 18:37:26,907
+INFO:bullet number6 has been shown.:2017-10-30 18:37:26,907
+INFO:Rate me called.:2017-10-30 18:37:26,911
+INFO:user_input is a rating of:3:2017-10-30 18:37:29,058
+INFO:Sort bullets by rating togge is False:2017-10-30 18:37:29,996
+INFO:Called sort_bullets:2017-10-30 18:37:31,811
+INFO:User chose c author and to sort by rating 4:2017-10-30 18:37:33,243
+INFO:Returned sorted bullets for Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt:2017-10-30 18:37:33,243
+INFO:Sorted John Carlton's 10 bullets.:2017-10-30 18:37:33,243
+INFO:Sort bullets by rating togge is True:2017-10-30 18:37:33,243
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 18:37:36,762
+INFO:bullet number5 has been shown.:2017-10-30 18:37:36,762
+INFO:Rate me called.:2017-10-30 18:37:36,763
+INFO:user_input is a rating of:5:2017-10-30 18:37:41,826
+INFO:RATING_MODE_TOGGLE now set to: :2017-10-30 18:37:42,324
+INFO:User selected Author Alex Carroll #3.  Keybinding: ac.  File Name F:/Writing/Copywork/Bullet Swipe File/alex_carroll_bullets.txt by pressing ac:2017-10-30 18:37:45,315
+INFO:bullet number5 has been shown.:2017-10-30 18:37:45,315
+INFO:User selected Author Alex Carroll #3.  Keybinding: ac.  File Name F:/Writing/Copywork/Bullet Swipe File/alex_carroll_bullets.txt by pressing ac:2017-10-30 18:37:46,427
+INFO:bullet number8 has been shown.:2017-10-30 18:37:46,427
+INFO:User selected Author Alex Carroll #3.  Keybinding: ac.  File Name F:/Writing/Copywork/Bullet Swipe File/alex_carroll_bullets.txt by pressing ac:2017-10-30 18:37:47,155
+INFO:bullet number7 has been shown.:2017-10-30 18:37:47,155
+INFO:User selected Author Alex Carroll #3.  Keybinding: ac.  File Name F:/Writing/Copywork/Bullet Swipe File/alex_carroll_bullets.txt by pressing ac:2017-10-30 18:37:47,722
+INFO:bullet number5 has been shown.:2017-10-30 18:37:47,722
+INFO:User selected Author Alex Carroll #3.  Keybinding: ac.  File Name F:/Writing/Copywork/Bullet Swipe File/alex_carroll_bullets.txt by pressing ac:2017-10-30 18:37:48,362
+INFO:bullet number18 has been shown.:2017-10-30 18:37:48,363
+INFO:User selected Author Alex Carroll #3.  Keybinding: ac.  File Name F:/Writing/Copywork/Bullet Swipe File/alex_carroll_bullets.txt by pressing ac:2017-10-30 18:37:49,050
+INFO:bullet number6 has been shown.:2017-10-30 18:37:49,050
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:37:50,723
+INFO:bullet number16 has been shown.:2017-10-30 18:37:50,723
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:37:54,586
+INFO:bullet number5 has been shown.:2017-10-30 18:37:54,587
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:37:56,745
+INFO:bullet number6 has been shown.:2017-10-30 18:37:56,745
+INFO:RATING_MODE_TOGGLE now set to: :2017-10-30 18:38:00,099
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:38:00,922
+INFO:bullet number6 has been shown.:2017-10-30 18:38:00,922
+INFO:Rate me called.:2017-10-30 18:38:00,923
+INFO:user_input is a rating of:5:2017-10-30 18:38:02,011
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:38:02,394
+INFO:bullet number12 has been shown.:2017-10-30 18:38:02,394
+INFO:Rate me called.:2017-10-30 18:38:02,395
+INFO:user_input is a rating of:5:2017-10-30 18:38:03,546
+INFO:User selected Author Clayton Makepeace #2.  Keybinding: m.  File Name F:/Writing/Copywork/Bullet Swipe File/makepeace_bullets.txt by pressing m:2017-10-30 18:38:03,931
+INFO:bullet number1 has been shown.:2017-10-30 18:38:03,931
+INFO:Rate me called.:2017-10-30 18:38:03,932
+INFO:user_input is a rating of:5:2017-10-30 18:38:05,138
+INFO:User selected Author John Carlton #5.  Keybinding: c.  File Name F:/Writing/Copywork/Bullet Swipe File/john_carlton.txt by pressing c:2017-10-30 18:38:10,018
+INFO:bullet number8 has been shown.:2017-10-30 18:38:10,018
+INFO:Rate me called.:2017-10-30 18:38:10,019
+INFO:user_input is a rating of:4:2017-10-30 18:38:16,058
+INFO:Sort bullets by rating togge is False:2017-10-30 18:38:24,180
+INFO:Called sort_bullets:2017-10-30 18:38:25,779
+INFO:User chose g author and to sort by rating 4:2017-10-30 18:38:29,388
+INFO:Returned sorted bullets for Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt:2017-10-30 18:38:29,388
+INFO:Sorted Gary Bencievenga's 14 bullets.:2017-10-30 18:38:29,388
+INFO:Sort bullets by rating togge is True:2017-10-30 18:38:29,388
+INFO:User selected Author Gary Bencievenga #2.  Keybinding: g.  File Name F:/Writing/Copywork/Bullet Swipe File/gary_bencievenga.txt by pressing g:2017-10-30 18:38:43,385
+INFO:bullet number3 has been shown.:2017-10-30 18:38:43,386
+INFO:Rate me called.:2017-10-30 18:38:43,387
+INFO:user_input is a rating of:4:2017-10-30 18:38:45,818
+INFO:User selected Author Zergnet #1.  Keybinding: z.  File Name F:/Writing/Copywork/Bullet Swipe File/zergnet_bullets.txt by pressing z:2017-10-30 18:38:54,658
+INFO:bullet number26 has been shown.:2017-10-30 18:38:54,658
+INFO:Rate me called.:2017-10-30 18:38:54,659
+INFO:user_input is a rating of:5:2017-10-30 18:38:56,346
+INFO:User selected Author Zergnet #1.  Keybinding: z.  File Name F:/Writing/Copywork/Bullet Swipe File/zergnet_bullets.txt by pressing z:2017-10-30 18:38:57,754
+INFO:bullet number32 has been shown.:2017-10-30 18:38:57,754
+INFO:Rate me called.:2017-10-30 18:38:57,756
+INFO:user_input is a rating of:2:2017-10-30 18:39:00,242
+INFO:User selected Author Zergnet #1.  Keybinding: z.  File Name F:/Writing/Copywork/Bullet Swipe File/zergnet_bullets.txt by pressing z:2017-10-30 18:39:03,586
+INFO:bullet number32 has been shown.:2017-10-30 18:39:03,586
+INFO:Rate me called.:2017-10-30 18:39:03,587
+INFO:user_input is a rating of:2:2017-10-30 18:39:04,874
+INFO:Sort bullets by rating togge is False:2017-10-30 18:39:16,684
+INFO:Called sort_bullets:2017-10-30 18:39:19,187
+INFO:User chose z author and to sort by rating 4:2017-10-30 18:39:22,971
+INFO:Returned sorted bullets for Author Zergnet #1.  Keybinding: z.  File Name F:/Writing/Copywork/Bullet Swipe File/zergnet_bullets.txt:2017-10-30 18:39:22,971
+INFO:Sorted Zergnet's 63 bullets.:2017-10-30 18:39:22,972
+INFO:Sort bullets by rating togge is True:2017-10-30 18:39:22,972
+INFO:Sort bullets by rating togge is False:2017-10-30 18:39:26,218
+INFO:Called sort_bullets:2017-10-30 18:39:26,723
+INFO:User chose b author and to sort by rating 4:2017-10-30 18:39:28,243
+INFO:Returned sorted bullets for Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt:2017-10-30 18:39:28,243
+INFO:Sorted Bob Bly's 101 bullets.:2017-10-30 18:39:28,243
+INFO:Sort bullets by rating togge is True:2017-10-30 18:39:28,243
+INFO:Saved pickle file to 'config.p':2017-10-30 18:39:36,828
+INFO:User selected Author Zergnet #1.  Keybinding: z.  File Name F:/Writing/Copywork/Bullet Swipe File/zergnet_bullets.txt by pressing z:2017-10-30 18:39:38,346
+INFO:bullet number43 has been shown.:2017-10-30 18:39:38,346
+INFO:Rate me called.:2017-10-30 18:39:38,347
+INFO:user_input is a rating of:4:2017-10-30 18:39:45,042
+INFO:RATING_MODE_TOGGLE now set to: :2017-10-30 18:39:46,035
+INFO:User selected Author Zergnet #1.  Keybinding: z.  File Name F:/Writing/Copywork/Bullet Swipe File/zergnet_bullets.txt by pressing z:2017-10-30 18:39:46,769
+INFO:bullet number21 has been shown.:2017-10-30 18:39:46,769
+INFO:User selected Author Zergnet #1.  Keybinding: z.  File Name F:/Writing/Copywork/Bullet Swipe File/zergnet_bullets.txt by pressing z:2017-10-30 18:39:49,353
+INFO:bullet number33 has been shown.:2017-10-30 18:39:49,354
+INFO:RATING_MODE_TOGGLE now set to: :2017-10-30 18:39:51,402
+INFO:User selected Author Zergnet #1.  Keybinding: z.  File Name F:/Writing/Copywork/Bullet Swipe File/zergnet_bullets.txt by pressing z:2017-10-30 18:39:51,809
+INFO:bullet number62 has been shown.:2017-10-30 18:39:51,809
+INFO:Rate me called.:2017-10-30 18:39:51,810
+INFO:user_input is a rating of:5:2017-10-30 18:39:54,210
+INFO:Saved pickle file to 'config.p':2017-10-30 18:39:56,227
+INFO:Saved pickle file to 'config.p':2017-10-30 18:40:02,644
+INFO:Opened pickle config file from 'config.p':2017-10-30 18:43:10,194
+INFO:all_authors now equals: [<__main__.Author object at 0x03802750>, <__main__.Author object at 0x03802250>, <__main__.Author object at 0x038027B0>, <__main__.Author object at 0x038027D0>, <__main__.Author object at 0x038027F0>, <__main__.Author object at 0x03802830>, <__main__.Author object at 0x03802850>, <__main__.Author object at 0x038028D0>, <__main__.Author object at 0x03802930>, <__main__.Author object at 0x03802950>]:2017-10-30 18:43:10,196
+INFO:Called sort_bullets:2017-10-30 18:43:18,498
+INFO:User chose b author and to sort by rating 4:2017-10-30 18:43:22,914
+INFO:Returned sorted bullets for Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt:2017-10-30 18:43:22,919
+INFO:Sorted Bob Bly's 101 bullets.:2017-10-30 18:43:22,919
+INFO:Sort bullets by rating togge is True:2017-10-30 18:43:22,920
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 18:43:32,289
+INFO:Opened pickle config file from 'config.p':2017-10-30 18:44:26,403
+INFO:all_authors now equals: [<__main__.Author object at 0x038EC7B0>, <__main__.Author object at 0x038EC290>, <__main__.Author object at 0x038EC830>, <__main__.Author object at 0x038EC850>, <__main__.Author object at 0x038EC870>, <__main__.Author object at 0x038EC8B0>, <__main__.Author object at 0x038EC8D0>, <__main__.Author object at 0x038EC950>, <__main__.Author object at 0x038EC9B0>, <__main__.Author object at 0x038EC9D0>]:2017-10-30 18:44:26,405
+INFO:Called sort_bullets:2017-10-30 18:44:27,562
+INFO:User chose b author and to sort by rating 4:2017-10-30 18:44:30,794
+INFO:Returned sorted bullets for Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt:2017-10-30 18:44:30,794
+INFO:Sorted Bob Bly's 101 bullets.:2017-10-30 18:44:30,795
+INFO:Sort bullets by rating togge is True:2017-10-30 18:44:30,795
+INFO:User selected Author Dan Ray Bombs #2.  Keybinding: d.  File Name F:/Writing/Agency/Dan Ray/final_rated_bombs.csv by pressing d:2017-10-30 18:44:51,512
+INFO:bullet number693 has been shown.:2017-10-30 18:44:51,512
+INFO:User selected Author Dan Ray Bombs #2.  Keybinding: d.  File Name F:/Writing/Agency/Dan Ray/final_rated_bombs.csv by pressing d:2017-10-30 18:44:56,752
+INFO:bullet number255 has been shown.:2017-10-30 18:44:56,752
+INFO:User selected Author Dan Ray Bombs #2.  Keybinding: d.  File Name F:/Writing/Agency/Dan Ray/final_rated_bombs.csv by pressing d:2017-10-30 18:44:57,920
+INFO:bullet number968 has been shown.:2017-10-30 18:44:57,921
+INFO:User selected Author Dan Ray Bombs #2.  Keybinding: d.  File Name F:/Writing/Agency/Dan Ray/final_rated_bombs.csv by pressing d:2017-10-30 18:45:00,665
+INFO:bullet number679 has been shown.:2017-10-30 18:45:00,665
+INFO:User selected Author Dan Ray Bombs #2.  Keybinding: d.  File Name F:/Writing/Agency/Dan Ray/final_rated_bombs.csv by pressing d:2017-10-30 18:45:03,104
+INFO:bullet number663 has been shown.:2017-10-30 18:45:03,104
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:45:09,096
+INFO:bullet number428 has been shown.:2017-10-30 18:45:09,097
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:45:12,880
+INFO:bullet number795 has been shown.:2017-10-30 18:45:12,880
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:45:13,935
+INFO:bullet number956 has been shown.:2017-10-30 18:45:13,936
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:45:16,313
+INFO:bullet number325 has been shown.:2017-10-30 18:45:16,313
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:45:19,264
+INFO:bullet number91 has been shown.:2017-10-30 18:45:19,264
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:45:22,351
+INFO:bullet number263 has been shown.:2017-10-30 18:45:22,352
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:45:25,489
+INFO:bullet number643 has been shown.:2017-10-30 18:45:25,489
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:45:31,280
+INFO:bullet number608 has been shown.:2017-10-30 18:45:31,280
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:45:34,063
+INFO:bullet number477 has been shown.:2017-10-30 18:45:34,063
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:45:34,967
+INFO:bullet number820 has been shown.:2017-10-30 18:45:34,968
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:45:41,736
+INFO:bullet number693 has been shown.:2017-10-30 18:45:41,736
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:45:45,056
+INFO:bullet number382 has been shown.:2017-10-30 18:45:45,056
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:45:49,431
+INFO:bullet number329 has been shown.:2017-10-30 18:45:49,432
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:45:53,240
+INFO:bullet number840 has been shown.:2017-10-30 18:45:53,240
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:45:57,704
+INFO:bullet number1001 has been shown.:2017-10-30 18:45:57,704
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:46:03,296
+INFO:bullet number405 has been shown.:2017-10-30 18:46:03,296
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:46:03,752
+INFO:bullet number901 has been shown.:2017-10-30 18:46:03,752
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:46:04,951
+INFO:bullet number597 has been shown.:2017-10-30 18:46:04,951
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:46:09,192
+INFO:bullet number54 has been shown.:2017-10-30 18:46:09,192
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:46:10,744
+INFO:bullet number107 has been shown.:2017-10-30 18:46:10,744
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:46:11,528
+INFO:bullet number158 has been shown.:2017-10-30 18:46:11,528
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:46:13,920
+INFO:bullet number231 has been shown.:2017-10-30 18:46:13,920
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:46:16,368
+INFO:bullet number94 has been shown.:2017-10-30 18:46:16,368
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:46:20,288
+INFO:bullet number580 has been shown.:2017-10-30 18:46:20,288
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:46:24,200
+INFO:bullet number301 has been shown.:2017-10-30 18:46:24,201
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:46:27,512
+INFO:bullet number535 has been shown.:2017-10-30 18:46:27,512
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:46:28,880
+INFO:bullet number723 has been shown.:2017-10-30 18:46:28,880
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:46:32,136
+INFO:bullet number916 has been shown.:2017-10-30 18:46:32,136
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:46:34,560
+INFO:bullet number537 has been shown.:2017-10-30 18:46:34,560
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:46:36,688
+INFO:bullet number462 has been shown.:2017-10-30 18:46:36,688
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:46:38,879
+INFO:bullet number154 has been shown.:2017-10-30 18:46:38,879
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:46:41,639
+INFO:bullet number398 has been shown.:2017-10-30 18:46:41,639
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:46:44,007
+INFO:bullet number250 has been shown.:2017-10-30 18:46:44,007
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 18:46:45,216
+INFO:bullet number74 has been shown.:2017-10-30 18:46:45,216
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 18:46:46,808
+INFO:bullet number58 has been shown.:2017-10-30 18:46:46,808
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 18:46:48,944
+INFO:bullet number41 has been shown.:2017-10-30 18:46:48,944
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 18:46:50,864
+INFO:bullet number69 has been shown.:2017-10-30 18:46:50,864
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 18:46:53,000
+INFO:bullet number59 has been shown.:2017-10-30 18:46:53,000
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 18:46:57,104
+INFO:bullet number36 has been shown.:2017-10-30 18:46:57,104
+INFO:RATING_MODE_TOGGLE now set to: :2017-10-30 18:47:00,353
+INFO:User selected Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt by pressing b:2017-10-30 18:47:00,951
+INFO:bullet number77 has been shown.:2017-10-30 18:47:00,951
+INFO:Rate me called.:2017-10-30 18:47:00,952
+INFO:user_input is a rating of:5:2017-10-30 18:47:04,880
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:47:05,840
+INFO:bullet number334 has been shown.:2017-10-30 18:47:05,840
+INFO:Rate me called.:2017-10-30 18:47:05,841
+INFO:user_input is a rating of:1:2017-10-30 18:47:08,760
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:47:09,016
+INFO:bullet number753 has been shown.:2017-10-30 18:47:09,016
+INFO:Rate me called.:2017-10-30 18:47:09,017
+INFO:user_input is a rating of:2:2017-10-30 18:47:12,583
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:47:12,888
+INFO:bullet number11 has been shown.:2017-10-30 18:47:12,888
+INFO:Rate me called.:2017-10-30 18:47:12,889
+INFO:user_input is a rating of:5:2017-10-30 18:47:15,839
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:47:16,079
+INFO:bullet number769 has been shown.:2017-10-30 18:47:16,079
+INFO:Rate me called.:2017-10-30 18:47:16,080
+INFO:user_input is a rating of:3:2017-10-30 18:47:19,351
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:47:19,640
+INFO:bullet number856 has been shown.:2017-10-30 18:47:19,640
+INFO:Rate me called.:2017-10-30 18:47:19,641
+INFO:user_input is a rating of:5:2017-10-30 18:47:22,807
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:47:23,055
+INFO:bullet number578 has been shown.:2017-10-30 18:47:23,055
+INFO:Rate me called.:2017-10-30 18:47:23,056
+INFO:user_input is a rating of:5:2017-10-30 18:47:25,559
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:47:25,799
+INFO:bullet number871 has been shown.:2017-10-30 18:47:25,799
+INFO:Rate me called.:2017-10-30 18:47:25,800
+INFO:user_input is a rating of:1:2017-10-30 18:47:37,304
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:47:37,584
+INFO:bullet number290 has been shown.:2017-10-30 18:47:37,584
+INFO:Rate me called.:2017-10-30 18:47:37,585
+INFO:user_input is a rating of:4:2017-10-30 18:47:42,895
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:47:43,144
+INFO:bullet number723 has been shown.:2017-10-30 18:47:43,144
+INFO:Rate me called.:2017-10-30 18:47:43,145
+INFO:user_input is a rating of:5:2017-10-30 18:47:49,311
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:47:49,583
+INFO:bullet number874 has been shown.:2017-10-30 18:47:49,584
+INFO:Rate me called.:2017-10-30 18:47:49,585
+INFO:user_input is a rating of:5:2017-10-30 18:47:51,928
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:47:52,215
+INFO:bullet number75 has been shown.:2017-10-30 18:47:52,216
+INFO:Rate me called.:2017-10-30 18:47:52,217
+INFO:user_input is a rating of:5:2017-10-30 18:48:24,439
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:49:24,567
+INFO:bullet number748 has been shown.:2017-10-30 18:49:24,567
+INFO:Rate me called.:2017-10-30 18:49:24,567
+INFO:user_input is a rating of:2:2017-10-30 18:49:28,159
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:49:28,368
+INFO:bullet number645 has been shown.:2017-10-30 18:49:28,368
+INFO:Rate me called.:2017-10-30 18:49:28,368
+INFO:user_input is a rating of:5:2017-10-30 18:49:31,031
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:49:31,296
+INFO:bullet number132 has been shown.:2017-10-30 18:49:31,296
+INFO:Rate me called.:2017-10-30 18:49:31,296
+INFO:user_input is a rating of:5:2017-10-30 18:49:33,854
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:49:34,079
+INFO:bullet number286 has been shown.:2017-10-30 18:49:34,079
+INFO:Rate me called.:2017-10-30 18:49:34,079
+INFO:user_input is a rating of:3:2017-10-30 18:49:43,966
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:49:44,199
+INFO:bullet number351 has been shown.:2017-10-30 18:49:44,199
+INFO:Rate me called.:2017-10-30 18:49:44,200
+INFO:user_input is a rating of:3:2017-10-30 18:49:47,078
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:49:47,303
+INFO:bullet number62 has been shown.:2017-10-30 18:49:47,304
+INFO:Rate me called.:2017-10-30 18:49:47,304
+INFO:user_input is a rating of:4:2017-10-30 18:49:50,271
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:49:50,478
+INFO:bullet number827 has been shown.:2017-10-30 18:49:50,479
+INFO:Rate me called.:2017-10-30 18:49:50,479
+INFO:user_input is a rating of:3:2017-10-30 18:49:53,511
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:49:53,719
+INFO:bullet number537 has been shown.:2017-10-30 18:49:53,719
+INFO:Rate me called.:2017-10-30 18:49:53,719
+INFO:user_input is a rating of:2:2017-10-30 18:49:55,535
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:49:55,751
+INFO:bullet number455 has been shown.:2017-10-30 18:49:55,751
+INFO:Rate me called.:2017-10-30 18:49:55,751
+INFO:user_input is a rating of:4:2017-10-30 18:50:03,823
+INFO:Saved pickle file to 'config.p':2017-10-30 18:50:05,915
+INFO:Saved pickle file to 'config.p':2017-10-30 18:50:07,451
+INFO:Opened pickle config file from 'config.p':2017-10-30 18:50:16,278
+INFO:all_authors now equals: [<__main__.Author object at 0x03DAE8F0>, <__main__.Author object at 0x03DAE3D0>, <__main__.Author object at 0x03DAE950>, <__main__.Author object at 0x03DAE970>, <__main__.Author object at 0x03DAE990>, <__main__.Author object at 0x03DAE9D0>, <__main__.Author object at 0x03DAE9F0>, <__main__.Author object at 0x03DAEA70>, <__main__.Author object at 0x03DAEAD0>, <__main__.Author object at 0x03DAEAF0>]:2017-10-30 18:50:16,280
+INFO:Called sort_bullets:2017-10-30 18:50:19,799
+INFO:User chose b author and to sort by rating 4:2017-10-30 18:50:23,863
+INFO:Returned sorted bullets for Author Bob Bly #1.  Keybinding: b.  File Name F:/Writing/Copywork/Bullet Swipe File/bob_bly.txt:2017-10-30 18:50:23,868
+INFO:Sorted Bob Bly's 101 bullets.:2017-10-30 18:50:23,868
+INFO:Sort bullets by rating togge is True:2017-10-30 18:50:23,869
+INFO:RATING_MODE_TOGGLE now set to: :2017-10-30 18:50:27,799
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:50:29,070
