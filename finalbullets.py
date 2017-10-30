@@ -297,9 +297,16 @@ def process_bullet(author):
 
     #  Now process bullets
     bullet_num = get_bullet_num(author)
-    if ONLY_SHOW_ONCE_TOGGLE:
-        while bullet_num in author.bullets_returned_so_far:
-            bullet_num = get_bullet_num(author)
+    if ONLY_SHOW_ONCE_TOGGLE and len(author.all_bullets) != len(author.bullets_returned_so_far):
+        try:
+            while bullet_num in author.bullets_returned_so_far:
+                bullet_num = get_bullet_num(author)
+        except Exception as e:
+            logging.info("Problem with {0}'s not repeating bullets {1}".format(author.name, e))
+    elif len(author.all_bullets) == len(author.bullets_returned_so_far):
+        print("Shown all of {}'s bullets.  Reseting...".format(author.name))
+        author.bullets_returned_so_far.clear()
+        
 
     author.bullets_returned_so_far.append(bullet_num)
 
