@@ -156,6 +156,7 @@ def menu_help():
     """Display list of all commands."""
     print("Help:")
     print("L to load an author.")
+    print("'STAT' to generate statistics for an author.")
     print("Q to quit.")
     print("'sort' to sort by rating.")
     print("R to turn on rating mode.")
@@ -235,9 +236,33 @@ def read_input(user_input):
     elif user_input.lower() == 'export':
         print("Exporting a CSV file")
         save_file()
+    elif user_input.lower() == 'stat':
+        print("Generating statistics...")
+        get_stats()
     else:
         return
 
+def get_stats():
+    select = input("Statistics for which author?")
+    for author in all_authors:
+        if author.keybinding == select.lower():
+            logging.info("Getting statistics for {}".format(author.name))
+            print("{} selected.".format(author.name))
+            print("author # {}".format(author.my_number))
+            print("{} total bullets".format(len(author.all_bullets)))
+            print("{0} bullets have been sorted by rating {1}%".format(len(author.sorted_bullets), ((len(author.sorted_bullets) / len(author.all_bullets)) * 100)))
+            print("{0} bullets shown so far 'show only once {1}%'".format(len(author.bullets_returned_so_far), ((len(author.bullets_returned_so_far) / len(author.all_bullets)) * 100)))
+            print("# Rated")
+            print("[] Rated: 0".format(sum([bullet.count(0) for bullet in author.all_bullets])))
+            print("{} Rated: 1".format(sum([bullet.count(1) for bullet in author.all_bullets])))
+            print("{} Rated: 2".format(sum([bullet.count(2) for bullet in author.all_bullets])))
+            print("{} Rated: 3".format(sum([bullet.count(3) for bullet in author.all_bullets])))
+            print("{} Rated: 4".format(sum([bullet.count(4) for bullet in author.all_bullets])))
+            print("{} Rated: 5".format(sum([bullet.count(5) for bullet in author.all_bullets])))
+            
+
+def count_stats():
+    pass
 
 def delete_author():
     global all_authors

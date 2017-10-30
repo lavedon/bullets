@@ -4377,3 +4377,102 @@ INFO:Sorted Bob Bly's 101 bullets.:2017-10-30 18:50:23,868
 INFO:Sort bullets by rating togge is True:2017-10-30 18:50:23,869
 INFO:RATING_MODE_TOGGLE now set to: :2017-10-30 18:50:27,799
 INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 18:50:29,070
+INFO:Opened pickle config file from 'config.p':2017-10-30 19:22:58,356
+INFO:all_authors now equals: [<__main__.Author object at 0x037AC7D0>, <__main__.Author object at 0x037AC2D0>, <__main__.Author object at 0x037AC850>, <__main__.Author object at 0x037AC870>, <__main__.Author object at 0x037AC890>, <__main__.Author object at 0x037AC8D0>, <__main__.Author object at 0x037AC8F0>, <__main__.Author object at 0x037AC970>, <__main__.Author object at 0x037AC9D0>, <__main__.Author object at 0x037AC9F0>]:2017-10-30 19:22:58,358
+INFO:Saved pickle file to 'config.p':2017-10-30 19:23:04,028
+INFO:Opened pickle config file from 'config.p':2017-10-30 19:26:36,907
+INFO:all_authors now equals: [<__main__.Author object at 0x0382C7B0>, <__main__.Author object at 0x0382C2B0>, <__main__.Author object at 0x0382C830>, <__main__.Author object at 0x0382C850>, <__main__.Author object at 0x0382C870>, <__main__.Author object at 0x0382C8B0>, <__main__.Author object at 0x0382C8D0>, <__main__.Author object at 0x0382C950>, <__main__.Author object at 0x0382C9B0>, <__main__.Author object at 0x0382C9D0>]:2017-10-30 19:26:36,909
+INFO:Getting statistics for Bob Bly:2017-10-30 19:26:44,598
+INFO:Saved pickle file to 'config.p':2017-10-30 19:27:22,173
+INFO:Opened pickle config file from 'config.p':2017-10-30 19:48:40,932
+INFO:all_authors now equals: [<__main__.Author object at 0x030498F0>, <__main__.Author object at 0x030493D0>, <__main__.Author object at 0x03049970>, <__main__.Author object at 0x03049990>, <__main__.Author object at 0x030499B0>, <__main__.Author object at 0x030499F0>, <__main__.Author object at 0x03049A10>, <__main__.Author object at 0x03049A90>, <__main__.Author object at 0x03049AF0>, <__main__.Author object at 0x03049B10>]:2017-10-30 19:48:40,934
+INFO:Getting statistics for John Carlton:2017-10-30 19:48:45,351
+INFO:Saved pickle file to 'config.p':2017-10-30 19:48:55,537
+INFO:Opened pickle config file from 'config.p':2017-10-30 19:49:23,622
+INFO:all_authors now equals: [<__main__.Author object at 0x030698D0>, <__main__.Author object at 0x030693D0>, <__main__.Author object at 0x03069950>, <__main__.Author object at 0x03069970>, <__main__.Author object at 0x03069990>, <__main__.Author object at 0x030699D0>, <__main__.Author object at 0x030699F0>, <__main__.Author object at 0x03069A70>, <__main__.Author object at 0x03069AD0>, <__main__.Author object at 0x03069AF0>]:2017-10-30 19:49:23,624
+INFO:Getting statistics for Alex Carroll:2017-10-30 19:49:29,895
+INFO:Getting statistics for Ray Bullet Ideas:2017-10-30 19:49:46,623
+INFO:Saved pickle file to 'config.p':2017-10-30 19:50:11,513
+INFO:Opened pickle config file from 'config.p':2017-10-30 19:50:59,669
+INFO:all_authors now equals: [<__main__.Author object at 0x03239930>, <__main__.Author object at 0x03239410>, <__main__.Author object at 0x032399B0>, <__main__.Author object at 0x032399D0>, <__main__.Author object at 0x032399F0>, <__main__.Author object at 0x03239A30>, <__main__.Author object at 0x03239A50>, <__main__.Author object at 0x03239AD0>, <__main__.Author object at 0x03239B30>, <__main__.Author object at 0x03239B50>]:2017-10-30 19:50:59,671
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:51:04,758
+INFO:bullet number503 has been shown.:2017-10-30 19:51:04,758
+INFO:Getting statistics for Ray Bullet Ideas:2017-10-30 19:51:07,582
+INFO:Saved pickle file to 'config.p':2017-10-30 19:51:12,496
+INFO:Opened pickle config file from 'config.p':2017-10-30 19:51:39,255
+INFO:all_authors now equals: [<__main__.Author object at 0x035B9930>, <__main__.Author object at 0x035B9410>, <__main__.Author object at 0x035B99B0>, <__main__.Author object at 0x035B99D0>, <__main__.Author object at 0x035B99F0>, <__main__.Author object at 0x035B9A30>, <__main__.Author object at 0x035B9A50>, <__main__.Author object at 0x035B9AD0>, <__main__.Author object at 0x035B9B30>, <__main__.Author object at 0x035B9B50>]:2017-10-30 19:51:39,258
+INFO:Getting statistics for Ray Bullet Ideas:2017-10-30 19:51:47,319
+INFO:Called sort_bullets:2017-10-30 19:51:56,497
+INFO:User chose i author and to sort by rating 5:2017-10-30 19:52:00,575
+INFO:Returned sorted bullets for Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt:2017-10-30 19:52:00,577
+INFO:Sorted Ray Bullet Ideas's 36 bullets.:2017-10-30 19:52:00,577
+INFO:Sort bullets by rating togge is True:2017-10-30 19:52:00,577
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:52:02,783
+INFO:bullet number0 has been shown.:2017-10-30 19:52:02,783
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:52:07,533
+INFO:bullet number4 has been shown.:2017-10-30 19:52:07,534
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:52:11,078
+INFO:bullet number13 has been shown.:2017-10-30 19:52:11,078
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:52:13,478
+INFO:bullet number15 has been shown.:2017-10-30 19:52:13,478
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:52:15,518
+INFO:bullet number27 has been shown.:2017-10-30 19:52:15,518
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:52:18,535
+INFO:bullet number31 has been shown.:2017-10-30 19:52:18,535
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:52:20,430
+INFO:bullet number25 has been shown.:2017-10-30 19:52:20,430
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:52:22,702
+INFO:bullet number22 has been shown.:2017-10-30 19:52:22,702
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:52:26,765
+INFO:bullet number10 has been shown.:2017-10-30 19:52:26,765
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:52:30,357
+INFO:bullet number14 has been shown.:2017-10-30 19:52:30,357
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:52:33,510
+INFO:bullet number27 has been shown.:2017-10-30 19:52:33,510
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:52:36,685
+INFO:bullet number12 has been shown.:2017-10-30 19:52:36,686
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:52:40,519
+INFO:bullet number28 has been shown.:2017-10-30 19:52:40,519
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:52:42,582
+INFO:bullet number26 has been shown.:2017-10-30 19:52:42,582
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:52:45,351
+INFO:bullet number17 has been shown.:2017-10-30 19:52:45,351
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:52:50,790
+INFO:bullet number19 has been shown.:2017-10-30 19:52:50,790
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:52:52,414
+INFO:bullet number4 has been shown.:2017-10-30 19:52:52,414
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:52:55,125
+INFO:bullet number23 has been shown.:2017-10-30 19:52:55,126
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:52:57,197
+INFO:bullet number25 has been shown.:2017-10-30 19:52:57,198
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:52:59,054
+INFO:bullet number10 has been shown.:2017-10-30 19:52:59,054
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:53:01,118
+INFO:bullet number11 has been shown.:2017-10-30 19:53:01,118
+INFO:ONLY_SHOW_ONCE_TOGGLE now = True:2017-10-30 19:53:03,005
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:53:03,422
+INFO:bullet number29 has been shown.:2017-10-30 19:53:03,422
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:53:06,030
+INFO:bullet number3 has been shown.:2017-10-30 19:53:06,030
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:53:09,421
+INFO:bullet number20 has been shown.:2017-10-30 19:53:09,421
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:53:14,942
+INFO:bullet number21 has been shown.:2017-10-30 19:53:14,942
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:53:19,694
+INFO:bullet number35 has been shown.:2017-10-30 19:53:19,694
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:53:25,957
+INFO:bullet number2 has been shown.:2017-10-30 19:53:25,957
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:53:31,757
+INFO:bullet number30 has been shown.:2017-10-30 19:53:31,757
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:53:33,358
+INFO:bullet number24 has been shown.:2017-10-30 19:53:33,358
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:53:35,582
+INFO:bullet number18 has been shown.:2017-10-30 19:53:35,582
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:53:37,565
+INFO:bullet number9 has been shown.:2017-10-30 19:53:37,566
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:53:39,973
+INFO:bullet number1 has been shown.:2017-10-30 19:53:39,973
+INFO:User selected Author Ray Bullet Ideas #3.  Keybinding: i.  File Name F:/Writing/Agency/Dan Ray/ray_bullet_ideas.txt by pressing i:2017-10-30 19:53:41,758
+INFO:bullet number5 has been shown.:2017-10-30 19:53:41,758
+INFO:Getting statistics for Dan Ray Bombs:2017-10-30 19:53:51,782
+INFO:Saved pickle file to 'config.p':2017-10-30 19:54:06,402
