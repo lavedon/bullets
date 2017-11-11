@@ -91,7 +91,7 @@ def load_configuration():
     print("Loading config file....")
     all_authors = pickle.load(open(configFileName, "rb"))
     logging.info("Opened pickle config file from '{}'".format(configFileName))
-    logging.info("all_authors now equals: {}".format(str(all_authors)))
+    logging.info("all_authors now equals: {}".format(str([author.name for author in all_authors])))
 
 
 def load_author():
@@ -163,6 +163,7 @@ def menu_help():
     print("S to save")
     print("'Only' Only show bullets once mode.")
     print("'lc' to load a pickle file")
+    print("'del' to delete an author.")
     print("'export' to export a CSV file")
     try:
         if all_authors:

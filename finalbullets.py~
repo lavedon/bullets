@@ -91,7 +91,7 @@ def load_configuration():
     print("Loading config file....")
     all_authors = pickle.load(open(configFileName, "rb"))
     logging.info("Opened pickle config file from '{}'".format(configFileName))
-    logging.info("all_authors now equals: {}".format(str(all_authors)))
+    logging.info("all_authors now equals: {}".format(str([author.name for author in all_authors])))
 
 
 def load_author():
@@ -253,7 +253,7 @@ def get_stats():
             print("{0} bullets have been sorted by rating {1}%".format(len(author.sorted_bullets), ((len(author.sorted_bullets) / len(author.all_bullets)) * 100)))
             print("{0} bullets shown so far 'show only once {1}%'".format(len(author.bullets_returned_so_far), ((len(author.bullets_returned_so_far) / len(author.all_bullets)) * 100)))
             print("# Rated")
-            print("[] Rated: 0".format(sum([bullet.count(0) for bullet in author.all_bullets])))
+            print("{} Rated: 0".format(sum([bullet.count(0) for bullet in author.all_bullets])))
             print("{} Rated: 1".format(sum([bullet.count(1) for bullet in author.all_bullets])))
             print("{} Rated: 2".format(sum([bullet.count(2) for bullet in author.all_bullets])))
             print("{} Rated: 3".format(sum([bullet.count(3) for bullet in author.all_bullets])))
